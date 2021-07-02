@@ -39,9 +39,6 @@ http://swaida.com:9996/
 #EXTINF:0 group-title="Radio",Fuse-FM
 http://192.99.17.12:4986/;stream.mp3
 
-#EXTINF:0 group-title="Radio",Cham-Foreign
-http://radioliveb.rtv.gov.sy:8002/RadioCham
-
 #EXTINF:0 group-title="Radio",AmwajFm
 http://radioliveb.rtv.gov.sy:8002/RadioAmwaj
 
