@@ -11,11 +11,11 @@ http://teledunet.com:8080/live/azrotv/azrotv2021/10171.m3u8
 #EXTINF:0 group-title="Islamic",ALResala_Auto
 https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
 
-#EXTINF:0 group-title="Islamic",ALResala_1080
+#EXTINF:0 group-title="Islamic",ALResala1_1080
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10137.m3u8
 
-#EXTINF:0 group-title="Islamic",ALResala_1080
+#EXTINF:0 group-title="Islamic",ALResala2_1080
 https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index_1.m3u8
 
 #EXTINF:0 group-title="Islamic",ALRahma_400
