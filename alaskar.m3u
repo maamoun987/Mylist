@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10170.m3u8
 
-#EXTINF:0 group-title="1080",GEr
-https://iptv-org.github.io/iptv/languages/deu.m3u
-
-
 #EXTINF:0 group-title="Islamic",ON_Drama_400
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10171.m3u8
@@ -80,7 +76,6 @@ https://al-fath.live:5443/LiveApp/streams/698951263050359543194513.m3u8
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/14827.m3u8
 
-
 #EXTINF:0 group-title="Islamic",mawda_576
 http://82.212.74.98:8000/live/7821.m3u8
 
@@ -88,79 +83,56 @@ http://82.212.74.98:8000/live/7821.m3u8
 http://82.212.74.2:8000/live/7307.m3u8
 
 
-
-
-
-
-#EXTINF:0 group-title="Islamic_Radio",Sharjah_Quran_Radio
+#EXTINF:0 group-title="Islamic_Radio",Sharjah_Quran
 https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
 
 #EXTINF:0 group-title="Islamic_Radio",Tafsir by Al-Shaarawi
-http://quraan.us:9888
-
-#EXTINF:0 group-title="Islamic_Radio",Tafsir by Al-Shaarawi
-http://quraan.us:9888
+http://quraan.us:9888/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Quranic-Sciences_Mabahith-fi-Ulum Al-Quran
-http://quraan.us:9310
+http://quraan.us:9310/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Quranic-Sciences_Funun-al-Afnan-fi-Ajaib-Ulum-al-Quran
-http://quraan.us:9312
+http://quraan.us:9312/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Quranic-Sciences_Ghayat-al-Mureed-fi-Ilm-al-Tajweed
-http://quraan.us:9314
+http://quraan.us:9314/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Quranic-Sciences_Al-Ameed-fi-Ilm-al-Tajweed
-http://quraan.us:9316
+http://quraan.us:9316/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Translation_of_the_Quran_in_German
-http://quraan.us:9986
+http://quraan.us:9986/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Al-Affasy
-http://quraan.us:9922
+http://quraan.us:9922/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Al-Qtami
-http://quraan.us:9886
+http://quraan.us:9886/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Ash-Shatiri
-http://quraan.us:9892
+http://quraan.us:9892/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Al-Mmuaiqly
-http://quraan.us:9856
+http://quraan.us:9856/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Al-Dosari
-http://quraan.us:9884
+http://quraan.us:9884/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Al-Ghamidi
-http://quraan.us:9854
+http://quraan.us:9854/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Al-Yamani
-http://quraan.us:9784
+http://quraan.us:9784/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Idris-Abkar
-http://quraan.us:9300
+http://quraan.us:9300/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Al-Ajmi
-http://quraan.us:9852
+http://quraan.us:9852/;*.mp3
 
 #EXTINF:0 group-title="Islamic_Radio",Al-Husari
-http://quraan.us:9920
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://quraan.us:9920/;*.mp3
 
 
 #EXTINF:0 group-title="Radio",Ninar-FM
