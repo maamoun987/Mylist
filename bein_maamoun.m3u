@@ -1,4 +1,70 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Sports",BEIN SPORTS News HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/1884
+#EXTINF:-1 group-title="Sports",BEIN SPORTS HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/1885
+#EXTINF:-1 group-title="Sports",BEIN SPORTS NBA HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63912
+#EXTINF:-1 group-title="Sports",BEIN PREMUIM 1 HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/669
+#EXTINF:-1 group-title="Sports",BEIN PREMUIM 2 HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/667
+#EXTINF:-1 group-title="Sports",BEIN PREMUIM 3 HD 
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/665
+#EXTINF:-1 group-title="Sports",BEIN PREMUIM 1 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58417
+#EXTINF:-1 group-title="Sports",BEIN PREMUIM 2 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58418
+#EXTINF:-1 group-title="Sports",BEIN PREMUIM 3 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58419
+#EXTINF:-1 group-title="Sports",BIENSPORT 1 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58410
+#EXTINF:-1 group-title="Sports",BIENSPORT 2 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58411
+#EXTINF:-1 group-title="Sports",BIENSPORT 3 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58412
+#EXTINF:-1 group-title="Sports",BIENSPORT 4 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58413
+#EXTINF:-1 group-title="Sports",BIENSPORT 5 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58414
+#EXTINF:-1 group-title="Sports",BIENSPORT 6 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58415
+#EXTINF:-1 group-title="Sports",BIENSPORT 7 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58416
+#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_1_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/4751.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_2_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/4752.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_3_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/4753.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_1_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/14636.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_2_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/47520.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_3_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/47530.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_4_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/47540.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_5_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/14837.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_6_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/14838.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_7_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/14839.m3u8
+
+
+
 #EXTINF:-1,B S MAX 1 HD
 http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289046
 #EXTINF:-1,B S MAX 1 SD
@@ -24,47 +90,3 @@ http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289049
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289625
 #EXTINF:-1,BEIN SPORT MAX 2 4K
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289626
-
-#EXTINF:-1,beIN SPORTS MAX 1 HD
-http://ott4k.me:8000/50163596241962/87164282008426/176199
-#EXTINF:-1,beIN Sport Max 1 HD
-http://ott4k.me:8000/50163596241962/87164282008426/178605
-#EXTINF:-1,beIN SPORTS MAX 2 HD
-http://ott4k.me:8000/50163596241962/87164282008426/176198
-#EXTINF:-1,beIN Sport Max 2 HD
-http://ott4k.me:8000/50163596241962/87164282008426/178604
-#EXTINF:-1,beIN SPORTS MAX 1 FHD
-http://ott4k.me:8000/50163596241962/87164282008426/176193
-#EXTINF:-1,beIN SPORTS MAX 2 FHD
-http://ott4k.me:8000/50163596241962/87164282008426/176192
-#EXTINF:-1,beIN SPORTS MAX 1 4K
-http://ott4k.me:8000/50163596241962/87164282008426/176187
-#EXTINF:-1,beIN SPORTS MAX 2 4K
-http://ott4k.me:8000/50163596241962/87164282008426/176186
-#EXTINF:-1,beIN SPORTS MAX 1 SD
-http://ott4k.me:8000/50163596241962/87164282008426/176203
-#EXTINF:-1,beIN SPORTS MAX 2 SD
-http://ott4k.me:8000/50163596241962/87164282008426/176202
-
-#EXTINF:-1,beIN SPORTS MAX 1 HD
-http://ott4k.me:8000/50763373556889/12891907181223/176199
-#EXTINF:-1,beIN Sport Max 1 HD
-http://ott4k.me:8000/50763373556889/12891907181223/178605
-#EXTINF:-1,beIN SPORTS MAX 2 HD
-http://ott4k.me:8000/50763373556889/12891907181223/176198
-#EXTINF:-1,beIN Sport Max 2 HD
-http://ott4k.me:8000/50763373556889/12891907181223/178604
-#EXTINF:-1,beIN SPORTS MAX 1 FHD
-http://ott4k.me:8000/50763373556889/12891907181223/176193
-#EXTINF:-1,beIN SPORTS MAX 2 FHD
-http://ott4k.me:8000/50763373556889/12891907181223/176192
-
-#EXTINF:-1 ,beIN_SPORTS_1_4K
-http://x7hd.com:8888/najwan/najwan1234/3170
-#EXTINF:-1 ,beIN_SPORTS_2_4K
-http://x7hd.com:8888/najwan/najwan1234/3171
-
-#EXTINF:-1,AR: beIN Sports Max HD 1
-http://freeiptvgen.com:25461/38874/freeiptvgen/19952952
-#EXTINF:-1,AR: beIN Sports Max HD 2
-http://freeiptvgen.com:25461/38874/freeiptvgen/19952953
