@@ -162,9 +162,13 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persia
 #EXTINF:-1 group-title="1080",Lana_720
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1 group-title="720",Lana_720
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
+
 #EXTINF:-1 group-title="1080",Lana_576
-http://teledunet.com:8080/live/clave/clave/10023.m3u8
+http://ara2.teledunet.com:8080/live/clave/clave/10023.m3u8
+#EXTINF:-1 group-title="1080",Lana_test
+#EXTVLCOPT:http-referrer=http://www.teledunet.com/
+http://ara2.teledunet.com:8080/live/tdn/1056607999143/10023.m3u8
 #EXTINF:-1 group-title="720",Lana_576
 http://teledunet.com:8080/live/clave/clave/10023.m3u8
 #EXTINF:-1 group-title="1080",Lana_Plus_720
