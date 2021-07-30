@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:0 group-title="Islamic",ON_Egy_400
-http://teledunet.com:8080/live/clave/clave/10170.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2630
 #EXTINF:0 group-title="Islamic",ON_Drama_400
-http://teledunet.com:8080/live/clave/clave/10171.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2632
 #EXTINF:0 group-title="Islamic",ALResala_Auto
 https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
 #EXTINF:0 group-title="Islamic",ALResala1_1080
@@ -144,9 +144,9 @@ https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 #EXTINF:-1 group-title="720",Aljazeera_Docu_720
 https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
 #EXTINF:-1 group-title="1080",Aljazeera_Docu_576
-http://teledunet.com:8080/live/clave/clave/10040.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/50235
 #EXTINF:-1 group-title="720",Aljazeera_Docu_576
-http://teledunet.com:8080/live/clave/clave/10040.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/50235
 #EXTINF:-1 group-title="1080",Alaraby_1080
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="720",Alaraby_720
@@ -164,28 +164,32 @@ https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.
 #EXTINF:-1 group-title="720",Lana_720
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
 #EXTINF:-1 group-title="1080",Lana_576
-http://ara2.teledunet.com:8080/live/clave/clave/10023.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28167
+#EXTINF:-1 group-title="720",Lana_576
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28167
 #EXTINF:-1 group-title="1080",Lana_test
 #EXTVLCOPT:http-referrer=http://www.teledunet.com/
 http://ara2.teledunet.com:8080/live/tdn/1056607999143/10023.m3u8
-#EXTINF:-1 group-title="720",Lana_576
-http://teledunet.com:8080/live/clave/clave/10023.m3u8
 #EXTINF:-1 group-title="1080",Lana_Plus_720
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 #EXTINF:-1 group-title="720",Lana_Plus_720
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
+#EXTINF:-1 group-title="1080",Lana_Plus_576
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28629
+#EXTINF:-1 group-title="720",Lana_Plus_576
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28629
 #EXTINF:-1 group-title="1080",Syria_Sat_400
-http://teledunet.com:8080/live/clave/clave/10019.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1277
 #EXTINF:-1 group-title="720",Syria_Sat_400
-http://teledunet.com:8080/live/clave/clave/10019.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1277
 #EXTINF:-1 group-title="1080",Syria_Drama_400
-http://teledunet.com:8080/live/clave/clave/10020.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1394
 #EXTINF:-1 group-title="720",Syria_Drama_400
-http://teledunet.com:8080/live/clave/clave/10020.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1394
 #EXTINF:-1 group-title="1080",Sama_480
-http://stream.sama-tv.net:8080/hls/samatv.m3u8?720
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28166
 #EXTINF:-1 group-title="720",Sama_480
-http://stream.sama-tv.net:8080/hls/samatv.m3u8?720
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28166
 #EXTINF:-1 group-title="1080",SyriaTv_1080
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:-1 group-title="720",SyriaTv_480
@@ -283,13 +287,17 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_
 #EXTINF:-1 group-title="720",Dubai_One_720
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="1080",Art_Aflam_1_576
-http://teledunet.com:8080/live/clave/clave/101514.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68
 #EXTINF:-1 group-title="720",Art_Aflam_1_576
-http://teledunet.com:8080/live/clave/clave/101514.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68
 #EXTINF:-1 group-title="1080",Art_Aflam_2_576
-http://teledunet.com:8080/live/clave/clave/101515.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/69
 #EXTINF:-1 group-title="720",Art_Aflam_2_576
-http://teledunet.com:8080/live/clave/clave/101515.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/69
+#EXTINF:-1 group-title="1080",Art_Cinema_576
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/70
+#EXTINF:-1 group-title="720",Art_Cinema_576
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/70
 #EXTINF:-1 group-title="1080",Rotana_Cinema_KSA_1080
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
 #EXTINF:-1 group-title="720",Rotana_Cinema_KSA_720
@@ -323,21 +331,21 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 #EXTINF:-1 group-title="720",LBC_720
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_2.m3u8
 #EXTINF:-1 group-title="1080",AJadeed_720
-http://teledunet.com:8080/live/clave/clave/1148.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/8249
 #EXTINF:-1 group-title="720",AJadeed_720
-http://teledunet.com:8080/live/clave/clave/1148.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/8249
 #EXTINF:-1 group-title="1080",Future_TV_720
-http://teledunet.com:8080/live/clave/clave/10007.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/194
 #EXTINF:-1 group-title="720",Future_TV_720
-http://teledunet.com:8080/live/clave/clave/10007.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/194
 #EXTINF:-1 group-title="1080",OTV_720
-http://teledunet.com:8080/live/clave/clave/10015.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1317
 #EXTINF:-1 group-title="720",OTV_720
-http://teledunet.com:8080/live/clave/clave/10015.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1317
 #EXTINF:-1 group-title="1080",MTV_720
-http://teledunet.com:8080/live/clave/clave/10009.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/197
 #EXTINF:-1 group-title="720",MTV_720
-http://teledunet.com:8080/live/clave/clave/10009.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/197
 #EXTINF:-1 group-title="1080",Amman_Tv_720
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_1280x720_2200k.m3u8
 #EXTINF:-1 group-title="720",Amman_Tv_720
@@ -347,13 +355,13 @@ https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="720",Roya_Tv_720
 https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="1080",B4U_Aflam_576
-http://teledunet.com:8080/live/clave/clave/10102.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1413
 #EXTINF:-1 group-title="720",B4U_Aflam_576
-http://teledunet.com:8080/live/clave/clave/10102.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1413
 #EXTINF:-1 group-title="1080",ZEE_AFLAM_720
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1262
 #EXTINF:-1 group-title="720",ZEE_AFLAM_720
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1262
 #EXTINF:-1 group-title="1080",ZEE_ALWAN_720
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="720",ZEE_ALWAN_720
@@ -384,162 +392,365 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index_1.m3u8
 
 
-
-#EXTINF:-1 group-title="Sports",BEIN SPORTS News HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/1884
-#EXTINF:-1 group-title="Sports",BEIN SPORTS HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/1885
-#EXTINF:-1 group-title="Sports",BEIN SPORTS NBA HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63912
-#EXTINF:-1 group-title="Sports",BEIN PREMUIM 1 HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/669
-#EXTINF:-1 group-title="Sports",BEIN PREMUIM 2 HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/667
-#EXTINF:-1 group-title="Sports",BEIN PREMUIM 3 HD 
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/665
-#EXTINF:-1 group-title="Sports",BEIN PREMUIM 1 H265
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58417
-#EXTINF:-1 group-title="Sports",BEIN PREMUIM 2 H265
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58418
-#EXTINF:-1 group-title="Sports",BEIN PREMUIM 3 H265
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58419
-#EXTINF:-1 group-title="Sports",BIENSPORT 1 H265
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58410
-#EXTINF:-1 group-title="Sports",BIENSPORT 2 H265
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58411
-#EXTINF:-1 group-title="Sports",BIENSPORT 3 H265
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58412
-#EXTINF:-1 group-title="Sports",BIENSPORT 4 H265
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58413
-#EXTINF:-1 group-title="Sports",BIENSPORT 5 H265
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58414
-#EXTINF:-1 group-title="Sports",BIENSPORT 6 H265
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58415
-#EXTINF:-1 group-title="Sports",BIENSPORT 7 H265
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58416
-#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_1_720
-http://teledunet.com:8080/live/clave/clave/4751.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_2_720
-http://teledunet.com:8080/live/clave/clave/4752.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_3_720
-http://teledunet.com:8080/live/clave/clave/4753.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_1_720
-http://teledunet.com:8080/live/clave/clave/14636.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_2_720
-http://teledunet.com:8080/live/clave/clave/47520.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_3_720
-http://teledunet.com:8080/live/clave/clave/47530.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_4_720
-http://teledunet.com:8080/live/clave/clave/47540.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_5_720
-http://teledunet.com:8080/live/clave/clave/14837.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_6_720
-http://teledunet.com:8080/live/clave/clave/14838.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_7_720
-http://teledunet.com:8080/live/clave/clave/14839.m3u8
-
+#EXTM3U
+#EXTINF:-1,beIN Sports News FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/44
+#EXTINF:-1,beIN Sports News HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28939
+#EXTINF:-1,beIN Sports News HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22198
+#EXTINF:-1,beIN Sports Global FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/43
+#EXTINF:-1,beIN Sports Global HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28938
+#EXTINF:-1,beIN Sports Global  HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22199
+#EXTINF:-1,beIN SPORTS MAX 1 HD EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146122
+#EXTINF:-1,beIN-SPORTS MAX HD 1 EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/106199
+#EXTINF:-1,beIN SPORTS MAX 1 SD EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146118
+#EXTINF:-1,beIN SPORTS MAX 1 4K EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146126
+#EXTINF:-1,beIN SPORTS MAX 2 HD EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146123
+#EXTINF:-1,beIN-SPORTS MAX HD 2 EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/106200
+#EXTINF:-1,beIN SPORTS MAX 2 SD EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146119
+#EXTINF:-1,beIN SPORTS MAX 2 4K EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146127
+#EXTINF:-1,beIN SPORTS MAX 3 HD FR EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146124
+#EXTINF:-1,beIN-SPORTS MAX HD 3 FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/106201
+#EXTINF:-1,beIN SPORTS MAX 3 HD+ EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146153
+#EXTINF:-1,beIN SPORTS MAX 3 SD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146120
+#EXTINF:-1,beIN SPORTS MAX 3 4K FR EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146128
+#EXTINF:-1,beIN SPORTS MAX 4 HD FR EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146125
+#EXTINF:-1,beIN-SPORTS MAX HD 4 FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146062
+#EXTINF:-1,beIN SPORTS MAX 4 SD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146121
+#EXTINF:-1,beIN SPORTS MAX 4 4K FR EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146129
+#EXTINF:-1,beIN-SPORTS MAX HD 5
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146063
+#EXTINF:-1,beIN SPORTS MAX 5 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146158
+#EXTINF:-1,beIN-SPORTS MAX HD 6
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146064
+#EXTINF:-1,beIN SPORTS MAX 6 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146159
+#EXTINF:-1,beIN 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27692
+#EXTINF:-1,beIN Sports 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60708
+#EXTINF:-1,beIN Sports 1 PREMIUM HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1
+#EXTINF:-1,beIN Sports 1 PREMIUM HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/107
+#EXTINF:-1,beIN Sports 1 PREMIUM 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114053
+#EXTINF:-1,beIN Sports 1 PREMIUM HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3854
+#EXTINF:-1,beIN Sports 1 PREMIUM SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2541
+#EXTINF:-1,beIN Sports 2 PREMIUM HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2
+#EXTINF:-1,beIN Sports 2 PREMIUM HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108
+#EXTINF:-1,beIN Sports 2 PREMIUM 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114052
+#EXTINF:-1,beIN Sports 2 PREMIUM HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3853
+#EXTINF:-1,beIN Sports 2 PREMIUM SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2540
+#EXTINF:-1,beIN Sports 3 PREMIUM HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3
+#EXTINF:-1,beIN Sports 3 PREMIUM HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/109
+#EXTINF:-1,beIN Sports 3 PREMIUM 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114051
+#EXTINF:-1,beIN Sports 3 PREMIUM HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3852
+#EXTINF:-1,beIN Sports 3 PREMIUM SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2539
+#EXTINF:-1,beIN Sports 1 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/4
+#EXTINF:-1,beIN Sports 1 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/110
+#EXTINF:-1,beIN Sports 1 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114050
+#EXTINF:-1,beIN Sports 1 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3851
+#EXTINF:-1,beIN Sports 1 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2538
+#EXTINF:-1,beIN Sports 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/5
+#EXTINF:-1,beIN Sports 2 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/112
+#EXTINF:-1,beIN Sports 2 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114049
+#EXTINF:-1,beIN Sports 2 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3850
+#EXTINF:-1,beIN Sports 2 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10795
+#EXTINF:-1,beIN Sports 3 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/6
+#EXTINF:-1,beIN Sports 3 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/113
+#EXTINF:-1,beIN Sports 3 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114048
+#EXTINF:-1,beIN Sports 3 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3849
+#EXTINF:-1,beIN Sports 3 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2536
+#EXTINF:-1,beIN Sports 4HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/7
+#EXTINF:-1,beIN Sports 4 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114
+#EXTINF:-1,beIN Sports 4 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114047
+#EXTINF:-1,beIN Sports 4 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3848
+#EXTINF:-1,beIN Sports 4 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2535
+#EXTINF:-1,beIN Sports 5 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/8
+#EXTINF:-1,beIN Sports 5 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/115
+#EXTINF:-1,beIN Sports 5 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114046
+#EXTINF:-1,beIN Sports 5 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3847
+#EXTINF:-1,beIN Sports 5 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2534
+#EXTINF:-1,beIN Sports 6 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9
+#EXTINF:-1,beIN Sports 6 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/116
+#EXTINF:-1,beIN Sports 6 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114045
+#EXTINF:-1,beIN Sports 6 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10361
+#EXTINF:-1,beIN Sports 6 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2533
+#EXTINF:-1,beIN Sports 7 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10
+#EXTINF:-1,beIN Sports 7 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117
+#EXTINF:-1,beIN Sports 7 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114044
+#EXTINF:-1,beIN Sports 7 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10362
+#EXTINF:-1,beIN Sports 7 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2532
+#EXTINF:-1,beIN Sports XTRA 1 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117124
+#EXTINF:-1,beIN Sports XTRA 1 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117125
+#EXTINF:-1,beIN Sports XTRA 1 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117123
+#EXTINF:-1,beIN Sports XTRA 1 SD EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117126
+#EXTINF:-1,beIN Sports XTRA 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117129
+#EXTINF:-1,beIN Sports XTRA 2 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117130
+#EXTINF:-1,beIN Sports XTRA 2 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117128
+#EXTINF:-1,beIN Sports XTRA 2 SD EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117131
+#EXTINF:-1,beIN Sports 1 EN FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11
+#EXTINF:-1,beIN Sports 1 EN HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2531
+#EXTINF:-1,beIN Sports 1 EN HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22195
+#EXTINF:-1,beIN SPORTS 1 EN SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/49727
+#EXTINF:-1,beIN Sports 2 EN FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12
+#EXTINF:-1,beIN Sports 2 EN HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10369
+#EXTINF:-1,beIN Sports 2 EN HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22196
+#EXTINF:-1,beIN SPORTS 2 EN SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/49728
+#EXTINF:-1,beIN Sports 3 EN FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13
+#EXTINF:-1,beIN Sports 3 EN HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11015
+#EXTINF:-1,beIN Sports 3 EN HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22197
+#EXTINF:-1,beIN SPORTS 3 EN SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/49729
+#EXTINF:-1,beIN Sports 1 FHD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14
+#EXTINF:-1,beIN Sports 1 HD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11016
+#EXTINF:-1,beIN Sports 2 FHD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/15
+#EXTINF:-1,beIN Sports 2 HD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11017
+#EXTINF:-1,beIN Sports 3 FHD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/16
+#EXTINF:-1,beIN Sports 3 HD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11018
+#EXTINF:-1,beIN Sports Nba HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3845
+#EXTINF:-1,beIN Sports NBA SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/57044
+#EXTINF:-1,beIN Sports 1 PREMIUM HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108161
+#EXTINF:-1,beIN Sports 2 PREMIUM HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108162
+#EXTINF:-1,beIN Sports 3 PREMIUM HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108163
+#EXTINF:-1,beIN Sports 1 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108164
+#EXTINF:-1,beIN Sports 2 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108165
+#EXTINF:-1,beIN Sports 3 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108166
+#EXTINF:-1,beIN Sports 4 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108167
+#EXTINF:-1,beIN Sports 5 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108168
+#EXTINF:-1,beIN Sports 6 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108169
+#EXTINF:-1,beIN Sports 7 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108170
+#EXTINF:-1,Al Kass 1 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22837
+#EXTINF:-1,Al Kass 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22838
+#EXTINF:-1,Al Kass 3 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22839
+#EXTINF:-1,Al Kass 4 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22840
+#EXTINF:-1,Al Kass 5 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22841
+#EXTINF:-1,Al Kass 6 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22842
+#EXTINF:-1,Al Kass 7 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28271
+#EXTINF:-1,Al Kass 8 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/38857
+#EXTINF:-1,Al Kass online
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28272
 
 
 #EXTINF:-1 group-title="VIP_Bein",Bein_Movies_1_Premiere_1080
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/63894.m3u8.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14554
 #EXTINF:-1 group-title="VIP_Bein",Bein_Movies_2_Action_1080
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/63895.m3u8.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14555
 #EXTINF:-1 group-title="VIP_Bein",Bein_Movies_3_Drama_1080
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/63896.m3u8.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14556
 #EXTINF:-1 group-title="VIP_Bein",Bein_Movies_4_Family_1080
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/63897.m3u8.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14557
 #EXTINF:-1 group-title="VIP_Bein",Bein_Series_1_1080
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/63898.m3u8.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14559
 #EXTINF:-1 group-title="VIP_Bein",Bein_Series_2_1080
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/63899.m3u8.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14558
 #EXTINF:-1 group-title="VIP_Bein",Bein_Drama_1080
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/63911.m3u8.m3u8
-#EXTINF:-1 group-title="VIP_Bein",Bein_sports_1_1080
-http://dimapro.cz:8080/live/KzilaUMFaY/lUE9wE6vqE/682.m3u8.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14553
+#EXTINF:-1 group-title="VIP_Bein",beIN BEIN CINEMA HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/78432
+#EXTINF:-1 group-title="VIP_Bein",beIN BOX OFFICE HD 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/78440
+#EXTINF:-1 group-title="VIP_Bein",beIN BOX OFFICE HD 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/78441
 #EXTINF:-1 group-title="VIP_Bein",Bein_BARAEAM
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63900
-#EXTINF:-1 group-title="VIP_Bein",Bein_JEEM
+#EXTINF:-1 group-title="VIP_Bein",Bein_
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63901
 #EXTINF:-1 group-title="VIP_Bein",Bein BBC EARTH
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63903
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14569
 #EXTINF:-1 group-title="VIP_Bein",Bein FATAFEAT
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63904
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14551
 #EXTINF:-1 group-title="VIP_Bein",Bein FOX CRIME
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63905
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/59463
 #EXTINF:-1 group-title="VIP_Bein",Bein FOX LIFE
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63906
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/59460
 #EXTINF:-1 group-title="VIP_Bein",Bein FOX MOV ACTION
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63907
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77017
 #EXTINF:-1 group-title="VIP_Bein",Bein FOX MOVIES
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63908
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77018
 #EXTINF:-1 group-title="VIP_Bein",Bein FOX REWAYAT
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63909
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77019
 #EXTINF:-1 group-title="VIP_Bein",Bein GORMENT
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63910
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77020
 
 
 #EXTINF:-1 group-title="VIP_OSN",OSN ART Aflam 1
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18967
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68
 #EXTINF:-1 group-title="VIP_OSN",OSN ART Aflam 2
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18966
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/69
 #EXTINF:-1 group-title="VIP_OSN",OSN ART Cinema
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18965
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/70
 #EXTINF:-1 group-title="VIP_OSN",OSN ART Hekayat
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18964
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/66
 #EXTINF:-1 group-title="VIP_OSN",OSN ART Hekayat 2
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18963
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/67
 #EXTINF:-1 group-title="VIP_OSN",OSN Yahala HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18895
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/15041
 #EXTINF:-1 group-title="VIP_OSN",OSN Yahala Oula HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18896
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/24324
 #EXTINF:-1 group-title="VIP_OSN",OSN Yahala Cinema HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18898
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/24323
 #EXTINF:-1 group-title="VIP_OSN",OSN Cinema 1
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18959
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/726
 #EXTINF:-1 group-title="VIP_OSN",OSN Cinema 2
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18958
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/727
 #EXTINF:-1 group-title="VIP_OSN",OSN Al Youm HD
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18969
 #EXTINF:-1 group-title="VIP_OSN",OSN FANN
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18946
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9007
 #EXTINF:-1 group-title="VIP_OSN",OSN Musalsalat 2 HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18926
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9005
 #EXTINF:-1 group-title="VIP_OSN",OSN Musalsalat HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18925
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/728
 #EXTINF:-1 group-title="VIP_OSN",OSN BBC First HD
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18962
 #EXTINF:-1 group-title="VIP_OSN",OSN Cnn News
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18957
 #EXTINF:-1 group-title="VIP_OSN",OSN Sky News HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18912
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/25168
 #EXTINF:-1 group-title="VIP_OSN",OSN Animal Planet HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18968
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77012
 #EXTINF:-1 group-title="VIP_OSN",OSN National Geo HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18923
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/59455
 #EXTINF:-1 group-title="VIP_OSN",OSN National Geo People HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18922
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/59456
 #EXTINF:-1 group-title="VIP_OSN",OSN National Geo Wild HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18921
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1649
 #EXTINF:-1 group-title="VIP_OSN",OSN Discovery HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18953
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60922
 #EXTINF:-1 group-title="VIP_OSN",OSN Discovery ID HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18952
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60923
 #EXTINF:-1 group-title="VIP_OSN",OSN Discovery Family HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18954
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/137498
 #EXTINF:-1 group-title="VIP_OSN",OSN Discovery Science HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18951
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60924
 #EXTINF:-1 group-title="VIP_OSN",OSN Cartoon Network
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18960
 #EXTINF:-1 group-title="VIP_OSN",OSN Disney
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18950
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3855
 #EXTINF:-1 group-title="VIP_OSN",OSN Disney XD
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18948
 #EXTINF:-1 group-title="VIP_OSN",OSN Disney Junior
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18949
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60933
 #EXTINF:-1 group-title="VIP_OSN",OSN Kids Zone
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18940
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60938
 #EXTINF:-1 group-title="VIP_OSN",OSN Movies Kids HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18927
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/4759
 #EXTINF:-1 group-title="VIP_OSN",OSN Movies Disney Ar
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18933
 #EXTINF:-1 group-title="VIP_OSN",OSN Movies Disney HD
@@ -547,15 +758,15 @@ http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18932
 #EXTINF:-1 group-title="VIP_OSN",OSN  Nickelodeon Junior Ar
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18970
 #EXTINF:-1 group-title="VIP_OSN",OSN Nickelodeon
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18919
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60937
 #EXTINF:-1 group-title="VIP_OSN",OSN Living HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18939
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27736
 #EXTINF:-1 group-title="VIP_OSN",OSN Movies HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18928
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60906
 #EXTINF:-1 group-title="VIP_OSN",OSN On Demand
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18918
 #EXTINF:-1 group-title="VIP_OSN",OSN Movies Action HD
-http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18936
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60907
 #EXTINF:-1 group-title="VIP_OSN",OSN Movies First HD
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18929
 #EXTINF:-1 group-title="VIP_OSN",OSN Movies First  2 HD
