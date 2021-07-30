@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="Sports",BEIN SPORTS News HD
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/1884
 #EXTINF:-1 group-title="Sports",BEIN SPORTS HD
@@ -33,37 +32,25 @@ http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58415
 #EXTINF:-1 group-title="Sports",BIENSPORT 7 H265
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58416
 #EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_1_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/4751.m3u8
+http://teledunet.com:8080/live/clave/clave/4751.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_2_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/4752.m3u8
+http://teledunet.com:8080/live/clave/clave/4752.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_3_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/4753.m3u8
+http://teledunet.com:8080/live/clave/clave/4753.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_1_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14636.m3u8
+http://teledunet.com:8080/live/clave/clave/14636.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_2_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/47520.m3u8
+http://teledunet.com:8080/live/clave/clave/47520.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_3_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/47530.m3u8
+http://teledunet.com:8080/live/clave/clave/47530.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_4_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/47540.m3u8
+http://teledunet.com:8080/live/clave/clave/47540.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_5_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14837.m3u8
+http://teledunet.com:8080/live/clave/clave/14837.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_6_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14838.m3u8
+http://teledunet.com:8080/live/clave/clave/14838.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_7_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14839.m3u8
-
-
+http://teledunet.com:8080/live/clave/clave/14839.m3u8
 
 #EXTINF:-1,B S MAX 1 HD
 http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289046
