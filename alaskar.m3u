@@ -1,20 +1,16 @@
 #EXTM3U
 
 #EXTINF:0 group-title="Islamic",ON_Egy_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10170.m3u8
+http://teledunet.com:8080/live/clave/clave/10170.m3u8
 #EXTINF:0 group-title="Islamic",ON_Drama_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10171.m3u8
+http://teledunet.com:8080/live/clave/clave/10171.m3u8
 #EXTINF:0 group-title="Islamic",ALResala_Auto
 https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
 #EXTINF:0 group-title="Islamic",ALResala1_1080
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10137.m3u8
+http://teledunet.com:8080/live/clave/clave/10137.m3u8
 #EXTINF:0 group-title="Islamic",ALResala2_1080
 https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index_1.m3u8
 #EXTINF:0 group-title="Islamic",ALRahma_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
 http://arabictv.teledunet.com:8080/live/azrotv/azrotv2021/101542.m3u8
 #EXTINF:0 group-title="Islamic",Iqraa_576
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
@@ -36,17 +32,13 @@ http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:0 group-title="Islamic",Kuwait_Ithraa_Auto
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
 #EXTINF:0 group-title="Islamic",AlMajd_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/333625m3u8
+http://teledunet.com:8080/live/clave/clave/333625m3u8
 #EXTINF:0 group-title="Islamic",AlMajd_AlHadith_AlNabaoui_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/1112.m3u8
+http://teledunet.com:8080/live/clave/clave/1112.m3u8
 #EXTINF:0 group-title="Islamic",Azhari_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/333498.m3u8
+http://teledunet.com:8080/live/clave/clave/333498.m3u8
 #EXTINF:0 group-title="Islamic",Noor_AlSham_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10021.m3u8
+http://teledunet.com:8080/live/clave/clave/10021.m3u8
 #EXTINF:0 group-title="Islamic",Bahrain_Quran_720
 http://185.105.4.107:1935/live/Bahrain%20Quran/playlist.m3u8
 #EXTINF:0 group-title="Islamic",noble_1080
@@ -54,8 +46,7 @@ https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/playlist.m3u8
 #EXTINF:0 group-title="Islamic",AlFateh_576
 https://al-fath.live:5443/LiveApp/streams/698951263050359543194513.m3u8
 #EXTINF:0 group-title="Islamic",AlNas_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14827.m3u8
+http://teledunet.com:8080/live/clave/clave/14827.m3u8
 #EXTINF:0 group-title="Islamic",mawda_576
 http://82.212.74.98:8000/live/7821.m3u8
 #EXTINF:0 group-title="Islamic",AlAerth_576
@@ -153,11 +144,9 @@ https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 #EXTINF:-1 group-title="720",Aljazeera_Docu_720
 https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
 #EXTINF:-1 group-title="1080",Aljazeera_Docu_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10040.m3u8
+http://teledunet.com:8080/live/clave/clave/10040.m3u8
 #EXTINF:-1 group-title="720",Aljazeera_Docu_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10040.m3u8
+http://teledunet.com:8080/live/clave/clave/10040.m3u8
 #EXTINF:-1 group-title="1080",Alaraby_1080
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="720",Alaraby_720
@@ -175,27 +164,20 @@ https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3
 #EXTINF:-1 group-title="720",Lana_720
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1 group-title="1080",Lana_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10023.m3u8
+http://teledunet.com:8080/live/clave/clave/10023.m3u8
 #EXTINF:-1 group-title="720",Lana_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10023.m3u8
+http://teledunet.com:8080/live/clave/clave/10023.m3u8
 #EXTINF:-1 group-title="1080",Lana_Plus_720
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 #EXTINF:-1 group-title="720",Lana_Plus_720
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 #EXTINF:-1 group-title="1080",Syria_Sat_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10019.m3u8
+http://teledunet.com:8080/live/clave/clave/10019.m3u8
 #EXTINF:-1 group-title="720",Syria_Sat_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10019.m3u8
+http://teledunet.com:8080/live/tdn/tdn/10019.m3u8
 #EXTINF:-1 group-title="1080",Syria_Drama_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10020.m3u8
+http://teledunet.com:8080/live/clave/clave/10020.m3u8
 #EXTINF:-1 group-title="720",Syria_Drama_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10020.m3u8
 #EXTINF:-1 group-title="1080",Sama_480
 http://stream.sama-tv.net:8080/hls/samatv.m3u8?720
 #EXTINF:-1 group-title="720",Sama_480
@@ -297,17 +279,13 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_
 #EXTINF:-1 group-title="720",Dubai_One_720
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="1080",Art_Aflam_1_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101514.m3u8
+http://teledunet.com:8080/live/clave/clave/101514.m3u8
 #EXTINF:-1 group-title="720",Art_Aflam_1_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101514.m3u8
+http://teledunet.com:8080/live/clave/clave/101514.m3u8
 #EXTINF:-1 group-title="1080",Art_Aflam_2_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101515.m3u8
+http://teledunet.com:8080/live/clave/clave/101515.m3u8
 #EXTINF:-1 group-title="720",Art_Aflam_2_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101515.m3u8
+http://teledunet.com:8080/live/clave/clave/101515.m3u8
 #EXTINF:-1 group-title="1080",Rotana_Cinema_KSA_1080
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
 #EXTINF:-1 group-title="720",Rotana_Cinema_KSA_720
@@ -341,29 +319,21 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 #EXTINF:-1 group-title="720",LBC_720
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_2.m3u8
 #EXTINF:-1 group-title="1080",AJadeed_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/1148.m3u8
+http://teledunet.com:8080/live/clave/clave/1148.m3u8
 #EXTINF:-1 group-title="720",AJadeed_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/1148.m3u8
+http://teledunet.com:8080/live/clave/clave/1148.m3u8
 #EXTINF:-1 group-title="1080",Future_TV_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10007.m3u8
+http://teledunet.com:8080/live/clave/clave/10007.m3u8
 #EXTINF:-1 group-title="720",Future_TV_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10007.m3u8
+http://teledunet.com:8080/live/clave/clave/10007.m3u8
 #EXTINF:-1 group-title="1080",OTV_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8
+http://teledunet.com:8080/live/clave/clave/10015.m3u8
 #EXTINF:-1 group-title="720",OTV_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8
+http://teledunet.com:8080/live/clave/clave/10015.m3u8
 #EXTINF:-1 group-title="1080",MTV_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10009.m3u8
+http://teledunet.com:8080/live/clave/clave/10009.m3u8
 #EXTINF:-1 group-title="720",MTV_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10009.m3u8
+http://teledunet.com:8080/live/clave/clave/10009.m3u8
 #EXTINF:-1 group-title="1080",Amman_Tv_720
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_1280x720_2200k.m3u8
 #EXTINF:-1 group-title="720",Amman_Tv_720
@@ -373,11 +343,9 @@ https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="720",Roya_Tv_720
 https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="1080",B4U_Aflam_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10102.m3u8
+http://teledunet.com:8080/live/clave/clave/10102.m3u8
 #EXTINF:-1 group-title="720",B4U_Aflam_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10102.m3u8
+http://teledunet.com:8080/live/clave/clave/10102.m3u8
 #EXTINF:-1 group-title="1080",ZEE_AFLAM_720
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="720",ZEE_AFLAM_720
@@ -391,11 +359,9 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 #EXTINF:-1 group-title="720",Wanasah_720
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2.m3u8
 #EXTINF:-1 group-title="1080",Baraem_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101544.m3u8
+http://teledunet.com:8080/live/clave/clave/101544.m3u8
 #EXTINF:-1 group-title="720",Baraem_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101544.m3u8
+http://teledunet.com:8080/live/clave/clave/101544.m3u8
 #EXTINF:-1 group-title="1080",MAJID_BABY_1080
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="720",MAJID_BABY_720
@@ -448,35 +414,25 @@ http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58415
 #EXTINF:-1 group-title="Sports",BIENSPORT 7 H265
 http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58416
 #EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_1_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/4751.m3u8
+http://teledunet.com:8080/live/clave/clave/4751.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_2_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/4752.m3u8
+http://teledunet.com:8080/live/clave/clave/4752.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_3_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/4753.m3u8
+http://teledunet.com:8080/live/clave/clave/4753.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_1_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14636.m3u8
+http://teledunet.com:8080/live/clave/clave/14636.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_2_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/47520.m3u8
+http://teledunet.com:8080/live/clave/clave/47520.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_3_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/47530.m3u8
+http://teledunet.com:8080/live/clave/clave/47530.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_4_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/47540.m3u8
+http://teledunet.com:8080/live/clave/clave/47540.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_5_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14837.m3u8
+http://teledunet.com:8080/live/clave/clave/14837.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_6_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14838.m3u8
+http://teledunet.com:8080/live/clave/clave/14838.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_7_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14839.m3u8
+http://teledunet.com:8080/live/clave/clave/14839.m3u8
 
 
 
