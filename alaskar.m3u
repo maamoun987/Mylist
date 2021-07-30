@@ -160,10 +160,9 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persia
 #EXTINF:-1 group-title="720",BBC_Per_720
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="1080",Lana_720
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
 #EXTINF:-1 group-title="720",Lana_720
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
 #EXTINF:-1 group-title="1080",Lana_576
 http://ara2.teledunet.com:8080/live/clave/clave/10023.m3u8
 #EXTINF:-1 group-title="1080",Lana_test
@@ -182,6 +181,7 @@ http://teledunet.com:8080/live/clave/clave/10019.m3u8
 #EXTINF:-1 group-title="1080",Syria_Drama_400
 http://teledunet.com:8080/live/clave/clave/10020.m3u8
 #EXTINF:-1 group-title="720",Syria_Drama_400
+http://teledunet.com:8080/live/clave/clave/10020.m3u8
 #EXTINF:-1 group-title="1080",Sama_480
 http://stream.sama-tv.net:8080/hls/samatv.m3u8?720
 #EXTINF:-1 group-title="720",Sama_480
