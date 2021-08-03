@@ -7,7 +7,7 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2632
 #EXTINF:0 group-title="Islamic",ALResala_Auto
 https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
 #EXTINF:0 group-title="Islamic",ALResala1_1080
-http://teledunet.com:8080/live/clave/clave/10137.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/168
 #EXTINF:0 group-title="Islamic",ALResala2_1080
 https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index_1.m3u8
 #EXTINF:0 group-title="Islamic",ALRahma_400
@@ -44,7 +44,7 @@ http://185.105.4.107:1935/live/Bahrain%20Quran/playlist.m3u8
 #EXTINF:0 group-title="Islamic",noble_1080
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/playlist.m3u8
 #EXTINF:0 group-title="Islamic",AlFateh_576
-https://al-fath.live:5443/LiveApp/streams/698951263050359543194513.m3u8
+https://alfat7-q.com:5443/LiveApp/streams/076561079557295760364824.m3u8
 #EXTINF:0 group-title="Islamic",AlNas_400
 http://teledunet.com:8080/live/clave/clave/14827.m3u8
 #EXTINF:0 group-title="Islamic",mawda_576
@@ -68,17 +68,17 @@ http://quraan.us:9316/;*.mp3
 #EXTINF:0 group-title="Islamic_Radio",Translation_of_the_Quran_in_German
 http://quraan.us:9986/;*.mp3
 #EXTINF:0 group-title="Islamic_Radio",Al-Affasy
-http://quraan.us:9922/;*.mp3
+https://server03.quran.com.kw:10998/;*.mp3
 #EXTINF:0 group-title="Islamic_Radio",Al-Qtami
 http://quraan.us:9886/;*.mp3
 #EXTINF:0 group-title="Islamic_Radio",Ash-Shatiri
 http://quraan.us:9892/;*.mp3
 #EXTINF:0 group-title="Islamic_Radio",Al-Mmuaiqly
-http://quraan.us:9856/;*.mp3
+https://server03.quran.com.kw:7005/;*.mp3
 #EXTINF:0 group-title="Islamic_Radio",Al-Dosari
 http://quraan.us:9884/;*.mp3
 #EXTINF:0 group-title="Islamic_Radio",Al-Ghamidi
-http://quraan.us:9854/;*.mp3
+https://server03.quran.com.kw:7011/;*.mp3
 #EXTINF:0 group-title="Islamic_Radio",Al-Yamani
 http://quraan.us:9784/;*.mp3
 #EXTINF:0 group-title="Islamic_Radio",Idris-Abkar
@@ -86,9 +86,9 @@ http://quraan.us:9300/;*.mp3
 #EXTINF:0 group-title="Islamic_Radio",Al-Ajmi
 http://quraan.us:9852/;*.mp3
 #EXTINF:0 group-title="Islamic_Radio",Al-Husari
-http://quraan.us:9920/;*.mp3
-
-
+https://server03.quran.com.kw:7007/;*.mp3
+#EXTINF:0 group-title="Islamic_Radio",Abdul-Basit_Abdul-Samad
+https://server03.quran.com.kw:7000/;*.mp3
 
 #EXTINF:-1 group-title="Radio",Ninar-FM
 http://ninarfm.grtvstream.com:8896/stream
@@ -393,257 +393,257 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2
 
 
 #EXTM3U
-#EXTINF:-1,beIN Sports News FHD
+#EXTINF:-1 group-title="Sports",beIN Sports News FHD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/44
-#EXTINF:-1,beIN Sports News HD
+#EXTINF:-1 group-title="Sports",beIN Sports News HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28939
-#EXTINF:-1,beIN Sports News HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports News HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22198
-#EXTINF:-1,beIN Sports Global FHD
+#EXTINF:-1 group-title="Sports",beIN Sports Global FHD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/43
-#EXTINF:-1,beIN Sports Global HD
+#EXTINF:-1 group-title="Sports",beIN Sports Global HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28938
-#EXTINF:-1,beIN Sports Global  HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports Global  HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22199
-#EXTINF:-1,beIN SPORTS MAX 1 HD EURO 2020
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 1 HD EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146122
-#EXTINF:-1,beIN-SPORTS MAX HD 1 EURO 2020
+#EXTINF:-1 group-title="Sports",beIN-SPORTS MAX HD 1 EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/106199
-#EXTINF:-1,beIN SPORTS MAX 1 SD EURO 2020
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 1 SD EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146118
-#EXTINF:-1,beIN SPORTS MAX 1 4K EURO 2020
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 1 4K EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146126
-#EXTINF:-1,beIN SPORTS MAX 2 HD EURO 2020
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 2 HD EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146123
-#EXTINF:-1,beIN-SPORTS MAX HD 2 EURO 2020
+#EXTINF:-1 group-title="Sports",beIN-SPORTS MAX HD 2 EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/106200
-#EXTINF:-1,beIN SPORTS MAX 2 SD EURO 2020
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 2 SD EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146119
-#EXTINF:-1,beIN SPORTS MAX 2 4K EURO 2020
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 2 4K EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146127
-#EXTINF:-1,beIN SPORTS MAX 3 HD FR EURO 2020
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 3 HD FR EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146124
-#EXTINF:-1,beIN-SPORTS MAX HD 3 FR
+#EXTINF:-1 group-title="Sports",beIN-SPORTS MAX HD 3 FR
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/106201
-#EXTINF:-1,beIN SPORTS MAX 3 HD+ EURO 2020
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 3 HD+ EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146153
-#EXTINF:-1,beIN SPORTS MAX 3 SD FR
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 3 SD FR
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146120
-#EXTINF:-1,beIN SPORTS MAX 3 4K FR EURO 2020
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 3 4K FR EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146128
-#EXTINF:-1,beIN SPORTS MAX 4 HD FR EURO 2020
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 4 HD FR EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146125
-#EXTINF:-1,beIN-SPORTS MAX HD 4 FR
+#EXTINF:-1 group-title="Sports",beIN-SPORTS MAX HD 4 FR
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146062
-#EXTINF:-1,beIN SPORTS MAX 4 SD FR
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 4 SD FR
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146121
-#EXTINF:-1,beIN SPORTS MAX 4 4K FR EURO 2020
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 4 4K FR EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146129
-#EXTINF:-1,beIN-SPORTS MAX HD 5
+#EXTINF:-1 group-title="Sports",beIN-SPORTS MAX HD 5
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146063
-#EXTINF:-1,beIN SPORTS MAX 5 4K
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 5 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146158
-#EXTINF:-1,beIN-SPORTS MAX HD 6
+#EXTINF:-1 group-title="Sports",beIN-SPORTS MAX HD 6
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146064
-#EXTINF:-1,beIN SPORTS MAX 6 4K
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 6 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146159
-#EXTINF:-1,beIN 4K
+#EXTINF:-1 group-title="Sports",beIN 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27692
-#EXTINF:-1,beIN Sports 4K
+#EXTINF:-1 group-title="Sports",beIN Sports 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60708
-#EXTINF:-1,beIN Sports 1 PREMIUM HD
+#EXTINF:-1 group-title="Sports",beIN Sports 1 PREMIUM HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1
-#EXTINF:-1,beIN Sports 1 PREMIUM HD+
+#EXTINF:-1 group-title="Sports",beIN Sports 1 PREMIUM HD+
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/107
-#EXTINF:-1,beIN Sports 1 PREMIUM 4K
+#EXTINF:-1 group-title="Sports",beIN Sports 1 PREMIUM 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114053
-#EXTINF:-1,beIN Sports 1 PREMIUM HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 1 PREMIUM HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3854
-#EXTINF:-1,beIN Sports 1 PREMIUM SD
+#EXTINF:-1 group-title="Sports",beIN Sports 1 PREMIUM SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2541
-#EXTINF:-1,beIN Sports 2 PREMIUM HD
+#EXTINF:-1 group-title="Sports",beIN Sports 2 PREMIUM HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2
-#EXTINF:-1,beIN Sports 2 PREMIUM HD+
+#EXTINF:-1 group-title="Sports",beIN Sports 2 PREMIUM HD+
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108
-#EXTINF:-1,beIN Sports 2 PREMIUM 4K
+#EXTINF:-1 group-title="Sports",beIN Sports 2 PREMIUM 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114052
-#EXTINF:-1,beIN Sports 2 PREMIUM HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 2 PREMIUM HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3853
-#EXTINF:-1,beIN Sports 2 PREMIUM SD
+#EXTINF:-1 group-title="Sports",beIN Sports 2 PREMIUM SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2540
-#EXTINF:-1,beIN Sports 3 PREMIUM HD
+#EXTINF:-1 group-title="Sports",beIN Sports 3 PREMIUM HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3
-#EXTINF:-1,beIN Sports 3 PREMIUM HD+
+#EXTINF:-1 group-title="Sports",beIN Sports 3 PREMIUM HD+
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/109
-#EXTINF:-1,beIN Sports 3 PREMIUM 4K
+#EXTINF:-1 group-title="Sports",beIN Sports 3 PREMIUM 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114051
-#EXTINF:-1,beIN Sports 3 PREMIUM HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 3 PREMIUM HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3852
-#EXTINF:-1,beIN Sports 3 PREMIUM SD
+#EXTINF:-1 group-title="Sports",beIN Sports 3 PREMIUM SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2539
-#EXTINF:-1,beIN Sports 1 HD
+#EXTINF:-1 group-title="Sports",beIN Sports 1 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/4
-#EXTINF:-1,beIN Sports 1 HD+
+#EXTINF:-1 group-title="Sports",beIN Sports 1 HD+
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/110
-#EXTINF:-1,beIN Sports 1 4K
+#EXTINF:-1 group-title="Sports",beIN Sports 1 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114050
-#EXTINF:-1,beIN Sports 1 HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 1 HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3851
-#EXTINF:-1,beIN Sports 1 SD
+#EXTINF:-1 group-title="Sports",beIN Sports 1 SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2538
-#EXTINF:-1,beIN Sports 2 HD
+#EXTINF:-1 group-title="Sports",beIN Sports 2 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/5
-#EXTINF:-1,beIN Sports 2 HD+
+#EXTINF:-1 group-title="Sports",beIN Sports 2 HD+
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/112
-#EXTINF:-1,beIN Sports 2 4K
+#EXTINF:-1 group-title="Sports",beIN Sports 2 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114049
-#EXTINF:-1,beIN Sports 2 HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 2 HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3850
-#EXTINF:-1,beIN Sports 2 SD
+#EXTINF:-1 group-title="Sports",beIN Sports 2 SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10795
-#EXTINF:-1,beIN Sports 3 HD
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/6
-#EXTINF:-1,beIN Sports 3 HD+
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HD+
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/113
-#EXTINF:-1,beIN Sports 3 4K
+#EXTINF:-1 group-title="Sports",beIN Sports 3 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114048
-#EXTINF:-1,beIN Sports 3 HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3849
-#EXTINF:-1,beIN Sports 3 SD
+#EXTINF:-1 group-title="Sports",beIN Sports 3 SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2536
-#EXTINF:-1,beIN Sports 4HD
+#EXTINF:-1 group-title="Sports",beIN Sports 4HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/7
-#EXTINF:-1,beIN Sports 4 HD+
+#EXTINF:-1 group-title="Sports",beIN Sports 4 HD+
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114
-#EXTINF:-1,beIN Sports 4 4K
+#EXTINF:-1 group-title="Sports",beIN Sports 4 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114047
-#EXTINF:-1,beIN Sports 4 HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 4 HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3848
-#EXTINF:-1,beIN Sports 4 SD
+#EXTINF:-1 group-title="Sports",beIN Sports 4 SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2535
-#EXTINF:-1,beIN Sports 5 HD
+#EXTINF:-1 group-title="Sports",beIN Sports 5 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/8
-#EXTINF:-1,beIN Sports 5 HD+
+#EXTINF:-1 group-title="Sports",beIN Sports 5 HD+
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/115
-#EXTINF:-1,beIN Sports 5 4K
+#EXTINF:-1 group-title="Sports",beIN Sports 5 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114046
-#EXTINF:-1,beIN Sports 5 HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 5 HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3847
-#EXTINF:-1,beIN Sports 5 SD
+#EXTINF:-1 group-title="Sports",beIN Sports 5 SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2534
-#EXTINF:-1,beIN Sports 6 HD
+#EXTINF:-1 group-title="Sports",beIN Sports 6 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9
-#EXTINF:-1,beIN Sports 6 HD+
+#EXTINF:-1 group-title="Sports",beIN Sports 6 HD+
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/116
-#EXTINF:-1,beIN Sports 6 4K
+#EXTINF:-1 group-title="Sports",beIN Sports 6 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114045
-#EXTINF:-1,beIN Sports 6 HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 6 HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10361
-#EXTINF:-1,beIN Sports 6 SD
+#EXTINF:-1 group-title="Sports",beIN Sports 6 SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2533
-#EXTINF:-1,beIN Sports 7 HD
+#EXTINF:-1 group-title="Sports",beIN Sports 7 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10
-#EXTINF:-1,beIN Sports 7 HD+
+#EXTINF:-1 group-title="Sports",beIN Sports 7 HD+
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117
-#EXTINF:-1,beIN Sports 7 4K
+#EXTINF:-1 group-title="Sports",beIN Sports 7 4K
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114044
-#EXTINF:-1,beIN Sports 7 HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 7 HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10362
-#EXTINF:-1,beIN Sports 7 SD
+#EXTINF:-1 group-title="Sports",beIN Sports 7 SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2532
-#EXTINF:-1,beIN Sports XTRA 1 HD
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 1 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117124
-#EXTINF:-1,beIN Sports XTRA 1 HD+
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 1 HD+
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117125
-#EXTINF:-1,beIN Sports XTRA 1 HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 1 HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117123
-#EXTINF:-1,beIN Sports XTRA 1 SD EURO 2020
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 1 SD EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117126
-#EXTINF:-1,beIN Sports XTRA 2 HD
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 2 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117129
-#EXTINF:-1,beIN Sports XTRA 2 HD+
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 2 HD+
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117130
-#EXTINF:-1,beIN Sports XTRA 2 HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 2 HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117128
-#EXTINF:-1,beIN Sports XTRA 2 SD EURO 2020
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 2 SD EURO 2020
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117131
-#EXTINF:-1,beIN Sports 1 EN FHD
+#EXTINF:-1 group-title="Sports",beIN Sports 1 EN FHD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11
-#EXTINF:-1,beIN Sports 1 EN HD
+#EXTINF:-1 group-title="Sports",beIN Sports 1 EN HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2531
-#EXTINF:-1,beIN Sports 1 EN HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 1 EN HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22195
-#EXTINF:-1,beIN SPORTS 1 EN SD
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1 EN SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/49727
-#EXTINF:-1,beIN Sports 2 EN FHD
+#EXTINF:-1 group-title="Sports",beIN Sports 2 EN FHD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12
-#EXTINF:-1,beIN Sports 2 EN HD
+#EXTINF:-1 group-title="Sports",beIN Sports 2 EN HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10369
-#EXTINF:-1,beIN Sports 2 EN HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 2 EN HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22196
-#EXTINF:-1,beIN SPORTS 2 EN SD
+#EXTINF:-1 group-title="Sports",beIN SPORTS 2 EN SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/49728
-#EXTINF:-1,beIN Sports 3 EN FHD
+#EXTINF:-1 group-title="Sports",beIN Sports 3 EN FHD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13
-#EXTINF:-1,beIN Sports 3 EN HD
+#EXTINF:-1 group-title="Sports",beIN Sports 3 EN HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11015
-#EXTINF:-1,beIN Sports 3 EN HEVC
+#EXTINF:-1 group-title="Sports",beIN Sports 3 EN HEVC
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22197
-#EXTINF:-1,beIN SPORTS 3 EN SD
+#EXTINF:-1 group-title="Sports",beIN SPORTS 3 EN SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/49729
-#EXTINF:-1,beIN Sports 1 FHD FR
+#EXTINF:-1 group-title="Sports",beIN Sports 1 FHD FR
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14
-#EXTINF:-1,beIN Sports 1 HD FR
+#EXTINF:-1 group-title="Sports",beIN Sports 1 HD FR
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11016
-#EXTINF:-1,beIN Sports 2 FHD FR
+#EXTINF:-1 group-title="Sports",beIN Sports 2 FHD FR
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/15
-#EXTINF:-1,beIN Sports 2 HD FR
+#EXTINF:-1 group-title="Sports",beIN Sports 2 HD FR
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11017
-#EXTINF:-1,beIN Sports 3 FHD FR
+#EXTINF:-1 group-title="Sports",beIN Sports 3 FHD FR
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/16
-#EXTINF:-1,beIN Sports 3 HD FR
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HD FR
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11018
-#EXTINF:-1,beIN Sports Nba HD
+#EXTINF:-1 group-title="Sports",beIN Sports Nba HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3845
-#EXTINF:-1,beIN Sports NBA SD
+#EXTINF:-1 group-title="Sports",beIN Sports NBA SD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/57044
-#EXTINF:-1,beIN Sports 1 PREMIUM HD EN
+#EXTINF:-1 group-title="Sports",beIN Sports 1 PREMIUM HD EN
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108161
-#EXTINF:-1,beIN Sports 2 PREMIUM HD EN
+#EXTINF:-1 group-title="Sports",beIN Sports 2 PREMIUM HD EN
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108162
-#EXTINF:-1,beIN Sports 3 PREMIUM HD EN
+#EXTINF:-1 group-title="Sports",beIN Sports 3 PREMIUM HD EN
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108163
-#EXTINF:-1,beIN Sports 1 HD EN
+#EXTINF:-1 group-title="Sports",beIN Sports 1 HD EN
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108164
-#EXTINF:-1,beIN Sports 2 HD EN
+#EXTINF:-1 group-title="Sports",beIN Sports 2 HD EN
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108165
-#EXTINF:-1,beIN Sports 3 HD EN
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HD EN
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108166
-#EXTINF:-1,beIN Sports 4 HD EN
+#EXTINF:-1 group-title="Sports",beIN Sports 4 HD EN
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108167
-#EXTINF:-1,beIN Sports 5 HD EN
+#EXTINF:-1 group-title="Sports",beIN Sports 5 HD EN
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108168
-#EXTINF:-1,beIN Sports 6 HD EN
+#EXTINF:-1 group-title="Sports",beIN Sports 6 HD EN
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108169
-#EXTINF:-1,beIN Sports 7 HD EN
+#EXTINF:-1 group-title="Sports",beIN Sports 7 HD EN
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108170
-#EXTINF:-1,Al Kass 1 HD
+#EXTINF:-1 group-title="Sports",Al Kass 1 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22837
-#EXTINF:-1,Al Kass 2 HD
+#EXTINF:-1 group-title="Sports",Al Kass 2 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22838
-#EXTINF:-1,Al Kass 3 HD
+#EXTINF:-1 group-title="Sports",Al Kass 3 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22839
-#EXTINF:-1,Al Kass 4 HD
+#EXTINF:-1 group-title="Sports",Al Kass 4 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22840
-#EXTINF:-1,Al Kass 5 HD
+#EXTINF:-1 group-title="Sports",Al Kass 5 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22841
-#EXTINF:-1,Al Kass 6 HD
+#EXTINF:-1 group-title="Sports",Al Kass 6 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22842
-#EXTINF:-1,Al Kass 7 HD
+#EXTINF:-1 group-title="Sports",Al Kass 7 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28271
-#EXTINF:-1,Al Kass 8 HD
+#EXTINF:-1 group-title="Sports",Al Kass 8 HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/38857
-#EXTINF:-1,Al Kass online
+#EXTINF:-1 group-title="Sports",Al Kass online
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28272
 
 
