@@ -1,140 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 group-title="Islamic",ON_Egy_400
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2630
-#EXTINF:0 group-title="Islamic",ON_Drama_400
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2632
-#EXTINF:0 group-title="Islamic",ALResala_Auto
-https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
-#EXTINF:0 group-title="Islamic",ALResala1_1080
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/168
-#EXTINF:0 group-title="Islamic",ALResala2_1080
-https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index_1.m3u8
-#EXTINF:0 group-title="Islamic",ALRahma_400
-http://arabictv.teledunet.com:8080/live/azrotv/azrotv2021/101542.m3u8
-#EXTINF:0 group-title="Islamic",Iqraa_576
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="Islamic",Iqraa_Europe_Africa_576
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="Islamic",AlSunna_AlNabawiyah_720
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:0 group-title="Islamic",AlQuran_AlKareem_720
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:0 group-title="Islamic",Makka_480
-http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
-#EXTINF:0 group-title="Islamic",Daawa_720
-#EXTVLCOPT:http-referrer=c55b3971-888f-4bee-bee6-0928f3388383
-http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
-#EXTINF:0 group-title="Islamic",Alnada_720
-https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
-#EXTINF:0 group-title="Islamic",Alistiqama_576
-http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:0 group-title="Islamic",Kuwait_Ithraa_Auto
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
-#EXTINF:0 group-title="Islamic",AlMajd_720
-http://teledunet.com:8080/live/clave/clave/333625m3u8
-#EXTINF:0 group-title="Islamic",AlMajd_AlHadith_AlNabaoui_576
-http://teledunet.com:8080/live/clave/clave/1112.m3u8
-#EXTINF:0 group-title="Islamic",Azhari_400
-http://teledunet.com:8080/live/clave/clave/333498.m3u8
-#EXTINF:0 group-title="Islamic",Noor_AlSham_400
-http://teledunet.com:8080/live/clave/clave/10021.m3u8
-#EXTINF:0 group-title="Islamic",Bahrain_Quran_720
-http://185.105.4.107:1935/live/Bahrain%20Quran/playlist.m3u8
-#EXTINF:0 group-title="Islamic",noble_1080
-https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/playlist.m3u8
-#EXTINF:0 group-title="Islamic",AlFateh_576
-https://alfat7-q.com:5443/LiveApp/streams/076561079557295760364824.m3u8
-#EXTINF:0 group-title="Islamic",AlNas_400
-http://teledunet.com:8080/live/clave/clave/14827.m3u8
-#EXTINF:0 group-title="Islamic",mawda_576
-http://82.212.74.98:8000/live/7821.m3u8
-#EXTINF:0 group-title="Islamic",AlAerth_576
-http://82.212.74.2:8000/live/7307.m3u8
-
-
-#EXTINF:0 group-title="Islamic_Radio",Sharjah_Quran
-https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
-#EXTINF:0 group-title="Islamic_Radio",Tafsir by Al-Shaarawi
-http://quraan.us:9888/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Quranic-Sciences_Mabahith-fi-Ulum Al-Quran
-http://quraan.us:9310/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Quranic-Sciences_Funun-al-Afnan-fi-Ajaib-Ulum-al-Quran
-http://quraan.us:9312/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Quranic-Sciences_Ghayat-al-Mureed-fi-Ilm-al-Tajweed
-http://quraan.us:9314/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Quranic-Sciences_Al-Ameed-fi-Ilm-al-Tajweed
-http://quraan.us:9316/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Translation_of_the_Quran_in_German
-http://quraan.us:9986/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Affasy
-https://server03.quran.com.kw:10998/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Qtami
-http://quraan.us:9886/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Ash-Shatiri
-http://quraan.us:9892/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Mmuaiqly
-https://server03.quran.com.kw:7005/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Dosari
-http://quraan.us:9884/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Ghamidi
-https://server03.quran.com.kw:7011/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Yamani
-http://quraan.us:9784/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Idris-Abkar
-http://quraan.us:9300/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Ajmi
-http://quraan.us:9852/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Husari
-https://server03.quran.com.kw:7007/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Abdul-Basit_Abdul-Samad
-https://server03.quran.com.kw:7000/;*.mp3
-
-#EXTINF:-1 group-title="Radio",Ninar-FM
-http://ninarfm.grtvstream.com:8896/stream
-#EXTINF:-1 group-title="Radio",Sham-FM
-https://radioshamfm.grtvstream.com:8400/
-#EXTINF:-1 group-title="Radio",Almadina-FM
-https://stream.almadinafm.com/;stream.mp3
-#EXTINF:-1 group-title="Radio",RotanaTarab-FM
-http://188.247.86.67:8008/2
-#EXTINF:-1 group-title="Radio",Melody-FM
-http://streaming.inet.sy:8000/melodyfm
-#EXTINF:-1 group-title="Radio",Farah-FM	
-https://radio.farah.fm/?type=http
-#EXTINF:-1 group-title="Radio",Dimshq-FM
-http://radioliveb.rtv.gov.sy:8002/RadioDimshq
-#EXTINF:-1 group-title="Radio",Souryana-FM
-http://radioliveb.rtv.gov.sy:8008/RadioSouryana
-#EXTINF:-1 group-title="Radio",Shabab-FM
-http://radioliveb.rtv.gov.sy:8002/RadioShabab
-#EXTINF:-1 group-title="Radio",Sada-FM
-http://sc8new.shoutcaststreaming.us:8032/stream.mp3
-#EXTINF:-1 group-title="Radio",Rayan-FM
-http://78.129.150.144/live.mp3?typeportmount=s1_28227_stream_574542785
-#EXTINF:-1 group-title="Radio",Sadaljabl-FM
-http://148.251.92.51:9342/stream
-#EXTINF:-1 group-title="Radio",Swaida-FM
-http://swaida.com:9996/
-#EXTINF:-1 group-title="Radio",Fuse-FM
-http://192.99.17.12:4986/;stream.mp3
-#EXTINF:-1 group-title="Radio",Cham-Foreign
-http://radioliveb.rtv.gov.sy:8002/RadioCham
-#EXTINF:-1 group-title="Radio",AmwajFm
-http://radioliveb.rtv.gov.sy:8002/RadioAmwaj
-#EXTINF:-1 group-title="Radio",Zenobia-FM
-http://radioliveb.rtv.gov.sy:8002/RadioZenobia
-#EXTINF:-1 group-title="Radio",Arabesque-FM
-http://185.4.87.79:8000/stream.mp3
-#EXTINF:-1 group-title="Radio",Mix_FM
-https://stream.mixfmsyria.net/;stream.mp3
-#EXTINF:-1 group-title="Radio",Sedra_FM
-https://livessl.rcast.net/stream/67257.mp3
-#EXTINF:-1 group-title="Radio",Version_FM
-http://162.0.230.103:8000/
-
-
-
 #EXTINF:-1 group-title="1080",Aljazeera_1080
 https://live-hls-aja-ak.getaj.net/AJA/01.m3u8
 #EXTINF:-1 group-title="720",Aljazeera_720
@@ -167,9 +32,6 @@ https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28167
 #EXTINF:-1 group-title="720",Lana_576
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28167
-#EXTINF:-1 group-title="1080",Lana_test
-#EXTVLCOPT:http-referrer=http://www.teledunet.com/
-http://ara2.teledunet.com:8080/live/tdn/1056607999143/10023.m3u8
 #EXTINF:-1 group-title="1080",Lana_Plus_720
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 #EXTINF:-1 group-title="720",Lana_Plus_720
@@ -392,7 +254,7 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index_1.m3u8
 
 
-#EXTM3U
+
 #EXTINF:-1 group-title="Sports",beIN Sports News FHD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/44
 #EXTINF:-1 group-title="Sports",beIN Sports News HD
@@ -647,6 +509,7 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/38857
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28272
 
 
+
 #EXTINF:-1 group-title="VIP_Bein",Bein_Movies_1_Premiere_1080
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14554
 #EXTINF:-1 group-title="VIP_Bein",Bein_Movies_2_Action_1080
@@ -687,6 +550,7 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77018
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77019
 #EXTINF:-1 group-title="VIP_Bein",Bein GORMENT
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77020
+
 
 
 #EXTINF:-1 group-title="VIP_OSN",OSN ART Aflam 1
@@ -804,6 +668,150 @@ http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18902
 
 
 
+#EXTINF:-1 group-title="Syrian_Radio",Ninar-FM
+http://ninarfm.grtvstream.com:8896/stream
+#EXTINF:-1 group-title="Syrian_Radio",Sham-FM
+https://Syrian_Radioshamfm.grtvstream.com:8400/
+#EXTINF:-1 group-title="Syrian_Radio",Almadina-FM
+https://stream.almadinafm.com/;stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
+http://188.247.86.67:8008/2
+#EXTINF:-1 group-title="Syrian_Radio",Melody-FM
+http://streaming.inet.sy:8000/melodyfm
+#EXTINF:-1 group-title="Syrian_Radio",Farah-FM	
+https://Syrian_Radio.farah.fm/?type=http
+#EXTINF:-1 group-title="Syrian_Radio",Dimshq-FM
+http://Syrian_Radioliveb.rtv.gov.sy:8002/Syrian_RadioDimshq
+#EXTINF:-1 group-title="Syrian_Radio",Souryana-FM
+http://Syrian_Radioliveb.rtv.gov.sy:8008/Syrian_RadioSouryana
+#EXTINF:-1 group-title="Syrian_Radio",Shabab-FM
+http://Syrian_Radioliveb.rtv.gov.sy:8002/Syrian_RadioShabab
+#EXTINF:-1 group-title="Syrian_Radio",Sada-FM
+http://sc8new.shoutcaststreaming.us:8032/stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Rayan-FM
+http://78.129.150.144/live.mp3?typeportmount=s1_28227_stream_574542785
+#EXTINF:-1 group-title="Syrian_Radio",Sadaljabl-FM
+http://148.251.92.51:9342/stream
+#EXTINF:-1 group-title="Syrian_Radio",Swaida-FM
+http://swaida.com:9996/
+#EXTINF:-1 group-title="Syrian_Radio",Fuse-FM
+http://192.99.17.12:4986/;stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Cham-Foreign
+http://Syrian_Radioliveb.rtv.gov.sy:8002/Syrian_RadioCham
+#EXTINF:-1 group-title="Syrian_Radio",AmwajFm
+http://Syrian_Radioliveb.rtv.gov.sy:8002/Syrian_RadioAmwaj
+#EXTINF:-1 group-title="Syrian_Radio",Zenobia-FM
+http://Syrian_Radioliveb.rtv.gov.sy:8002/Syrian_RadioZenobia
+#EXTINF:-1 group-title="Syrian_Radio",Arabesque-FM
+http://185.4.87.79:8000/stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Mix_FM
+https://stream.mixfmsyria.net/;stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Sedra_FM
+https://livessl.rcast.net/stream/67257.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Version_FM
+http://162.0.230.103:8000/
+
+
+
+#EXTINF:0 group-title="Islamic",ON_Egy_400
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2630
+#EXTINF:0 group-title="Islamic",ON_Drama_400
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2632
+#EXTINF:0 group-title="Islamic",ALResala_Auto
+https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
+#EXTINF:0 group-title="Islamic",ALResala1_1080
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/168
+#EXTINF:0 group-title="Islamic",ALResala2_1080
+https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index_1.m3u8
+#EXTINF:0 group-title="Islamic",ALRahma_400
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28183
+#EXTINF:0 group-title="Islamic",Iqraa_576
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="Islamic",Iqraa_Europe_Africa_576
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="Islamic",AlSunna_AlNabawiyah_720
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/49265
+#EXTINF:0 group-title="Islamic",AlQuran_AlKareem_720
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/49266
+#EXTINF:0 group-title="Islamic",Makka_480
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+#EXTINF:0 group-title="Islamic",Alnada_720
+https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
+#EXTINF:0 group-title="Islamic",Alistiqama_576
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:0 group-title="Islamic",Kuwait_Ithraa_Auto
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
+#EXTINF:0 group-title="Islamic",AlMajd_576
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2475
+#EXTINF:0 group-title="Islamic",AlMajd_AlHadith_AlNabaoui_576
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2474
+#EXTINF:0 group-title="Islamic",Azhari_400
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28234
+#EXTINF:0 group-title="Islamic",Noor_AlSham_400
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1323
+#EXTINF:0 group-title="Islamic",Bahrain_Quran_720
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28184
+#EXTINF:0 group-title="Islamic",AlFateh_576
+https://alfat7-q.com:5443/LiveApp/streams/076561079557295760364824.m3u8
+#EXTINF:0 group-title="Islamic",AlNas_400
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/171
+#EXTINF:0 group-title="Islamic",mawda_576
+http://82.212.74.98:8000/live/7821.m3u8
+#EXTINF:0 group-title="Islamic",AlAerth_576
+http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:-1 group-title="Islamic",Ahel Al Quran
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28185
+#EXTINF:-1 group-title="Islamic",Mahaba tv
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28180
+#EXTINF:-1 group-title="Islamic",KAIFA
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1421
+#EXTINF:0 group-title="Islamic",Daawa_720
+#EXTVLCOPT:http-referrer=c55b3971-888f-4bee-bee6-0928f3388383
+http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
+
+
+
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Sharjah_Quran
+https://svs.itworkscdn.net/smcquranlive/quranSyrian_Radiolive/chunks.m3u8
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Tafsir by Al-Shaarawi
+http://quraan.us:9888/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Quranic-Sciences_Mabahith-fi-Ulum Al-Quran
+http://quraan.us:9310/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Quranic-Sciences_Funun-al-Afnan-fi-Ajaib-Ulum-al-Quran
+http://quraan.us:9312/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Quranic-Sciences_Ghayat-al-Mureed-fi-Ilm-al-Tajweed
+http://quraan.us:9314/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Quranic-Sciences_Al-Ameed-fi-Ilm-al-Tajweed
+http://quraan.us:9316/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Translation_of_the_Quran_in_German
+http://quraan.us:9986/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Al-Affasy
+https://server03.quran.com.kw:10998/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Al-Qtami
+http://quraan.us:9886/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Ash-Shatiri
+http://quraan.us:9892/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Al-Mmuaiqly
+https://server03.quran.com.kw:7005/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Al-Dosari
+http://quraan.us:9884/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Al-Ghamidi
+https://server03.quran.com.kw:7011/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Al-Yamani
+http://quraan.us:9784/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Idris-Abkar
+http://quraan.us:9300/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Al-Ajmi
+http://quraan.us:9852/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Al-Husari
+https://server03.quran.com.kw:7007/;*.mp3
+#EXTINF:0 group-title="Islamic_Syrian_Radio",Abdul-Basit_Abdul-Samad
+https://server03.quran.com.kw:7000/;*.mp3
+
+
+
+
+
 #EXTINF:-1 group-title="iran",Manoto_1080
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 #EXTINF:-1 group-title="iran",Manoto_720
@@ -915,9 +923,9 @@ https://live2.telvi.de/hls/hamburg1.m3u8
 https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
 #EXTINF:-1 tvg-id="HealthTV.de" tvg-name="Health TV" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Health TV (720p)
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HitradioO3.at" tvg-name="Hitradio Ö3" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="Germany",Hitradio Ö3 (360p)
+#EXTINF:-1 tvg-id="HitSyrian_RadioO3.at" tvg-name="HitSyrian_Radio Ö3" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="Germany",HitSyrian_Radio Ö3 (360p)
 http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
-#EXTINF:-1 tvg-id="HitradioO3Webradio.at" tvg-name="Hitradio Ö3 (Webradio)" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="Germany",Hitradio Ö3 (Webradio)
+#EXTINF:-1 tvg-id="HitSyrian_RadioO3WebSyrian_Radio.at" tvg-name="HitSyrian_Radio Ö3 (WebSyrian_Radio)" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="Germany",HitSyrian_Radio Ö3 (WebSyrian_Radio)
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTINF:-1 tvg-id="HSE.de" tvg-name="HSE" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",HSE (1080p)
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
@@ -1103,14 +1111,14 @@ http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live
 http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="R9.at" tvg-name="R9" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/Wu6SMvb.png" group-title="Germany",R9 (720p)
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio21TV.de" tvg-name="Radio 21 TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" group-title="Germany",Radio 21 TV (720p)
+#EXTINF:-1 tvg-id="Syrian_Radio21TV.de" tvg-name="Syrian_Radio 21 TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" group-title="Germany",Syrian_Radio 21 TV (720p)
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1 tvg-id="Radio3iWebradio.ch" tvg-name="Radio 3i (Webradio)" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="Germany",Radio 3i (Webradio) (720p)
-https://livestream.gruppocdt.ch/hls/radio3i.m3u8
-#EXTINF:-1 tvg-id="RadioPilatusTV.ch" tvg-name="Radio Pilatus TV" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="Germany",Radio Pilatus TV (1080p)
+#EXTINF:-1 tvg-id="Syrian_Radio3iWebSyrian_Radio.ch" tvg-name="Syrian_Radio 3i (WebSyrian_Radio)" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="Germany",Syrian_Radio 3i (WebSyrian_Radio) (720p)
+https://livestream.gruppocdt.ch/hls/Syrian_Radio3i.m3u8
+#EXTINF:-1 tvg-id="Syrian_RadioPilatusTV.ch" tvg-name="Syrian_Radio Pilatus TV" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="Germany",Syrian_Radio Pilatus TV (1080p)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-name="Radio Weser TV Bremen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="Germany",Radio Weser TV Bremen (576p)
-https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Syrian_RadioWeserTVBremen.de" tvg-name="Syrian_Radio Weser TV Bremen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="Germany",Syrian_Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/Syrian_Radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesAustria.es" tvg-name="Rakuten TV Action Movies Austria" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="Germany",Rakuten TV Action Movies Austria (720p)
 https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesGermany.es" tvg-name="Rakuten TV Action Movies Germany" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="Germany",Rakuten TV Action Movies Germany (720p)
@@ -1216,7 +1224,7 @@ https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist
 #EXTINF:-1 tvg-id="TVO.de" tvg-name="TVO" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",TVO (1080p)
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Unserding.de" tvg-name="Unserding" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" group-title="Germany",Unserding (544p)
-https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
+https://srunserding-lh.akamaihd.net/i/visualSyrian_Radio_ud@197013/master.m3u8
 #EXTINF:-1 tvg-id="W24.at" tvg-name="W24" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/J25y9ah.png" group-title="Germany",W24 (720p)
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="http://www.yilmaztv.com/logo/wdr.png" group-title="Germany",WDR Fernsehen (720p)
