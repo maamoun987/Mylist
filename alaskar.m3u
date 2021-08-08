@@ -42,10 +42,12 @@ http://teledunet.com:8080/live/azrotv/azrotv2021/10023.m3u8
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 #EXTINF:-1 group-title="720",Lana_Plus_720
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-#EXTINF:-1 group-title="1080",Lana_Plus2_720
-http://www.teledunet.com:8080/live/tdn/tdn/1151.ts
-#EXTINF:-1 group-title="720",Lana_Plus2_720
-http://www.teledunet.com:8080/live/tdn/tdn/1151.ts
+#EXTINF:-1 group-title="1080",Lana_Plus2_576
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/1151.m3u8
+#EXTINF:-1 group-title="720",Lana_Plus2_576
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/1151.m3u8
 #EXTINF:-1 group-title="1080",Syria_Sat_576
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10019.m3u8
@@ -781,9 +783,9 @@ https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
 http://teledunet.com:8080/live/azrotv/azrotv2021/10137.m3u8
 #EXTINF:0 group-title="Islamic",ALResala2_1080
 https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index_1.m3u8
-#EXTINF:0 group-title="Islamic",ALRahma_400
+#EXTINF:0 group-title="Islamic",ALRahma_576
 #EXTVLCOPT:http-referrer=http://azrotv.com/
-http://arabictv.teledunet.com:8080/live/azrotv/azrotv2021/101542.m3u8
+http://teledunet.com:8080/live/azrotv/azrotv2021/101542.m3u8
 #EXTINF:0 group-title="Islamic",Iqraa_576
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="Islamic",Iqraa_Europe_Africa_576
