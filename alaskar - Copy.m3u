@@ -225,11 +225,9 @@ http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8
 #EXTINF:-1 group-title="1080",MTV_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10009.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/197
 #EXTINF:-1 group-title="720",MTV_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10009.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/197
 #EXTINF:-1 group-title="1080",Amman_Tv_720
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_1280x720_2200k.m3u8
 #EXTINF:-1 group-title="720",Amman_Tv_720
@@ -311,248 +309,416 @@ http://teledunet.com:8080/live/azrotv/azrotv2021/14838.m3u8
 #EXTINF:-1 group-title="Sports",Bein_Sports_7_720
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/14839.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS NEWS
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1001.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS GLOBAL
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/475351.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS XTRA 1 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777547.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS XTRA 2 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777546.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS MAX 1 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777507.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS MAX 2 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777508.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS MAX 3 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777515.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS MAX 4 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777513.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS MAX 5 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777514.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS MAX 6 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777512.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 1 PRM
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/47515.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 2 PRM
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/47525.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 3 PRM
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/47535.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 1
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/47510.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 2
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1003.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 3
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1004.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 4
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1005.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 5
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1006.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 6
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1007.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 7
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1008.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports News FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/44
+#EXTINF:-1 group-title="Sports",beIN Sports News HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28939
+#EXTINF:-1 group-title="Sports",beIN Sports News HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22198
+#EXTINF:-1 group-title="Sports",beIN Sports Global FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/43
+#EXTINF:-1 group-title="Sports",beIN Sports Global HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28938
+#EXTINF:-1 group-title="Sports",beIN Sports Global  HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22199
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 1 HD EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146122
+#EXTINF:-1 group-title="Sports",beIN-SPORTS MAX HD 1 EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/106199
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 1 SD EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146118
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 1 4K EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146126
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 2 HD EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146123
+#EXTINF:-1 group-title="Sports",beIN-SPORTS MAX HD 2 EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/106200
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 2 SD EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146119
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 2 4K EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146127
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 3 HD FR EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146124
+#EXTINF:-1 group-title="Sports",beIN-SPORTS MAX HD 3 FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/106201
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 3 HD+ EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146153
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 3 SD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146120
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 3 4K FR EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146128
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 4 HD FR EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146125
+#EXTINF:-1 group-title="Sports",beIN-SPORTS MAX HD 4 FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146062
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 4 SD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146121
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 4 4K FR EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146129
+#EXTINF:-1 group-title="Sports",beIN-SPORTS MAX HD 5
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146063
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 5 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146158
+#EXTINF:-1 group-title="Sports",beIN-SPORTS MAX HD 6
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146064
+#EXTINF:-1 group-title="Sports",beIN SPORTS MAX 6 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/146159
+#EXTINF:-1 group-title="Sports",beIN 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27692
+#EXTINF:-1 group-title="Sports",beIN Sports 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60708
+#EXTINF:-1 group-title="Sports",beIN Sports 1 PREMIUM HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1
+#EXTINF:-1 group-title="Sports",beIN Sports 1 PREMIUM HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/107
+#EXTINF:-1 group-title="Sports",beIN Sports 1 PREMIUM 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114053
+#EXTINF:-1 group-title="Sports",beIN Sports 1 PREMIUM HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3854
+#EXTINF:-1 group-title="Sports",beIN Sports 1 PREMIUM SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2541
+#EXTINF:-1 group-title="Sports",beIN Sports 2 PREMIUM HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2
+#EXTINF:-1 group-title="Sports",beIN Sports 2 PREMIUM HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108
+#EXTINF:-1 group-title="Sports",beIN Sports 2 PREMIUM 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114052
+#EXTINF:-1 group-title="Sports",beIN Sports 2 PREMIUM HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3853
+#EXTINF:-1 group-title="Sports",beIN Sports 2 PREMIUM SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2540
+#EXTINF:-1 group-title="Sports",beIN Sports 3 PREMIUM HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3
+#EXTINF:-1 group-title="Sports",beIN Sports 3 PREMIUM HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/109
+#EXTINF:-1 group-title="Sports",beIN Sports 3 PREMIUM 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114051
+#EXTINF:-1 group-title="Sports",beIN Sports 3 PREMIUM HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3852
+#EXTINF:-1 group-title="Sports",beIN Sports 3 PREMIUM SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2539
+#EXTINF:-1 group-title="Sports",beIN Sports 1 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/4
+#EXTINF:-1 group-title="Sports",beIN Sports 1 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/110
+#EXTINF:-1 group-title="Sports",beIN Sports 1 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114050
+#EXTINF:-1 group-title="Sports",beIN Sports 1 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3851
+#EXTINF:-1 group-title="Sports",beIN Sports 1 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2538
+#EXTINF:-1 group-title="Sports",beIN Sports 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/5
+#EXTINF:-1 group-title="Sports",beIN Sports 2 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/112
+#EXTINF:-1 group-title="Sports",beIN Sports 2 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114049
+#EXTINF:-1 group-title="Sports",beIN Sports 2 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3850
+#EXTINF:-1 group-title="Sports",beIN Sports 2 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10795
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/6
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/113
+#EXTINF:-1 group-title="Sports",beIN Sports 3 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114048
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3849
+#EXTINF:-1 group-title="Sports",beIN Sports 3 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2536
+#EXTINF:-1 group-title="Sports",beIN Sports 4HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/7
+#EXTINF:-1 group-title="Sports",beIN Sports 4 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114
+#EXTINF:-1 group-title="Sports",beIN Sports 4 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114047
+#EXTINF:-1 group-title="Sports",beIN Sports 4 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3848
+#EXTINF:-1 group-title="Sports",beIN Sports 4 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2535
+#EXTINF:-1 group-title="Sports",beIN Sports 5 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/8
+#EXTINF:-1 group-title="Sports",beIN Sports 5 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/115
+#EXTINF:-1 group-title="Sports",beIN Sports 5 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114046
+#EXTINF:-1 group-title="Sports",beIN Sports 5 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3847
+#EXTINF:-1 group-title="Sports",beIN Sports 5 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2534
+#EXTINF:-1 group-title="Sports",beIN Sports 6 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9
+#EXTINF:-1 group-title="Sports",beIN Sports 6 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/116
+#EXTINF:-1 group-title="Sports",beIN Sports 6 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114045
+#EXTINF:-1 group-title="Sports",beIN Sports 6 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10361
+#EXTINF:-1 group-title="Sports",beIN Sports 6 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2533
+#EXTINF:-1 group-title="Sports",beIN Sports 7 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10
+#EXTINF:-1 group-title="Sports",beIN Sports 7 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117
+#EXTINF:-1 group-title="Sports",beIN Sports 7 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/114044
+#EXTINF:-1 group-title="Sports",beIN Sports 7 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10362
+#EXTINF:-1 group-title="Sports",beIN Sports 7 SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2532
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 1 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117124
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 1 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117125
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 1 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117123
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 1 SD EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117126
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117129
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 2 HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117130
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 2 HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117128
+#EXTINF:-1 group-title="Sports",beIN Sports XTRA 2 SD EURO 2020
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/117131
+#EXTINF:-1 group-title="Sports",beIN Sports 1 EN FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11
+#EXTINF:-1 group-title="Sports",beIN Sports 1 EN HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2531
+#EXTINF:-1 group-title="Sports",beIN Sports 1 EN HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22195
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1 EN SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/49727
+#EXTINF:-1 group-title="Sports",beIN Sports 2 EN FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12
+#EXTINF:-1 group-title="Sports",beIN Sports 2 EN HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10369
+#EXTINF:-1 group-title="Sports",beIN Sports 2 EN HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22196
+#EXTINF:-1 group-title="Sports",beIN SPORTS 2 EN SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/49728
+#EXTINF:-1 group-title="Sports",beIN Sports 3 EN FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13
+#EXTINF:-1 group-title="Sports",beIN Sports 3 EN HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11015
+#EXTINF:-1 group-title="Sports",beIN Sports 3 EN HEVC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22197
+#EXTINF:-1 group-title="Sports",beIN SPORTS 3 EN SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/49729
+#EXTINF:-1 group-title="Sports",beIN Sports 1 FHD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14
+#EXTINF:-1 group-title="Sports",beIN Sports 1 HD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11016
+#EXTINF:-1 group-title="Sports",beIN Sports 2 FHD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/15
+#EXTINF:-1 group-title="Sports",beIN Sports 2 HD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11017
+#EXTINF:-1 group-title="Sports",beIN Sports 3 FHD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/16
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HD FR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11018
+#EXTINF:-1 group-title="Sports",beIN Sports Nba HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3845
+#EXTINF:-1 group-title="Sports",beIN Sports NBA SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/57044
+#EXTINF:-1 group-title="Sports",beIN Sports 1 PREMIUM HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108161
+#EXTINF:-1 group-title="Sports",beIN Sports 2 PREMIUM HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108162
+#EXTINF:-1 group-title="Sports",beIN Sports 3 PREMIUM HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108163
+#EXTINF:-1 group-title="Sports",beIN Sports 1 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108164
+#EXTINF:-1 group-title="Sports",beIN Sports 2 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108165
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108166
+#EXTINF:-1 group-title="Sports",beIN Sports 4 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108167
+#EXTINF:-1 group-title="Sports",beIN Sports 5 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108168
+#EXTINF:-1 group-title="Sports",beIN Sports 6 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108169
+#EXTINF:-1 group-title="Sports",beIN Sports 7 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108170
+#EXTINF:-1 group-title="Sports",Al Kass 1 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22837
+#EXTINF:-1 group-title="Sports",Al Kass 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22838
+#EXTINF:-1 group-title="Sports",Al Kass 3 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22839
+#EXTINF:-1 group-title="Sports",Al Kass 4 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22840
+#EXTINF:-1 group-title="Sports",Al Kass 5 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22841
+#EXTINF:-1 group-title="Sports",Al Kass 6 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22842
+#EXTINF:-1 group-title="Sports",Al Kass 7 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28271
+#EXTINF:-1 group-title="Sports",Al Kass 8 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/38857
+#EXTINF:-1 group-title="Sports",Al Kass online
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28272
 
 
 
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES PREMIERE
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/102249.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES ACTIONS HD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10084.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES DRAMA HD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10085.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES FAMILY HD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10086.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN SERIES 1
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/333614.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN SERIES 2
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1020.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN DRAMA
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1040.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN FOX REWAYAT
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1022.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN FOX FAMILY
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1023.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN FOX ACTIONS
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1025.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN FATAFEAT
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/33373.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN GOURMET
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1021.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES ACTION 1 TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1026.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIE PREMIER TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1027.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIE TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1028.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES ACTION 2 TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1029.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES GOLD TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1030.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES STARS TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1031.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES PREMIER 2 TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1032.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN SERIES DRAMA TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1033.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN SERIES SCI FI TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1034.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES FAMILY TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1035.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN BOX OFFICE 1 TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1036.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN BOX OFFICE 2 TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1037.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN BOX OFFICE 3 TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1038.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN SERIES COMEDY TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1039.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN IZ TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1041.m3u8
+#EXTINF:-1 group-title="VIP_Bein",Bein_Movies_1_Premiere_1080
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14554
+#EXTINF:-1 group-title="VIP_Bein",Bein_Movies_2_Action_1080
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14555
+#EXTINF:-1 group-title="VIP_Bein",Bein_Movies_3_Drama_1080
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14556
+#EXTINF:-1 group-title="VIP_Bein",Bein_Movies_4_Family_1080
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14557
+#EXTINF:-1 group-title="VIP_Bein",Bein_Series_1_1080
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14559
+#EXTINF:-1 group-title="VIP_Bein",Bein_Series_2_1080
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14558
+#EXTINF:-1 group-title="VIP_Bein",Bein_Drama_1080
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14553
+#EXTINF:-1 group-title="VIP_Bein",beIN BEIN CINEMA HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/78432
+#EXTINF:-1 group-title="VIP_Bein",beIN BOX OFFICE HD 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/78440
+#EXTINF:-1 group-title="VIP_Bein",beIN BOX OFFICE HD 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/78441
+#EXTINF:-1 group-title="VIP_Bein",Bein_BARAEAM
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63900
+#EXTINF:-1 group-title="VIP_Bein",Bein_
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63901
+#EXTINF:-1 group-title="VIP_Bein",Bein BBC EARTH
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14569
+#EXTINF:-1 group-title="VIP_Bein",Bein FATAFEAT
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14551
+#EXTINF:-1 group-title="VIP_Bein",Bein FOX CRIME
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/59463
+#EXTINF:-1 group-title="VIP_Bein",Bein FOX LIFE
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/59460
+#EXTINF:-1 group-title="VIP_Bein",Bein FOX MOV ACTION
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77017
+#EXTINF:-1 group-title="VIP_Bein",Bein FOX MOVIES
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77018
+#EXTINF:-1 group-title="VIP_Bein",Bein FOX REWAYAT
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77019
+#EXTINF:-1 group-title="VIP_Bein",Bein GORMENT
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77020
 
 
-#EXTINF:-1 group-title="VIP_OSN",OSN ALYAWM
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/33350.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN YAHALA
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/33358.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN YAHALA OULA
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/33348.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN YAHALA CINEMA
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/333480.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN MEZZE
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1052.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN MUSALSALAT
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/30364.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN COMEDY
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1048.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN SYFY HD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1365.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN CINEMA 1
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10295.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN CINEMA 2
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1050.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ACTIONS
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/102256.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ART AFLAM 1
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/101514.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ART AFLAM 2
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/101515.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ART CINEMA
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1051.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ART HIKAYAT 1
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/101520.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ART HIKAYAT 2
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/102270.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN KIDS
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1049.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN SERIES FIRST
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/333610.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN MOVIES
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1053.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN MOVIES FIRST
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/102267.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN STAR MOVIES
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/20330.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN STAR WORLD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/20299.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN WWE
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/333609.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN AL SAFWA
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/333589.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN LIVING HD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1055.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN TLC
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10309.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN MUSIC
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/50299.m3u8
+
+#EXTINF:-1 group-title="VIP_OSN",OSN ART Aflam 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/68
+#EXTINF:-1 group-title="VIP_OSN",OSN ART Aflam 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/69
+#EXTINF:-1 group-title="VIP_OSN",OSN ART Cinema
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/70
+#EXTINF:-1 group-title="VIP_OSN",OSN ART Hekayat
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/66
+#EXTINF:-1 group-title="VIP_OSN",OSN ART Hekayat 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/67
+#EXTINF:-1 group-title="VIP_OSN",OSN Yahala HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/15041
+#EXTINF:-1 group-title="VIP_OSN",OSN Yahala Oula HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/24324
+#EXTINF:-1 group-title="VIP_OSN",OSN Yahala Cinema HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/24323
+#EXTINF:-1 group-title="VIP_OSN",OSN Cinema 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/726
+#EXTINF:-1 group-title="VIP_OSN",OSN Cinema 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/727
+#EXTINF:-1 group-title="VIP_OSN",OSN Al Youm HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18969
 #EXTINF:-1 group-title="VIP_OSN",OSN FANN
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/102276.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN NAT GEO WILD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10311.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ANIMAL PLANET
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1056.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN DISCOVERY HD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1054.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN HISTORY
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/101525.m3u8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9007
+#EXTINF:-1 group-title="VIP_OSN",OSN Musalsalat 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9005
+#EXTINF:-1 group-title="VIP_OSN",OSN Musalsalat HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/728
+#EXTINF:-1 group-title="VIP_OSN",OSN BBC First HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18962
+#EXTINF:-1 group-title="VIP_OSN",OSN Cnn News
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18957
+#EXTINF:-1 group-title="VIP_OSN",OSN Sky News HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/25168
+#EXTINF:-1 group-title="VIP_OSN",OSN Animal Planet HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/77012
+#EXTINF:-1 group-title="VIP_OSN",OSN National Geo HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/59455
+#EXTINF:-1 group-title="VIP_OSN",OSN National Geo People HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/59456
+#EXTINF:-1 group-title="VIP_OSN",OSN National Geo Wild HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1649
+#EXTINF:-1 group-title="VIP_OSN",OSN Discovery HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60922
+#EXTINF:-1 group-title="VIP_OSN",OSN Discovery ID HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60923
+#EXTINF:-1 group-title="VIP_OSN",OSN Discovery Family HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/137498
+#EXTINF:-1 group-title="VIP_OSN",OSN Discovery Science HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60924
+#EXTINF:-1 group-title="VIP_OSN",OSN Cartoon Network
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18960
+#EXTINF:-1 group-title="VIP_OSN",OSN Disney
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/3855
+#EXTINF:-1 group-title="VIP_OSN",OSN Disney XD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18948
+#EXTINF:-1 group-title="VIP_OSN",OSN Disney Junior
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60933
+#EXTINF:-1 group-title="VIP_OSN",OSN Kids Zone
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60938
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies Kids HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/4759
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies Disney Ar
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18933
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies Disney HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18932
+#EXTINF:-1 group-title="VIP_OSN",OSN  Nickelodeon Junior Ar
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18970
+#EXTINF:-1 group-title="VIP_OSN",OSN Nickelodeon
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60937
+#EXTINF:-1 group-title="VIP_OSN",OSN Living HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27736
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60906
+#EXTINF:-1 group-title="VIP_OSN",OSN On Demand
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18918
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies Action HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/60907
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies First HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18929
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies First  2 HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18930
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies Binge HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18935
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies Comedy HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18934
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies Enigma
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18931
+#EXTINF:-1 group-title="VIP_OSN",OSN Comedy Central HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18956
+#EXTINF:-1 group-title="VIP_OSN",OSN Star Movies HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18905
+#EXTINF:-1 group-title="VIP_OSN",OSN Star World HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18904
+#EXTINF:-1 group-title="VIP_OSN",OSN Paramount Channel
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18917
+#EXTINF:-1 group-title="VIP_OSN",OSN Series Comedy HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18915
+#EXTINF:-1 group-title="VIP_OSN",OSN Series First HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18914
+#EXTINF:-1 group-title="VIP_OSN",OSNTLCHD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18900
+#EXTINF:-1 group-title="VIP_OSN",OSN History 2 HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18943
+#EXTINF:-1 group-title="VIP_OSN",OSN Entertainment! HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18947
+#EXTINF:-1 group-title="VIP_OSN",OSN History HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18942
+#EXTINF:-1 group-title="VIP_OSN",OSN Music Now
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18924
+#EXTINF:-1 group-title="VIP_OSN",OSN SyFy HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/18902
 
 
 
