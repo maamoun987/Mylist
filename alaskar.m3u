@@ -601,116 +601,124 @@ http://162.0.230.103:8000/
 
 
 
-#EXTINF:0 group-title="Islamic",ON_Egy_576
+#EXTINF:-1 group-title="Islamic",ON_Egy_576
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10170.m3u8
-#EXTINF:0 group-title="Islamic",ON_Drama_576
+#EXTINF:-1 group-title="Islamic",ON_Drama_576
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10171.m3u8
-#EXTINF:0 group-title="Islamic",ON_Time_576
+#EXTINF:-1 group-title="Islamic",ON_Time_576
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10172.m3u8
-#EXTINF:0 group-title="Islamic",ALResala_Auto
+#EXTINF:-1 group-title="Islamic",ALResala_Auto
 https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
-#EXTINF:0 group-title="Islamic",ALResala1_1080
+#EXTINF:-1 group-title="Islamic",ALResala1_1080
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10137.m3u8
-#EXTINF:0 group-title="Islamic",ALResala2_1080
+#EXTINF:-1 group-title="Islamic",ALResala2_1080
 https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index_1.m3u8
-#EXTINF:0 group-title="Islamic",ALRahma_576
+#EXTINF:-1 group-title="Islamic",ALRahma_576
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/101542.m3u8
-#EXTINF:0 group-title="Islamic",Iqraa_576
+#EXTINF:-1 group-title="Islamic",Iqraa_576
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="Islamic",Iqraa_Europe_Africa_576
+#EXTINF:-1 group-title="Islamic",Iqraa_Europe_Africa_576
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="Islamic",AlSunna_AlNabawiyah_720
+#EXTINF:-1 group-title="Islamic",AlSunna_AlNabawiyah_720
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:0 group-title="Islamic",AlQuran_AlKareem_720
+#EXTINF:-1 group-title="Islamic",AlQuran_AlKareem_720
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:0 group-title="Islamic",Makka_480
+#EXTINF:-1 group-title="Islamic",Makka_480
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
-#EXTINF:0 group-title="Islamic",Daawa_720
+#EXTINF:-1 group-title="Islamic",Daawa_720
 #EXTVLCOPT:http-referrer=c55b3971-888f-4bee-bee6-0928f3388383
 http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
-#EXTINF:0 group-title="Islamic",Alnada_720
+#EXTINF:-1 group-title="Islamic",Alnada_720
 https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
-#EXTINF:0 group-title="Islamic",Alistiqama_576
+#EXTINF:-1 group-title="Islamic",Alistiqama_576
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:0 group-title="Islamic",Kuwait_Ithraa_Auto
+#EXTINF:-1 group-title="Islamic",Kuwait_Ithraa_Auto
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
-#EXTINF:0 group-title="Islamic",AlMajd_720
+#EXTINF:-1 group-title="Islamic",AlMajd_720
 #EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/333625m3u8
-#EXTINF:0 group-title="Islamic",AlMajd_AlHadith_AlNabaoui_576
+http://teledunet.com:8080/live/azrotv/azrotv2021/333625.m3u8
+#EXTINF:-1 group-title="Islamic",AlMajd_AlHadith_AlNabaoui_576
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/1112.m3u8
-#EXTINF:0 group-title="Islamic",Azhari_400
+#EXTINF:-1 group-title="Islamic",Azhari_400
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/333498.m3u8
-#EXTINF:0 group-title="Islamic",Noor_AlSham_576
+#EXTINF:-1 group-title="Islamic",Noor_AlSham_576
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10021.m3u8
-#EXTINF:0 group-title="Islamic",Bahrain_Quran_720
+#EXTINF:-1 group-title="Islamic",Bahrain_Quran_720
 http://185.105.4.107:1935/live/Bahrain%20Quran/playlist.m3u8
-#EXTINF:0 group-title="Islamic",noble_1080
+#EXTINF:-1 group-title="Islamic",noble_1080
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/playlist.m3u8
-#EXTINF:0 group-title="Islamic",AlFateh_576
+#EXTINF:-1 group-title="Islamic",AlFateh_576
 https://al-fath.live:5443/LiveApp/streams/698951263050359543194513.m3u8
-#EXTINF:0 group-title="Islamic",AlNas_400
+#EXTINF:-1 group-title="Islamic",AlNas_400
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/14827.m3u8
-#EXTINF:0 group-title="Islamic",mawda_576
+#EXTINF:-1 group-title="Islamic",mawda_576
 http://82.212.74.98:8000/live/7821.m3u8
-#EXTINF:0 group-title="Islamic",AlAerth_576
+#EXTINF:-1 group-title="Islamic",AlAerth_576
 http://82.212.74.2:8000/live/7307.m3u8
-#EXTINF:-1 group-title="Islamic",Ahel Al Quran
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28185
-#EXTINF:-1 group-title="Islamic",Mahaba tv
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28180
-#EXTINF:-1 group-title="Islamic",KAIFA
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1421
-#EXTINF:0 group-title="Islamic",Daawa_720
+#EXTINF:-1 group-title="Islamic",Daawa_720
 #EXTVLCOPT:http-referrer=c55b3971-888f-4bee-bee6-0928f3388383
 http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
+#EXTINF:-1 group-title="Islamic",QURAN KAREEM MASR
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://www.teledunet.com:8080/live/azrotv/azrotv2021/777041.m3u8
+#EXTINF:-1 group-title="Islamic",QURAN KAREEM MAKKAH
+http://www.teledunet.com:8080/live/azrotv/azrotv2021/777527.m3u8
+#EXTINF:-1 group-title="Islamic",QURAN KAREEM LIVE
+http://www.teledunet.com:8080/live/azrotv/azrotv2021/10135.m3u8
+#EXTINF:-1 group-title="Islamic",MAKKAH LIVE
+http://www.teledunet.com:8080/live/azrotv/azrotv2021/333619.m3u8
+#EXTINF:-1 group-title="Islamic",ALRESALAH
+http://www.teledunet.com:8080/live/azrotv/azrotv2021/10137.m3u8
+#EXTINF:-1 group-title="Islamic",ALSUNNAH ALNABAWIYA
+http://www.teledunet.com:8080/live/azrotv/azrotv2021/50349.m3u8
+#EXTINF:-1 group-title="Islamic",AYAT KSA
+http://www.teledunet.com:8080/live/azrotv/azrotv2021/333591.m3u8
 
 
-
-#EXTINF:0 group-title="Islamic_Radio",Sharjah_Quran
+#EXTINF:-1 group-title="Islamic_Radio",Sharjah_Quran
 https://svs.itworkscdn.net/smcquranlive/quranSyrian_Radiolive/chunks.m3u8
-#EXTINF:0 group-title="Islamic_Radio",Tafsir by Al-Shaarawi
+#EXTINF:-1 group-title="Islamic_Radio",Tafsir by Al-Shaarawi
 http://quraan.us:9888/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Quranic-Sciences_Mabahith-fi-Ulum Al-Quran
+#EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Mabahith-fi-Ulum Al-Quran
 http://quraan.us:9310/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Quranic-Sciences_Funun-al-Afnan-fi-Ajaib-Ulum-al-Quran
+#EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Funun-al-Afnan-fi-Ajaib-Ulum-al-Quran
 http://quraan.us:9312/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Quranic-Sciences_Ghayat-al-Mureed-fi-Ilm-al-Tajweed
+#EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Ghayat-al-Mureed-fi-Ilm-al-Tajweed
 http://quraan.us:9314/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Quranic-Sciences_Al-Ameed-fi-Ilm-al-Tajweed
+#EXTINF:-1 group-title="Islamic_Radio",Quranic-Sciences_Al-Ameed-fi-Ilm-al-Tajweed
 http://quraan.us:9316/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Translation_of_the_Quran_in_German
+#EXTINF:-1 group-title="Islamic_Radio",Translation_of_the_Quran_in_German
 http://quraan.us:9986/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Affasy
+#EXTINF:-1 group-title="Islamic_Radio",Al-Affasy
 https://server03.quran.com.kw:10998/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Qtami
+#EXTINF:-1 group-title="Islamic_Radio",Al-Qtami
 http://quraan.us:9886/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Ash-Shatiri
+#EXTINF:-1 group-title="Islamic_Radio",Ash-Shatiri
 http://quraan.us:9892/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Mmuaiqly
+#EXTINF:-1 group-title="Islamic_Radio",Al-Mmuaiqly
 https://server03.quran.com.kw:7005/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Dosari
+#EXTINF:-1 group-title="Islamic_Radio",Al-Dosari
 http://quraan.us:9884/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Ghamidi
+#EXTINF:-1 group-title="Islamic_Radio",Al-Ghamidi
 https://server03.quran.com.kw:7011/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Yamani
+#EXTINF:-1 group-title="Islamic_Radio",Al-Yamani
 http://quraan.us:9784/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Idris-Abkar
+#EXTINF:-1 group-title="Islamic_Radio",Idris-Abkar
 http://quraan.us:9300/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Ajmi
+#EXTINF:-1 group-title="Islamic_Radio",Al-Ajmi
 http://quraan.us:9852/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Al-Husari
+#EXTINF:-1 group-title="Islamic_Radio",Al-Husari
 https://server03.quran.com.kw:7007/;*.mp3
-#EXTINF:0 group-title="Islamic_Radio",Abdul-Basit_Abdul-Samad
+#EXTINF:-1 group-title="Islamic_Radio",Abdul-Basit_Abdul-Samad
 https://server03.quran.com.kw:7000/;*.mp3
 
 
