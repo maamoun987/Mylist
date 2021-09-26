@@ -557,48 +557,6 @@ http://www.teledunet.com:8080/live/azrotv/azrotv2021/1054.m3u8
 http://www.teledunet.com:8080/live/azrotv/azrotv2021/101525.m3u8
 
 
-#EXTINF:-1 group-title="Syrian_Radio",Ninar-FM
-http://ninarfm.grtvstream.com:8896/stream
-#EXTINF:-1 group-title="Syrian_Radio",Sham-FM
-https://radioshamfm.grtvstream.com:8400/
-#EXTINF:-1 group-title="Syrian_Radio",Almadina-FM
-https://carina.streamerr.co:2020/stream/almadinafm/;stream.mp3
-#EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
-http://188.247.86.67:8008/2
-#EXTINF:-1 group-title="Syrian_Radio",Melody-FM
-http://streaming.inet.sy:8000/melodyfm
-#EXTINF:-1 group-title="Syrian_Radio",Farah-FM	
-https://radio.farah.fm/?type=http
-#EXTINF:-1 group-title="Syrian_Radio",Dimshq-FM
-http://radioliveb.rtv.gov.sy:8002/RadioDimshq
-#EXTINF:-1 group-title="Syrian_Radio",Souryana-FM
-http://radioliveb.rtv.gov.sy:8008/RadioSouryana
-#EXTINF:-1 group-title="Syrian_Radio",Shabab-FM
-http://radioliveb.rtv.gov.sy:8002/RadioShabab
-#EXTINF:-1 group-title="Syrian_Radio",Sada-FM
-http://sc8new.shoutcaststreaming.us:8032/stream.mp3
-#EXTINF:-1 group-title="Syrian_Radio",Rayan-FM
-https://freeuk16.listen2myradio.com/live.mp3?typeportmount=s1_28227_stream_826882653
-#EXTINF:-1 group-title="Syrian_Radio",Swaida-FM
-http://swaida.com:9996/
-#EXTINF:-1 group-title="Syrian_Radio",Fuse-FM
-http://192.99.17.12:4986/;stream.mp3
-#EXTINF:-1 group-title="Syrian_Radio",Cham-Foreign
-http://radioliveb.rtv.gov.sy:8002/RadioCham
-#EXTINF:-1 group-title="Syrian_Radio",AmwajFm
-http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Syrian_Radio",Zenobia-FM
-http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Syrian_Radio",Tartous-FM
-http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Syrian_Radio",AlKarma-FM
-http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Syrian_Radio",Arabesque-FM
-http://185.4.87.79:8000/stream.mp3
-#EXTINF:-1 group-title="Syrian_Radio",Mix_FM
-https://stream.mixfmsyria.net/;stream.mp3
-#EXTINF:-1 group-title="Syrian_Radio",Version_FM
-http://162.0.230.103:8000/
 
 
 #EXTINF:-1 group-title="Islamic",ON_Egy_576
@@ -682,6 +640,53 @@ http://www.teledunet.com:8080/live/azrotv/azrotv2021/10137.m3u8
 http://www.teledunet.com:8080/live/azrotv/azrotv2021/50349.m3u8
 #EXTINF:-1 group-title="Islamic",AYAT KSA
 http://www.teledunet.com:8080/live/azrotv/azrotv2021/333591.m3u8
+
+
+
+#EXTINF:-1 group-title="Syrian_Radio",Ninar-FM
+http://ninarfm.grtvstream.com:8896/stream
+#EXTINF:-1 group-title="Syrian_Radio",Sham-FM
+https://radioshamfm.grtvstream.com:8400/stream
+#EXTINF:-1 group-title="Syrian_Radio",Almadina-FM
+https://carina.streamerr.co:2020/stream/almadinafm/;stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
+http://188.247.86.67:8008/2
+#EXTINF:-1 group-title="Syrian_Radio",Melody-FM
+http://streaming.inet.sy:8000/melodyfm
+#EXTINF:-1 group-title="Syrian_Radio",Farah-FM	
+https://radio.farah.fm/?type=http
+#EXTINF:-1 group-title="Syrian_Radio",Dimshq-FM
+http://radioliveb.rtv.gov.sy:8002/RadioDimshq
+#EXTINF:-1 group-title="Syrian_Radio",Souryana-FM
+http://radioliveb.rtv.gov.sy:8008/RadioSouryana
+#EXTINF:-1 group-title="Syrian_Radio",Shabab-FM
+http://radioliveb.rtv.gov.sy:8002/RadioShabab
+#EXTINF:-1 group-title="Syrian_Radio",Sada-FM
+http://sc8new.shoutcaststreaming.us:8032/stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Rayan-FM
+https://freeuk16.listen2myradio.com/live.mp3?typeportmount=s1_28227_stream_826882653
+#EXTINF:-1 group-title="Syrian_Radio",Swaida-FM
+http://swaida.com:9996/
+#EXTINF:-1 group-title="Syrian_Radio",Fuse-FM
+http://192.99.17.12:4986/;stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Cham-Foreign
+http://radioliveb.rtv.gov.sy:8002/RadioCham
+#EXTINF:-1 group-title="Syrian_Radio",AmwajFm
+http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Syrian_Radio",Zenobia-FM
+http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Syrian_Radio",Tartous-FM
+http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Syrian_Radio",AlKarma-FM
+http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Syrian_Radio",Arabesque-FM
+http://185.4.87.79:8000/stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Mix_FM
+https://stream.mixfmsyria.net/;stream.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Version_FM
+http://162.0.230.103:8000/
+
+
 
 #EXTINF:-1 group-title="News_Radio",AlJazeera
 https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
