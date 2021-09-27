@@ -54,23 +54,23 @@ https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 
 
 #EXTINF:-1 group-title="German_Radio",1LIVE
-https://1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/master.m3u8
+https://1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/index_64_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="German_Radio",1LIVE_DIGGI
-https://1livediggiuni-lh.akamaihd.net/i/1LIVEdiggi_HDS@179579/master.m3u8
+https://1livediggiuni-lh.akamaihd.net/i/1LIVEdiggi_HDS@179579/index_64_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="German_Radio",WDR_2
-https://wdr2-lh.akamaihd.net/i/wdr2_rheinland@349349/master.m3u8?set-segment-duration=responsive
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinland@349349/index_64_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="German_Radio",WDR_3
-https://wdr3-lh.akamaihd.net/i/wdr_wdr3@384694/master.m3u8?set-segment-duration=responsive
+https://wdr3-lh.akamaihd.net/i/wdr_wdr3@384694/index_64_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="German_Radio",WDR_4
-https://wdr4-lh.akamaihd.net/i/wdr_wdr4@384697/master.m3u8
+https://wdr4-lh.akamaihd.net/i/wdr_wdr4@384697/index_64_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="German_Radio",WDR_5
-https://wdr5-lh.akamaihd.net/i/wdr_wdr5@384698/master.m3u8
+https://wdr5-lh.akamaihd.net/i/wdr_wdr5@384698/index_64_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="German_Radio",COSMO
-https://fhe-lh.akamaihd.net/i/wdr_fhe@384699/master.m3u8?set-segment-duration=responsive
+https://fhe-lh.akamaihd.net/i/wdr_fhe@384699/index_64_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="German_Radio",Die_Sendung_mit_der_Maus
-https://wdrdiemaus-lh.akamaihd.net/i/wdr_diemaus@374300/master.m3u8?set-segment-duration=responsive
+https://wdrdiemaus-lh.akamaihd.net/i/wdr_diemaus@374300/index_64_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="German_Radio",WDR_Event
-https://radioevent-lh.akamaihd.net/i/wdr_radioevent@384708/master.m3u8?set-segment-duration=responsive
+https://radioevent-lh.akamaihd.net/i/wdr_radioevent@384708/index_64_a-p.m3u8?sd=10&rebase=on
 
 
 
