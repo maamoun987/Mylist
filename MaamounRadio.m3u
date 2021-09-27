@@ -45,7 +45,7 @@ http://162.0.230.103:8000/
 
 
 #EXTINF:-1 group-title="News_Radio",AlJazeera
-https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
+https://live-hls-audio-web-aja.getaj.net/VOICE-AJA-b/01.m3u8
 #EXTINF:-1 group-title="News_Radio",BBC_AR
 https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio
 #EXTINF:-1 group-title="News_Radio",Montecarlo
