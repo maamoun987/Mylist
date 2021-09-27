@@ -1,5 +1,4 @@
 ####Stations####
-####'ByMaamounAlkntar:www.facebook.com/maamoun987#####
 Ninar-FM,http://ninarfm.grtvstream.com:8896/stream
 Sham-FM,https://radioshamfm.grtvstream.com:8400/stream.mp3
 Almadina-FM,https://carina.streamerr.co:2020/stream/almadinafm/;stream.mp3
