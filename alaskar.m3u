@@ -646,7 +646,7 @@ http://www.teledunet.com:8080/live/azrotv/azrotv2021/333591.m3u8
 #EXTINF:-1 group-title="Syrian_Radio",Ninar-FM
 http://ninarfm.grtvstream.com:8896/stream
 #EXTINF:-1 group-title="Syrian_Radio",Sham-FM
-https://radioshamfm.grtvstream.com:8400/stream
+http://radioshamfm.grtvstream.com:8400/;stream.nsv
 #EXTINF:-1 group-title="Syrian_Radio",Almadina-FM
 https://carina.streamerr.co:2020/stream/almadinafm/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
