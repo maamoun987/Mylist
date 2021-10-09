@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Sports",BEIN SPORTS News HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/1884
+#EXTINF:-1 group-title="Sports",BEIN SPORTS HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/1885
+#EXTINF:-1 group-title="Sports",BEIN SPORTS NBA HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/63912
+#EXTINF:-1 group-title="Sports",BEIN PREMUIM 1 HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/669
+#EXTINF:-1 group-title="Sports",BEIN PREMUIM 2 HD
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/667
+#EXTINF:-1 group-title="Sports",BEIN PREMUIM 3 HD 
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/665
+#EXTINF:-1 group-title="Sports",BEIN PREMUIM 1 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58417
+#EXTINF:-1 group-title="Sports",BEIN PREMUIM 2 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58418
+#EXTINF:-1 group-title="Sports",BEIN PREMUIM 3 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58419
+#EXTINF:-1 group-title="Sports",BIENSPORT 1 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58410
+#EXTINF:-1 group-title="Sports",BIENSPORT 2 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58411
+#EXTINF:-1 group-title="Sports",BIENSPORT 3 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58412
+#EXTINF:-1 group-title="Sports",BIENSPORT 4 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58413
+#EXTINF:-1 group-title="Sports",BIENSPORT 5 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58414
+#EXTINF:-1 group-title="Sports",BIENSPORT 6 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58415
+#EXTINF:-1 group-title="Sports",BIENSPORT 7 H265
+http://dimapro.cz:8080/5NlZG5jUyZ/mP1HLFKkuP/58416
+#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_1_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/4751.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_2_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/4752.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_3_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/4753.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_1_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/14636.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_2_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/47520.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_3_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/47530.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_4_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/47540.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_5_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/14837.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_6_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/14838.m3u8
+#EXTINF:-1 group-title="Sports",Bein_Sports_7_720
+#EXTVLCOPT:http-referrer=http://azrotv.com/
+http://teledunet.com:8080/live/azrotv/azrotv2021/14839.m3u8
+
+
+#EXTINF:-1,B S MAX 1 HD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289046
+#EXTINF:-1,B S MAX 1 SD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289047
+#EXTINF:-1,B S MAX 2 HD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289048
+#EXTINF:-1,B S MAX 2 SD
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289049
+#EXTINF:-1,B S MAX 1 4K
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289625
+#EXTINF:-1,B S MAX 2 4K 
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289626
+
+#EXTINF:-1,BEIN SPORT MAX 1 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289046
+#EXTINF:-1,BEIN SPORT MAX 1 SD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289047
+#EXTINF:-1,BEIN SPORT MAX 2 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289048
+#EXTINF:-1,BEIN SPORT MAX 2 SD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289049
+#EXTINF:-1,BEIN SPORT MAX 1 4K
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289625
+#EXTINF:-1,BEIN SPORT MAX 2 4K
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289626
