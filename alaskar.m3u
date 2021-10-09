@@ -2,315 +2,290 @@
 
 
 
-#EXTINF:-1 group-title="1080",Aljazeera_1080
+#EXTINF:-1 group-title="1080",Aljazeera 
 https://live-hls-aja-ak.getaj.net/AJA/01.m3u8
-#EXTINF:-1 group-title="720",Aljazeera_720
+#EXTINF:-1 group-title="720",Aljazeera 
 https://live-hls-aja-ak.getaj.net/AJA-b/02.m3u8
-#EXTINF:-1 group-title="1080",Aljazeera_Docu_1080
+#EXTINF:-1 group-title="1080",Aljazeera_Docu 
 https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
-#EXTINF:-1 group-title="720",Aljazeera_Docu_720
+#EXTINF:-1 group-title="720",Aljazeera_Docu 
 https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
-#EXTINF:-1 group-title="1080",Aljazeera_Docu_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10040.m3u8
-#EXTINF:-1 group-title="720",Aljazeera_Docu_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10040.m3u8
-#EXTINF:-1 group-title="1080",Alaraby_1080
+#EXTINF:-1 group-title="1080",Aljazeera_Docu 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4209
+#EXTINF:-1 group-title="720",Aljazeera_Docu 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4209
+#EXTINF:-1 group-title="1080",Alaraby 
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="720",Alaraby_720
+#EXTINF:-1 group-title="720",Alaraby 
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
-#EXTINF:-1 group-title="1080",BBC_AR_720
+#EXTINF:-1 group-title="1080",BBC_AR 
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="720",BBC_AR_720
+#EXTINF:-1 group-title="720",BBC_AR 
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="1080",BBC_Per_720
+#EXTINF:-1 group-title="1080",BBC_Per 
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="720",BBC_Per_720
+#EXTINF:-1 group-title="720",BBC_Per 
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="1080",Lana_720
+#EXTINF:-1 group-title="1080",Lana 
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-#EXTINF:-1 group-title="720",Lana_720
+#EXTINF:-1 group-title="720",Lana 
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-#EXTINF:-1 group-title="1080",Lana2_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10023.m3u8
-#EXTINF:-1 group-title="720",Lana2_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10023.m3u8
-#EXTINF:-1 group-title="1080",Lana_Plus_720
+#EXTINF:-1 group-title="1080",Lana2 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4254
+#EXTINF:-1 group-title="720",Lana2 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4254
+#EXTINF:-1 group-title="1080",Lana_Plus 
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-#EXTINF:-1 group-title="720",Lana_Plus_720
+#EXTINF:-1 group-title="720",Lana_Plus 
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-#EXTINF:-1 group-title="1080",Lana_Plus2_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/1151.m3u8
-#EXTINF:-1 group-title="720",Lana_Plus2_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/1151.m3u8
-#EXTINF:-1 group-title="1080",Syria_Sat_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10019.m3u8
-#EXTINF:-1 group-title="720",Syria_Sat_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10019.m3u8
-#EXTINF:-1 group-title="1080",Syria_Drama_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10020.m3u8
-#EXTINF:-1 group-title="720",Syria_Drama_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10020.m3u8
-#EXTINF:-1 group-title="1080",Sama_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10022.m3u8
-#EXTINF:-1 group-title="720",Sama_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10022.m3u8
-#EXTINF:-1 group-title="1080",SyriaTv_1080
+#EXTINF:-1 group-title="1080",Lana_Plus2 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4539
+#EXTINF:-1 group-title="720",Lana_Plus2 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4539
+#EXTINF:-1 group-title="1080",Syria_Sat 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4537
+#EXTINF:-1 group-title="720",Syria_Sat 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4537
+#EXTINF:-1 group-title="1080",Syria_Drama 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4544
+#EXTINF:-1 group-title="720",Syria_Drama 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4544
+#EXTINF:-1 group-title="1080",Sama 
+http://stream.sama-tv.net:8080/hls/samatv.m3u8?720
+#EXTINF:-1 group-title="720",Sama 
+http://stream.sama-tv.net:8080/hls/samatv.m3u8?720
+#EXTINF:-1 group-title="1080",SyriaTv 
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:-1 group-title="720",SyriaTv_480
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
-#EXTINF:-1 group-title="1080",MBC_KSA_1080
+#EXTINF:-1 group-title="1080",MBC_KSA 
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-#EXTINF:-1 group-title="720",MBC_KSA_720
+#EXTINF:-1 group-title="720",MBC_KSA 
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
-#EXTINF:-1 group-title="1080",MBC_USA_1080
+#EXTINF:-1 group-title="1080",MBC_USA 
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index_1.m3u8
-#EXTINF:-1 group-title="720",MBC_USA_720
+#EXTINF:-1 group-title="720",MBC_USA 
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index_2.m3u8
-#EXTINF:-1 group-title="1080",MBC_Drama_KSA_1080
+#EXTINF:-1 group-title="1080",MBC_Drama_KSA 
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
-#EXTINF:-1 group-title="720",MBC_Drama_KSA_720
+#EXTINF:-1 group-title="720",MBC_Drama_KSA 
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
-#EXTINF:-1 group-title="1080",MBC_Drama_USA_1080
+#EXTINF:-1 group-title="1080",MBC_Drama_USA 
 https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index_1.m3u8
-#EXTINF:-1 group-title="720",MBC_Drama_USA_720
+#EXTINF:-1 group-title="720",MBC_Drama_USA 
 https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index_2.m3u8
-#EXTINF:-1 group-title="1080",MBC_Drama_Plus_1080
+#EXTINF:-1 group-title="1080",MBC_Drama_Plus 
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
-#EXTINF:-1 group-title="720",MBC_Drama_Plus_720
+#EXTINF:-1 group-title="720",MBC_Drama_Plus 
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
-#EXTINF:-1 group-title="1080",MBC_Iraq_1080
+#EXTINF:-1 group-title="1080",MBC_Iraq 
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
-#EXTINF:-1 group-title="720",MBC_Iraq_720
+#EXTINF:-1 group-title="720",MBC_Iraq 
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
-#EXTINF:-1 group-title="1080",Mbc_PER_1080
+#EXTINF:-1 group-title="1080",Mbc_PER 
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
-#EXTINF:-1 group-title="720",Mbc_PER_720
+#EXTINF:-1 group-title="720",Mbc_PER 
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
-#EXTINF:-1 group-title="1080",Mbc_Bollywood_1080
+#EXTINF:-1 group-title="1080",Mbc_Bollywood 
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-#EXTINF:-1 group-title="720",Mbc_Bollywood_720
+#EXTINF:-1 group-title="720",Mbc_Bollywood 
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
-#EXTINF:-1 group-title="1080",Mbc_2_1080
+#EXTINF:-1 group-title="1080",Mbc_2 
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
-#EXTINF:-1 group-title="720",Mbc_2_720
+#EXTINF:-1 group-title="720",Mbc_2 
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF:-1 group-title="1080",Mbc_3_1080
+#EXTINF:-1 group-title="1080",Mbc_3 
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-#EXTINF:-1 group-title="720",Mbc_3_720
+#EXTINF:-1 group-title="720",Mbc_3 
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
-#EXTINF:-1 group-title="1080",Mbc_4_1080
+#EXTINF:-1 group-title="1080",Mbc_4 
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
-#EXTINF:-1 group-title="720",Mbc_4_720
+#EXTINF:-1 group-title="720",Mbc_4 
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
-#EXTINF:-1 group-title="1080",Mbc_Action_1080
+#EXTINF:-1 group-title="1080",Mbc_Action 
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
-#EXTINF:-1 group-title="720",Mbc_Action_720
+#EXTINF:-1 group-title="720",Mbc_Action 
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
-#EXTINF:-1 group-title="1080",Mbc_Max_1080
+#EXTINF:-1 group-title="1080",Mbc_Max 
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
-#EXTINF:-1 group-title="720",Mbc_Max_720
+#EXTINF:-1 group-title="720",Mbc_Max 
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-#EXTINF:-1 group-title="1080",Mbc_Masr_1080
+#EXTINF:-1 group-title="1080",Mbc_Masr 
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
-#EXTINF:-1 group-title="720",Mbc_Masr_720
+#EXTINF:-1 group-title="720",Mbc_Masr 
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
-#EXTINF:-1 group-title="1080",Mbc_Masr2_1080
+#EXTINF:-1 group-title="1080",Mbc_Masr2 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-#EXTINF:-1 group-title="720",Mbc_Masr2_720
+#EXTINF:-1 group-title="720",Mbc_Masr2 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
-#EXTINF:-1 group-title="1080",Abu_Dhabi_1080 
+#EXTINF:-1 group-title="1080",Abu_Dhabi  
 https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="720",Abu_Dhabi_720      
+#EXTINF:-1 group-title="720",Abu_Dhabi       
 https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="1080",Abu_Dhabi_Drama_1080
+#EXTINF:-1 group-title="1080",Abu_Dhabi_Drama 
 https://admdn5ta.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="720",Abu_Dhabi_Drama_720
+#EXTINF:-1 group-title="720",Abu_Dhabi_Drama 
 https://admdn5ta.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="1080",Nat_Geo_Abu_Dhabi_1080
+#EXTINF:-1 group-title="1080",Nat_Geo_Abu_Dhabi 
 https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="720",Nat_Geo_Abu_Dhabi_720
+#EXTINF:-1 group-title="720",Nat_Geo_Abu_Dhabi 
 https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="1080",AlEmarat_1080
+#EXTINF:-1 group-title="1080",AlEmarat 
 https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="720",AlEmarat_720
+#EXTINF:-1 group-title="720",AlEmarat 
 https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="1080",Dubai_1080
+#EXTINF:-1 group-title="1080",Dubai 
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 group-title="720",Dubai_720
+#EXTINF:-1 group-title="720",Dubai 
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="1080",Dubai_Sama_1080
+#EXTINF:-1 group-title="1080",Dubai_Sama 
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="720",Dubai_Sama_720
+#EXTINF:-1 group-title="720",Dubai_Sama 
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="1080",Dubai_Zaman_720
+#EXTINF:-1 group-title="1080",Dubai_Zaman 
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="720",Dubai_Zaman_720
+#EXTINF:-1 group-title="720",Dubai_Zaman 
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="1080",Dubai_One_1080
+#EXTINF:-1 group-title="1080",Dubai_One 
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="720",Dubai_One_720
+#EXTINF:-1 group-title="720",Dubai_One 
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="1080",Art_Aflam_1_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101514.m3u8
-#EXTINF:-1 group-title="720",Art_Aflam_1_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101514.m3u8
-#EXTINF:-1 group-title="1080",Art_Aflam_2_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101515.m3u8
-#EXTINF:-1 group-title="720",Art_Aflam_2_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101515.m3u8
-#EXTINF:-1 group-title="1080",Rotana_Cinema_KSA_1080
+#EXTINF:-1 group-title="1080",Art_Aflam_1 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/22208
+#EXTINF:-1 group-title="720",Art_Aflam_1 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/22208
+#EXTINF:-1 group-title="1080",Art_Aflam_2 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/22210
+#EXTINF:-1 group-title="720",Art_Aflam_2 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/22210
+#EXTINF:-1 group-title="1080",Art_Cinema
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/22216
+#EXTINF:-1 group-title="720",Art_Cinema 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/22216
+#EXTINF:-1 group-title="1080",Rotana_Cinema_KSA 
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
-#EXTINF:-1 group-title="720",Rotana_Cinema_KSA_720
+#EXTINF:-1 group-title="720",Rotana_Cinema_KSA 
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_2.m3u8
-#EXTINF:-1 group-title="1080",Rotana_Cinema_EGY_1080
+#EXTINF:-1 group-title="1080",Rotana_Cinema_EGY 
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
-#EXTINF:-1 group-title="720",Rotana_Cinema_EGY_720
+#EXTINF:-1 group-title="720",Rotana_Cinema_EGY 
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8
 #EXTINF:-1 group-title="1080",Rotana_Comedy_AUTO
 https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
 #EXTINF:-1 group-title="720",Rotana_Comedy_AUTO
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10106.m3u8
+https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
 
-#EXTINF:-1 group-title="1080",Rotana_Classic_1080
+#EXTINF:-1 group-title="1080",Rotana_Classic 
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
-#EXTINF:-1 group-title="720",Rotana_Classic_720
+#EXTINF:-1 group-title="720",Rotana_Classic 
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_2.m3u8
-#EXTINF:-1 group-title="1080",Rotana_Drama_1080
+#EXTINF:-1 group-title="1080",Rotana_Drama 
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
-#EXTINF:-1 group-title="720",Rotana_Drama_720
+#EXTINF:-1 group-title="720",Rotana_Drama 
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_2.m3u8
-#EXTINF:-1 group-title="1080",Rotana_Kids_1080
+#EXTINF:-1 group-title="1080",Rotana_Kids 
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_1.m3u8
-#EXTINF:-1 group-title="720",Rotana_Kids_720
+#EXTINF:-1 group-title="720",Rotana_Kids 
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
-#EXTINF:-1 group-title="1080",Rotana_+_1080
+#EXTINF:-1 group-title="1080",Rotana_+ 
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
-#EXTINF:-1 group-title="720",Rotana_+_720
+#EXTINF:-1 group-title="720",Rotana_+ 
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
-#EXTINF:-1 group-title="1080",LBC_1080
+#EXTINF:-1 group-title="1080",LBC 
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
-#EXTINF:-1 group-title="720",LBC_720
+#EXTINF:-1 group-title="720",LBC 
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_2.m3u8
-#EXTINF:-1 group-title="1080",AJadeed_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10008.m3u8
-#EXTINF:-1 group-title="720",AJadeed_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10008.m3u8
-#EXTINF:-1 group-title="1080",Future_TV_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10007.m3u8
-#EXTINF:-1 group-title="720",Future_TV_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10007.m3u8
-#EXTINF:-1 group-title="1080",OTV_1080
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8
-#EXTINF:-1 group-title="720",OTV_1080
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8
-#EXTINF:-1 group-title="1080",MTV_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10009.m3u8
-#EXTINF:-1 group-title="720",MTV_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10009.m3u8
-#EXTINF:-1 group-title="1080",Amman_Tv_720
+#EXTINF:-1 group-title="1080",AJadeed 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4518
+#EXTINF:-1 group-title="720",AJadeed 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4518
+#EXTINF:-1 group-title="1080",Future_TV 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4523
+#EXTINF:-1 group-title="720",Future_TV 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4523
+#EXTINF:-1 group-title="1080",OTV 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4517
+#EXTINF:-1 group-title="720",OTV 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4517
+#EXTINF:-1 group-title="1080",MTV 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4515
+#EXTINF:-1 group-title="720",MTV 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4515
+#EXTINF:-1 group-title="1080",Amman_Tv 
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_1280x720_2200k.m3u8
-#EXTINF:-1 group-title="720",Amman_Tv_720
+#EXTINF:-1 group-title="720",Amman_Tv 
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_1280x720_2200k.m3u8
-#EXTINF:-1 group-title="1080",Roya_Tv_720
+#EXTINF:-1 group-title="1080",Roya_Tv 
 https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="720",Roya_Tv_720
+#EXTINF:-1 group-title="720",Roya_Tv 
 https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1080",B4U_Aflam_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10102.m3u8
-#EXTINF:-1 group-title="720",B4U_Aflam_576
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10102.m3u8
-#EXTINF:-1 group-title="1080",ZEE_AFLAM_720
+#EXTINF:-1 group-title="1080",B4U_Aflam 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/9195
+#EXTINF:-1 group-title="720",B4U_Aflam 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/9195
+#EXTINF:-1 group-title="1080",ZEE_AFLAM 
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="720",ZEE_AFLAM_720
+#EXTINF:-1 group-title="720",ZEE_AFLAM 
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1080",ZEE_ALWAN_720
+#EXTINF:-1 group-title="1080",ZEE_ALWAN 
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="720",ZEE_ALWAN_720
+#EXTINF:-1 group-title="720",ZEE_ALWAN 
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1080",Wanasah_1080
+#EXTINF:-1 group-title="1080",Wanasah 
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
-#EXTINF:-1 group-title="720",Wanasah_720
+#EXTINF:-1 group-title="720",Wanasah 
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2.m3u8
-#EXTINF:-1 group-title="1080",Baraem_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101544.m3u8
-#EXTINF:-1 group-title="720",Baraem_720
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101544.m3u8
-#EXTINF:-1 group-title="1080",MAJID_BABY_1080
+#EXTINF:-1 group-title="1080",Baraem 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4824
+#EXTINF:-1 group-title="720",Baraem 
+http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4824
+#EXTINF:-1 group-title="1080",MAJID_BABY 
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="720",MAJID_BABY_720
+#EXTINF:-1 group-title="720",MAJID_BABY 
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="1080",CN Arabic_1080
+#EXTINF:-1 group-title="1080",CN Arabic 
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
-#EXTINF:-1 group-title="720",CN Arabic_720
+#EXTINF:-1 group-title="720",CN Arabic 
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_2.m3u8
-#EXTINF:-1 group-title="1080",Spacetoon_1080
+#EXTINF:-1 group-title="1080",Spacetoon 
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
-#EXTINF:-1 group-title="720",Spacetoon_720
+#EXTINF:-1 group-title="720",Spacetoon 
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
-#EXTINF:-1 group-title="1080",Gulli_1080
+#EXTINF:-1 group-title="1080",Gulli 
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index_1.m3u8
-#EXTINF:-1 group-title="720",Gulli_720
+#EXTINF:-1 group-title="720",Gulli 
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index_1.m3u8
 
 
 
-#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_1_720
+#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_1 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/4751.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_2_720
+#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_2 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/4752.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_3_720
+#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_3 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/4753.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_1_720
+#EXTINF:-1 group-title="Sports",Bein_Sports_1 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/14636.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_2_720
+#EXTINF:-1 group-title="Sports",Bein_Sports_2 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/47520.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_3_720
+#EXTINF:-1 group-title="Sports",Bein_Sports_3 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/47530.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_4_720
+#EXTINF:-1 group-title="Sports",Bein_Sports_4 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/47540.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_5_720
+#EXTINF:-1 group-title="Sports",Bein_Sports_5 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/14837.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_6_720
+#EXTINF:-1 group-title="Sports",Bein_Sports_6 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/14838.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_7_720
+#EXTINF:-1 group-title="Sports",Bein_Sports_7 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/14839.m3u8
 #EXTINF:-1 group-title="Sports",BExIN SPTS NEWS
@@ -559,70 +534,70 @@ http://www.teledunet.com:8080/live/azrotv/azrotv2021/101525.m3u8
 
 
 
-#EXTINF:-1 group-title="Islamic",ON_Egy_576
+#EXTINF:-1 group-title="Islamic",ON_Egy 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10170.m3u8
-#EXTINF:-1 group-title="Islamic",ON_Drama_576
+#EXTINF:-1 group-title="Islamic",ON_Drama 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10171.m3u8
-#EXTINF:-1 group-title="Islamic",ON_Time_576
+#EXTINF:-1 group-title="Islamic",ON_Time 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10172.m3u8
 #EXTINF:-1 group-title="Islamic",ALResala_Auto
 https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
-#EXTINF:-1 group-title="Islamic",ALResala1_1080
+#EXTINF:-1 group-title="Islamic",ALResala1 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10137.m3u8
-#EXTINF:-1 group-title="Islamic",ALResala2_1080
+#EXTINF:-1 group-title="Islamic",ALResala2 
 https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index_1.m3u8
-#EXTINF:-1 group-title="Islamic",ALRahma_576
+#EXTINF:-1 group-title="Islamic",ALRahma 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/101542.m3u8
-#EXTINF:-1 group-title="Islamic",Iqraa_576
+#EXTINF:-1 group-title="Islamic",Iqraa 
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Islamic",Iqraa_Europe_Africa_576
+#EXTINF:-1 group-title="Islamic",Iqraa_Europe_Africa 
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Islamic",AlSunna_AlNabawiyah_720
+#EXTINF:-1 group-title="Islamic",AlSunna_AlNabawiyah 
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 group-title="Islamic",AlQuran_AlKareem_720
+#EXTINF:-1 group-title="Islamic",AlQuran_AlKareem 
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 group-title="Islamic",Makka_480
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
-#EXTINF:-1 group-title="Islamic",Daawa_720
+#EXTINF:-1 group-title="Islamic",Daawa 
 #EXTVLCOPT:http-referrer=c55b3971-888f-4bee-bee6-0928f3388383
 http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
-#EXTINF:-1 group-title="Islamic",Alnada_720
+#EXTINF:-1 group-title="Islamic",Alnada 
 https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
-#EXTINF:-1 group-title="Islamic",Alistiqama_576
-http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:-1 group-title="Islamic",Alistiqama 
+http://jmc-live.ercdn.net/alistiqama/alistiqama p.m3u8
 #EXTINF:-1 group-title="Islamic",Kuwait_Ithraa_Auto
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
-#EXTINF:-1 group-title="Islamic",AlMajd_720
+#EXTINF:-1 group-title="Islamic",AlMajd 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/333625.m3u8
-#EXTINF:-1 group-title="Islamic",AlMajd_AlHadith_AlNabaoui_576
+#EXTINF:-1 group-title="Islamic",AlMajd_AlHadith_AlNabaoui 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/1112.m3u8
 #EXTINF:-1 group-title="Islamic",Azhari_400
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/333498.m3u8
-#EXTINF:-1 group-title="Islamic",Noor_AlSham_576
+#EXTINF:-1 group-title="Islamic",Noor_AlSham 
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/10021.m3u8
-#EXTINF:-1 group-title="Islamic",Bahrain_Quran_720
+#EXTINF:-1 group-title="Islamic",Bahrain_Quran 
 http://185.105.4.107:1935/live/Bahrain%20Quran/playlist.m3u8
-#EXTINF:-1 group-title="Islamic",noble_1080
+#EXTINF:-1 group-title="Islamic",noble 
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/playlist.m3u8
-#EXTINF:-1 group-title="Islamic",AlFateh_576
+#EXTINF:-1 group-title="Islamic",AlFateh 
 https://al-fath.live:5443/LiveApp/streams/698951263050359543194513.m3u8
 #EXTINF:-1 group-title="Islamic",AlNas_400
 #EXTVLCOPT:http-referrer=http://azrotv.com/
 http://teledunet.com:8080/live/azrotv/azrotv2021/14827.m3u8
-#EXTINF:-1 group-title="Islamic",mawda_576
+#EXTINF:-1 group-title="Islamic",mawda 
 http://82.212.74.98:8000/live/7821.m3u8
-#EXTINF:-1 group-title="Islamic",AlAerth_576
+#EXTINF:-1 group-title="Islamic",AlAerth 
 http://82.212.74.2:8000/live/7307.m3u8
-#EXTINF:-1 group-title="Islamic",Daawa_720
+#EXTINF:-1 group-title="Islamic",Daawa 
 #EXTVLCOPT:http-referrer=c55b3971-888f-4bee-bee6-0928f3388383
 http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
 #EXTINF:-1 group-title="Islamic",QURAN KAREEM MASR
@@ -758,15 +733,15 @@ https://server03.quran.com.kw:7000/;*.mp3
 
 
 
-#EXTINF:-1 group-title="iran",Manoto_1080
+#EXTINF:-1 group-title="iran",Manoto 
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
-#EXTINF:-1 group-title="iran",Manoto_720
+#EXTINF:-1 group-title="iran",Manoto 
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
-#EXTINF:-1 group-title="iran",Iran_International_1080
+#EXTINF:-1 group-title="iran",Iran_International 
 https://live.playstop.me/LS-63503-4/chunklist_b2796000.m3u8
-#EXTINF:-1 group-title="iran",Iran_International_720
+#EXTINF:-1 group-title="iran",Iran_International 
 https://live.playstop.me/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 group-title="iran",Ayeneh TV_720
+#EXTINF:-1 group-title="iran",Ayeneh TV 
 https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
 
 
@@ -817,11 +792,11 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" group-title="Germany",Das Erste (720p)
 https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/fw5O4PK.png" group-title="Germany",Deutsches Musik Fernsehen
-http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
+http://tv.artcom-venture.de:1322/dmf/tv .m3u8
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="deutsches-musik-fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" group-title="Germany",Deutsches Musik Fernsehen (720p)
 https://tv.artcom-venture.de/dmf/tv.m3u8
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png" group-title="Germany",Deutsches Musik Fernsehen
-https://tv.artcom-venture.de/dmf/tv_720.m3u8
+https://tv.artcom-venture.de/dmf/tv .m3u8
 #EXTINF:-1 tvg-id="DieNeueZeit.ch" tvg-name="Die Neue Zeit" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="Germany",Die Neue Zeit (576p)
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
 #EXTINF:-1 tvg-id="DorfTV.at" tvg-name="Dorf TV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/SK9IQ1Z.png" group-title="Germany",Dorf TV
@@ -862,7 +837,7 @@ https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3
 #EXTINF:-1 tvg-id="FS1Salzburg.at" tvg-name="FS1 Salzburg" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/HSRpYUl.jpg" group-title="Germany",FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-id="GoTV.at" tvg-name="GoTV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/UxISEZf.png" group-title="Germany",GoTV (576p)
-https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive p/playlist.m3u8
 #EXTINF:-1 tvg-id="Hamburg1.de" tvg-name="Hamburg 1" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/9TRhahY.png" group-title="Germany",Hamburg 1
 https://live2.telvi.de/hls/hamburg1.m3u8
 #EXTINF:-1 tvg-id="HauptstadtTV.de" tvg-name="Hauptstadt.TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/ZXskBkv.png" group-title="Germany",Hauptstadt.TV (Potsdam)
@@ -932,7 +907,7 @@ https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-id="Noa4Norderstedt.de" tvg-name="Noa 4 Norderstedt" tvg-country="DE" tvg-language="German" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="Germany",Noa 4 Norderstedt
 https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-id="NRWision.de" tvg-name="NRWision" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Germany",NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
+https://fms.nrwision.de/live/livestreamHD.stream p/chunklist.m3u8
 #EXTINF:-1 tvg-id="NRWision.de" tvg-name="NRWision" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" group-title="Germany",NRWision (360p)
 https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-name="Oberpfalz TV" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Oberpfalz TV (1080p)
