@@ -735,13 +735,13 @@ https://server03.quran.com.kw:7000/;*.mp3
 
 
 
-#EXTINF:-1 group-title="iran",Manoto 
+#EXTINF:-1 group-title="iran",Manoto_1080
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
-#EXTINF:-1 group-title="iran",Manoto 
+#EXTINF:-1 group-title="iran",Manoto_720
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
-#EXTINF:-1 group-title="iran",Iran_International 
+#EXTINF:-1 group-title="iran",Iran_International_1080
 https://live.playstop.me/LS-63503-4/chunklist_b2796000.m3u8
-#EXTINF:-1 group-title="iran",Iran_International 
+#EXTINF:-1 group-title="iran",Iran_International_720
 https://live.playstop.me/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 group-title="iran",Ayeneh TV 
 https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
