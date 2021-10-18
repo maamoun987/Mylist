@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 group-title="1080",Aljazeera 
 https://live-hls-aja-ak.getaj.net/AJA/01.m3u8
 #EXTINF:-1 group-title="720",Aljazeera 
@@ -18,6 +16,10 @@ http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4209
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="720",Alaraby 
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+#EXTINF:-1 group-title="1080",Dw_AR 
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="720",Dw_AR 
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="1080",BBC_AR 
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="720",BBC_AR 
@@ -80,6 +82,10 @@ https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea8
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 #EXTINF:-1 group-title="720",MBC_Drama_Plus 
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
+#EXTINF:-1 group-title="1080",MBC_Drama_Variety
+https://au7live.tooliserver.com/live/149017_0.m3u8?session=
+#EXTINF:-1 group-title="720",MBC_Drama_Variety
+https://au7live.tooliserver.com/live/149017_0.m3u8?session=
 #EXTINF:-1 group-title="1080",MBC_Iraq 
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 #EXTINF:-1 group-title="720",MBC_Iraq 
@@ -173,9 +179,9 @@ https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e9110
 #EXTINF:-1 group-title="720",Rotana_Cinema_EGY 
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8
 #EXTINF:-1 group-title="1080",Rotana_Comedy_AUTO
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/8285
+https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
 #EXTINF:-1 group-title="720",Rotana_Comedy_AUTO
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/8285
+https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
 
 #EXTINF:-1 group-title="1080",Rotana_Classic 
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
