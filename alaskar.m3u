@@ -9,9 +9,9 @@ https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
 #EXTINF:-1 group-title="720",Aljazeera_Docu 
 https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
 #EXTINF:-1 group-title="1080",Aljazeera_Docu 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4209
+http://pyramidsiptv.com:8080/mohamed/mohamed123/423
 #EXTINF:-1 group-title="720",Aljazeera_Docu 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4209
+http://pyramidsiptv.com:8080/mohamed/mohamed123/423
 #EXTINF:-1 group-title="1080",Alaraby 
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="720",Alaraby 
@@ -29,31 +29,21 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persia
 #EXTINF:-1 group-title="720",BBC_Per 
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="1080",Lana 
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/440
 #EXTINF:-1 group-title="720",Lana 
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-#EXTINF:-1 group-title="1080",Lana2 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4254
-#EXTINF:-1 group-title="720",Lana2 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4254
+hhttp://pyramidsiptv.com:8080/mohamed/mohamed123/339
 #EXTINF:-1 group-title="1080",Lana_Plus 
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/438
 #EXTINF:-1 group-title="720",Lana_Plus 
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-#EXTINF:-1 group-title="1080",Lana_Plus2 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4539
-#EXTINF:-1 group-title="720",Lana_Plus2 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4539
+http://pyramidsiptv.com:8080/mohamed/mohamed123/438
 #EXTINF:-1 group-title="1080",Syria_Sat 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4537
+http://pyramidsiptv.com:8080/mohamed/mohamed123/434
 #EXTINF:-1 group-title="720",Syria_Sat 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4537
+http://pyramidsiptv.com:8080/mohamed/mohamed123/434
 #EXTINF:-1 group-title="1080",Syria_Drama 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4544
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4544
-
+http://pyramidsiptv.com:8080/mohamed/mohamed123/431
 #EXTINF:-1 group-title="720",Syria_Drama 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4544
+http://pyramidsiptv.com:8080/mohamed/mohamed123/431
 #EXTINF:-1 group-title="1080",Sama 
 http://stream.sama-tv.net:8080/hls/samatv.m3u8?720
 #EXTINF:-1 group-title="720",Sama 
@@ -159,17 +149,17 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_
 #EXTINF:-1 group-title="720",Dubai_One 
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="1080",Art_Aflam_1 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/22208
+http://pyramidsiptv.com:8080/mohamed/mohamed123/186
 #EXTINF:-1 group-title="720",Art_Aflam_1 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/22208
+http://pyramidsiptv.com:8080/mohamed/mohamed123/186
 #EXTINF:-1 group-title="1080",Art_Aflam_2 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/22210
+http://pyramidsiptv.com:8080/mohamed/mohamed123/187
 #EXTINF:-1 group-title="720",Art_Aflam_2 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/22210
+http://pyramidsiptv.com:8080/mohamed/mohamed123/187
 #EXTINF:-1 group-title="1080",Art_Cinema
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/22216
+http://pyramidsiptv.com:8080/mohamed/mohamed123/188
 #EXTINF:-1 group-title="720",Art_Cinema 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/22216
+http://pyramidsiptv.com:8080/mohamed/mohamed123/188
 #EXTINF:-1 group-title="1080",Rotana_Cinema_KSA 
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
 #EXTINF:-1 group-title="720",Rotana_Cinema_KSA 
@@ -178,11 +168,14 @@ https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15c
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
 #EXTINF:-1 group-title="720",Rotana_Cinema_EGY 
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8
-#EXTINF:-1 group-title="1080",Rotana_Comedy_AUTO
-https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
-#EXTINF:-1 group-title="720",Rotana_Comedy_AUTO
-https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
-
+#EXTINF:-1 group-title="1080",Rotana_Comedy
+http://pyramidsiptv.com:8080/mohamed/mohamed123/490
+#EXTINF:-1 group-title="720",Rotana_Comedy
+http://pyramidsiptv.com:8080/mohamed/mohamed123/491
+#EXTINF:-1 group-title="1080",Rotana_Aflam
+http://pyramidsiptv.com:8080/mohamed/mohamed123/500
+#EXTINF:-1 group-title="720",Rotana_Aflam
+http://pyramidsiptv.com:8080/mohamed/mohamed123/500
 #EXTINF:-1 group-title="1080",Rotana_Classic 
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
 #EXTINF:-1 group-title="720",Rotana_Classic 
@@ -204,21 +197,21 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 #EXTINF:-1 group-title="720",LBC 
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_2.m3u8
 #EXTINF:-1 group-title="1080",AJadeed 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4518
+http://pyramidsiptv.com:8080/mohamed/mohamed123/685
 #EXTINF:-1 group-title="720",AJadeed 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4518
+http://pyramidsiptv.com:8080/mohamed/mohamed123/685
 #EXTINF:-1 group-title="1080",Future_TV 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4523
+http://pyramidsiptv.com:8080/mohamed/mohamed123/693
 #EXTINF:-1 group-title="720",Future_TV 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4523
+http://pyramidsiptv.com:8080/mohamed/mohamed123/693
 #EXTINF:-1 group-title="1080",OTV 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4517
+http://pyramidsiptv.com:8080/mohamed/mohamed123/698
 #EXTINF:-1 group-title="720",OTV 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4517
+http://pyramidsiptv.com:8080/mohamed/mohamed123/698
 #EXTINF:-1 group-title="1080",MTV 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4515
+http://pyramidsiptv.com:8080/mohamed/mohamed123/686
 #EXTINF:-1 group-title="720",MTV 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4515
+http://pyramidsiptv.com:8080/mohamed/mohamed123/686
 #EXTINF:-1 group-title="1080",Amman_Tv 
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_1280x720_2200k.m3u8
 #EXTINF:-1 group-title="720",Amman_Tv 
@@ -228,9 +221,9 @@ https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="720",Roya_Tv 
 https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="1080",B4U_Aflam 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/9195
+http://pyramidsiptv.com:8080/mohamed/mohamed123/856
 #EXTINF:-1 group-title="720",B4U_Aflam 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/9195
+http://pyramidsiptv.com:8080/mohamed/mohamed123/856
 #EXTINF:-1 group-title="1080",ZEE_AFLAM 
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="720",ZEE_AFLAM 
@@ -244,9 +237,9 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 #EXTINF:-1 group-title="720",Wanasah 
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2.m3u8
 #EXTINF:-1 group-title="1080",Baraem 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4824
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80157
 #EXTINF:-1 group-title="720",Baraem 
-http://wagmaott.com:8080/mag00:1A:79:59:44:A8/2JpAmH1YCx/4824
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80157
 #EXTINF:-1 group-title="1080",MAJID_BABY 
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="720",MAJID_BABY 
@@ -259,370 +252,504 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
 #EXTINF:-1 group-title="720",Spacetoon 
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
-#EXTINF:-1 group-title="1080",Gulli 
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index_1.m3u8
+#EXTINF:-1 group-title="1080",Gulli
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_1.m3u8 
 #EXTINF:-1 group-title="720",Gulli 
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index_1.m3u8
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_2.m3u8 
+
+
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 01 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80034
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 02 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80033
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 03 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80032
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 01 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80031
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 02 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80030
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 03 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80029
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 04 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80028
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 05 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80027
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 06 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80026
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 07 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80025
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 01 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80024
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 02 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80023
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 01 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80020
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 02 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80019
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 03 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80018
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 01 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80017
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 02 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80016
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 03 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80015
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 04 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80014
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 05 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80013
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 06 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80012
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 07 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80011
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 01 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80010
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 02 FHD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80009
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 01 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80106
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 02 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80105
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 03 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80104
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 01 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80103
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 02 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80102
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 03 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80101
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 04 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80100
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 05 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80099
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 06 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80098
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 07 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80097
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 01 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80095
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 02 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80094
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 03 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80093
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports French 01 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80092
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports French 02 HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80091
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports NBA HD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80090
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 01 4K [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80089
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 02 4K [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80088
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 03 4K [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80087
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 01 4K [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80086
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 02 4K [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80085
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 03 4K [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80084
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 04 4K [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80083
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 05 4K [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80082
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 06 4K [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80081
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 07 4K [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80080
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 01 SD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80079
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 02 SD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80078
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 03 SD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80077
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 01 SD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80076
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 02 SD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80075
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 03 SD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80074
+#EXTINF:--1 group-title="Bein_Sports",beIN PORTS 04 SD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80073
+#EXTINF:--1 group-title="Bein_Sports",beIN PORTS 05 SD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80072
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 06 SD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80071
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 07 SD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80070
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 01 SD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80069
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 02 SD [VIP]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80068
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 01 FHD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80139
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 02 FHD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80138
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 03 FHD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80137
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 01 FHD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80136
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 02 FHD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80135
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 03 FHD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80134
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 04 FHD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80133
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 05 FHD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80132
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 06 FHD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80131
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 07 FHD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80130
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 01 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80129
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 02 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80128
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 03 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80127
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 01 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80126
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 02 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80125
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 03 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80124
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 04 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80123
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 05 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80122
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 06 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80121
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 07 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80120
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 01 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80119
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 02 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80118
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 03 HD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80117
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 01 SD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80116
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 02 SD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80115
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 03 SD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80114
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 01 SD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80113
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 02 SD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80112
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 03 SD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80111
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 04 SD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80110
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 05 SD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80109
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 06 SD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80108
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 07 SD [Gold]
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80107
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 01 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80051
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 02 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80050
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 03 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80049
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 01 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80048
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 02 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80047
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 03 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80046
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 04 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80045
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 05 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80044
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 06 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80043
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 07 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80042
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 01 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80040
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 02 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80039
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 03 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80038
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports French 01 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80037
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports French 02 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80036
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports NBA 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80035
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 01 HEVC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80061
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 02 HEVC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80060
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 03 HEVC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80059
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 01 HEVC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80058
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 02 HEVC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80057
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 03 HEVC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80056
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 04 HEVC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80055
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 05 HEVC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80054
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 06 HEVC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80053
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 07 HEVC
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80052
+#EXTINF:--1 group-title="Bein_Sports",Bein Sport Xtra 1 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/97375
+#EXTINF:--1 group-title="Bein_Sports",Bein Sport Xtra 2 4K
+http://pyramidsiptv.com:8080/mohamed/mohamed123/97374
+#EXTINF:--1 group-title="Bein_Sports",Bein Sport Xtra 1 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/97373
+#EXTINF:--1 group-title="Bein_Sports",Bein Sport Xtra 2 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/97372
+#EXTINF:--1 group-title="Bein_Sports",Bein Sport Xtra 1 SD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/97371
+#EXTINF:--1 group-title="Bein_Sports",Bein Sport Xtra 2 SD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/97370
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 01 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80155
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 02 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80154
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports Premium 03 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80153
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 01 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80152
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 02 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80151
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 03 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80150
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 04 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80149
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 05 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80148
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 06 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80147
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports 07 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80146
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 01 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80144
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 02 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80143
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports English 03 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80142
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports French 01 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80141
+#EXTINF:--1 group-title="Bein_Sports",beIN Sports French 02 Low
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80140
+
+
+#EXTINF:-1 group-title="VIP_Bein",beIN Movies HD1
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80183
+#EXTINF:-1 group-title="VIP_Bein",beIN Movies HD2
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80182
+#EXTINF:-1 group-title="VIP_Bein",beIN Movies HD3
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80181
+#EXTINF:-1 group-title="VIP_Bein",beIN Movies HD4
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80180
+#EXTINF:-1 group-title="VIP_Bein",beIN Drama HD1
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80179
+#EXTINF:-1 group-title="VIP_Bein",beIN Series HD1
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80178
+#EXTINF:-1 group-title="VIP_Bein",beIN Series HD2
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80177
+#EXTINF:-1 group-title="VIP_Bein",beIN Fox Life HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80176
+#EXTINF:-1 group-title="VIP_Bein",beIN Fox Crime HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80175
+#EXTINF:-1 group-title="VIP_Bein",beIN Fox Rewayat HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80174
+#EXTINF:-1 group-title="VIP_Bein",beIN Fox Movies HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80173
+#EXTINF:-1 group-title="VIP_Bein",beIN Fox Action Movies HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80172
+#EXTINF:-1 group-title="VIP_Bein",beIN Star World HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80171
+#EXTINF:-1 group-title="VIP_Bein",beIN Star Movies HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80170
+#EXTINF:-1 group-title="VIP_Bein",beIN AMC HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80169
+#EXTINF:-1 group-title="VIP_Bein",beIN HGTV HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80168
+#EXTINF:-1 group-title="VIP_Bein",beIN Gourmet HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80167
+#EXTINF:-1 group-title="VIP_Bein",beIN Fatafeat
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80166
+#EXTINF:-1 group-title="VIP_Bein",beIN Food Network HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80165
+#EXTINF:-1 group-title="VIP_Bein",beIN OutDoor HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80164
+#EXTINF:-1 group-title="VIP_Bein",beIN Travel HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80163
+#EXTINF:-1 group-title="VIP_Bein",beIN BBC Earth HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80162
+#EXTINF:-1 group-title="VIP_Bein",beIN Be Junior
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80161
+#EXTINF:-1 group-title="VIP_Bein",beIN Nat Geo HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80160
+#EXTINF:-1 group-title="VIP_Bein",beIN Nat Geo People HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80159
+#EXTINF:-1 group-title="VIP_Bein",beIN Nat geo Wild HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80158
+#EXTINF:-1 group-title="VIP_Bein",beIN Baraem HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80157
+#EXTINF:-1 group-title="VIP_Bein",beIN Baby HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80156
 
 
 
-#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_1 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/4751.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_2 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/4752.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_Premuim_3 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/4753.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_1 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14636.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_2 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/47520.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_3 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/47530.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_4 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/47540.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_5 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14837.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_6 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14838.m3u8
-#EXTINF:-1 group-title="Sports",Bein_Sports_7 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14839.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS NEWS
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1001.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS GLOBAL
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/475351.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS XTRA 1 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777547.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS XTRA 2 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777546.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS MAX 1 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777507.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS MAX 2 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777508.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS MAX 3 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777515.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS MAX 4 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777513.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS MAX 5 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777514.m3u8
-#EXTINF:-1 group-title="Sports",BExIN SPTS MAX 6 VIP
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777512.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 1 PRM
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/47515.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 2 PRM
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/47525.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 3 PRM
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/47535.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 1
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/47510.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 2
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1003.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 3
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1004.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 4
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1005.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 5
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1006.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 6
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1007.m3u8
-#EXTINF:--1 group-title="Sports",BExIN SPTS 7
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1008.m3u8
 
+#EXTINF:-1 group-title="VIP_OSN",OSN Yahala HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80233
+#EXTINF:-1 group-title="VIP_OSN",OSN Yahala Oula HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80232
+#EXTINF:-1 group-title="VIP_OSN",OSN Yahala Cinema HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80231
+#EXTINF:-1 group-title="VIP_OSN",OSN Series HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80230
+#EXTINF:-1 group-title="VIP_OSN",OSN Action HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80229
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80228
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies First HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80227
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies First +2 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80226
+#EXTINF:-1 group-title="VIP_OSN",OSN Movies Disney HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80225
+#EXTINF:-1 group-title="VIP_OSN",OSN Enigma HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80224
+#EXTINF:-1 group-title="VIP_OSN",OSN Kids HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80223
+#EXTINF:-1 group-title="VIP_OSN",OSN Series First HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80222
+#EXTINF:-1 group-title="VIP_OSN",OSN Series Comedy HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80221
+#EXTINF:-1 group-title="VIP_OSN",OSN Star Movies HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80220
+#EXTINF:-1 group-title="VIP_OSN",OSN Star World HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80219
+#EXTINF:-1 group-title="VIP_OSN",OSN TLC HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80218
+#EXTINF:-1 group-title="VIP_OSN",OSN Crime HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80217
+#EXTINF:-1 group-title="VIP_OSN",OSN Comedy Central
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80216
+#EXTINF:-1 group-title="VIP_OSN",OSN E! HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80215
+#EXTINF:-1 group-title="VIP_OSN",OSN Living HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80214
+#EXTINF:-1 group-title="VIP_OSN",OSN Alfa AlFann HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80212
+#EXTINF:-1 group-title="VIP_OSN",OSN Alfa Al Safwa HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80211
+#EXTINF:-1 group-title="VIP_OSN",OSN Alfa Alyoum HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80210
+#EXTINF:-1 group-title="VIP_OSN",OSN Alfa Cinema 1 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80209
+#EXTINF:-1 group-title="VIP_OSN",OSN Alfa Cinema 2 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80208
+#EXTINF:-1 group-title="VIP_OSN",OSN Alfa Musalsalat HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80207
+#EXTINF:-1 group-title="VIP_OSN",OSN Alfa Music Now HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80205
+#EXTINF:-1 group-title="VIP_OSN",OSN News HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80204
+#EXTINF:-1 group-title="VIP_OSN",OSN History HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80203
+#EXTINF:-1 group-title="VIP_OSN",OSN H2 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80202
+#EXTINF:-1 group-title="VIP_OSN",OSN Nat Geo HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80201
+#EXTINF:-1 group-title="VIP_OSN",OSN Nat People HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80200
+#EXTINF:-1 group-title="VIP_OSN",OSN Nat Geo Wild HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80199
+#EXTINF:-1 group-title="VIP_OSN",OSN Discovery HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80198
+#EXTINF:-1 group-title="VIP_OSN",OSN Discovery ID HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80197
+#EXTINF:-1 group-title="VIP_OSN",OSN Discovery SC HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80196
+#EXTINF:-1 group-title="VIP_OSN",OSN Disney HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80195
+#EXTINF:-1 group-title="VIP_OSN",OSN Disney Junior HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80194
+#EXTINF:-1 group-title="VIP_OSN",OSN Baby HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80193
+#EXTINF:-1 group-title="VIP_OSN",OSN Nickelodeon HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80192
+#EXTINF:-1 group-title="VIP_OSN",OSN Nick Jr HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80191
+#EXTINF:-1 group-title="VIP_OSN",OSN Nick Toon HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80190
+#EXTINF:-1 group-title="VIP_OSN",OSN Kids Zone HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80189
 
-
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES PREMIERE
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/102249.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES ACTIONS HD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10084.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES DRAMA HD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10085.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES FAMILY HD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10086.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN SERIES 1
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/333614.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN SERIES 2
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1020.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN DRAMA
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1040.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN FOX REWAYAT
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1022.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN FOX FAMILY
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1023.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN FOX ACTIONS
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1025.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN FATAFEAT
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/33373.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN GOURMET
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1021.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES ACTION 1 TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1026.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIE PREMIER TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1027.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIE TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1028.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES ACTION 2 TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1029.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES GOLD TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1030.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES STARS TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1031.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES PREMIER 2 TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1032.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN SERIES DRAMA TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1033.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN SERIES SCI FI TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1034.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN MOVIES FAMILY TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1035.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN BOX OFFICE 1 TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1036.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN BOX OFFICE 2 TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1037.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN BOX OFFICE 3 TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1038.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN SERIES COMEDY TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1039.m3u8
-#EXTINF:-1 group-title="VIP_Bein",BExIN IZ TR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1041.m3u8
-
-
-#EXTINF:-1 group-title="VIP_OSN",OSN ALYAWM
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/33350.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN YAHALA
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/33358.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN YAHALA OULA
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/33348.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN YAHALA CINEMA
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/333480.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN MEZZE
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1052.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN MUSALSALAT
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/30364.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN COMEDY
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1048.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN SYFY HD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1365.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN CINEMA 1
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10295.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN CINEMA 2
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1050.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ACTIONS
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/102256.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ART AFLAM 1
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/101514.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ART AFLAM 2
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/101515.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ART CINEMA
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1051.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ART HIKAYAT 1
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/101520.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ART HIKAYAT 2
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/102270.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN KIDS
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1049.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN SERIES FIRST
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/333610.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN MOVIES
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1053.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN MOVIES FIRST
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/102267.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN STAR MOVIES
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/20330.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN STAR WORLD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/20299.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN WWE
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/333609.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN AL SAFWA
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/333589.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN LIVING HD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1055.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN TLC
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10309.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN MUSIC
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/50299.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN FANN
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/102276.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN NAT GEO WILD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10311.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN ANIMAL PLANET
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1056.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN DISCOVERY HD
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/1054.m3u8
-#EXTINF:-1 group-title="VIP_OSN",OSN HISTORY
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/101525.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Islamic",ON_Egy 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10170.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/28519
 #EXTINF:-1 group-title="Islamic",ON_Drama 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10171.m3u8
-#EXTINF:-1 group-title="Islamic",ON_Time 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10172.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/278
 #EXTINF:-1 group-title="Islamic",ALResala_Auto
 https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
 #EXTINF:-1 group-title="Islamic",ALResala1 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10137.m3u8
-#EXTINF:-1 group-title="Islamic",ALResala2 
-https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index_1.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/345
 #EXTINF:-1 group-title="Islamic",ALRahma 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/101542.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/353
 #EXTINF:-1 group-title="Islamic",Iqraa 
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Islamic",Iqraa_Europe_Africa 
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Islamic",AlSunna_AlNabawiyah 
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/351
 #EXTINF:-1 group-title="Islamic",AlQuran_AlKareem 
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/350
 #EXTINF:-1 group-title="Islamic",Makka_480
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
 #EXTINF:-1 group-title="Islamic",Daawa 
-#EXTVLCOPT:http-referrer=c55b3971-888f-4bee-bee6-0928f3388383
 http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
 #EXTINF:-1 group-title="Islamic",Alnada 
-https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/336
 #EXTINF:-1 group-title="Islamic",Alistiqama 
-http://jmc-live.ercdn.net/alistiqama/alistiqama p.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/682
 #EXTINF:-1 group-title="Islamic",Kuwait_Ithraa_Auto
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
 #EXTINF:-1 group-title="Islamic",AlMajd 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/333625.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/487
 #EXTINF:-1 group-title="Islamic",AlMajd_AlHadith_AlNabaoui 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/1112.m3u8
-#EXTINF:-1 group-title="Islamic",Azhari_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/333498.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/485
+#EXTINF:-1group-title="Islamic",AlMajd_Scientific
+http://pyramidsiptv.com:8080/mohamed/mohamed123/486
+#EXTINF:-1 group-title="Islamic",Azhari
+http://pyramidsiptv.com:8080/mohamed/mohamed123/332
 #EXTINF:-1 group-title="Islamic",Noor_AlSham 
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10021.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/433
 #EXTINF:-1 group-title="Islamic",Bahrain_Quran 
-http://185.105.4.107:1935/live/Bahrain%20Quran/playlist.m3u8
-#EXTINF:-1 group-title="Islamic",noble 
-https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/playlist.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/725
 #EXTINF:-1 group-title="Islamic",AlFateh 
 https://al-fath.live:5443/LiveApp/streams/698951263050359543194513.m3u8
-#EXTINF:-1 group-title="Islamic",AlNas_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/14827.m3u8
+#EXTINF:-1 group-title="Islamic",AlNas
+http://pyramidsiptv.com:8080/mohamed/mohamed123/335
 #EXTINF:-1 group-title="Islamic",mawda 
 http://82.212.74.98:8000/live/7821.m3u8
 #EXTINF:-1 group-title="Islamic",AlAerth 
-http://82.212.74.2:8000/live/7307.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/333
 #EXTINF:-1 group-title="Islamic",Daawa 
-#EXTVLCOPT:http-referrer=c55b3971-888f-4bee-bee6-0928f3388383
 http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
 #EXTINF:-1 group-title="Islamic",QURAN KAREEM MASR
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777041.m3u8
-#EXTINF:-1 group-title="Islamic",QURAN KAREEM MAKKAH
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/777527.m3u8
-#EXTINF:-1 group-title="Islamic",QURAN KAREEM LIVE
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10135.m3u8
-#EXTINF:-1 group-title="Islamic",MAKKAH LIVE
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/333619.m3u8
-#EXTINF:-1 group-title="Islamic",ALRESALAH
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/10137.m3u8
-#EXTINF:-1 group-title="Islamic",ALSUNNAH ALNABAWIYA
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/50349.m3u8
-#EXTINF:-1 group-title="Islamic",AYAT KSA
-http://www.teledunet.com:8080/live/azrotv/azrotv2021/333591.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/317
+
+
+
 
 
 
@@ -754,425 +881,3 @@ https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",3sat [Geo-blocked]
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-id="atv.de" tvg-name="a.tv" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" group-title="Germany",a.tv (1080p)
-https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="AlexBerlin.de" tvg-name="Alex Berlin" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="Germany",Alex Berlin (1080p)
-https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="Anixe HD" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/641px-Anixe_HD.svg.png" group-title="Germany",Anixe HD (720p)
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-id="antennevorarlberg.at" tvg-name="ANTENNE VORARLBERG" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/cnMTcPw.png" group-title="Germany",Antenne Vorarlberg (720p)
-https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTEDeutsch.fr" tvg-name="Arte Deutsch" tvg-country="DE" tvg-language="German" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Germany",Arte Deutsch [Geo-blocked]
-https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8?set-segment-duration=quality
-#EXTINF:-1 tvg-id="ARTITV.de" tvg-name="ARTI TV" tvg-country="DE" tvg-language="German;Turkish" tvg-logo="" group-title="Germany",ARTI TV
-http://176.10.117.18:8000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="BadenTV.de" tvg-name="Baden TV" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Baden TV (720p)
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 tvg-id="BibelTV.de" tvg-name="Bibel TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/0OoMMbd.png" group-title="Germany",Bibel TV (720p)
-http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="BLKTV.de" tvg-name="BLK TV" tvg-country="DE" tvg-language="German" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" group-title="Germany",BLK TV (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Fernsehen Nord" tvg-country="DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="Germany",BR Fernsehen Nord (720p)
-http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Fernsehen Nord" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",BR Fernsehen Nord (720p)
-https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-name="BR Fernsehen Süd" tvg-country="DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="Germany",BR Fernsehen Süd (720p)
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-name="BR Fernsehen Süd" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",BR Fernsehen Süd (720p)
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="CampusTVMagdeburg.de" tvg-name="Campus TV Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Campus TV Magdeburg (1080p)
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="CampusTVMagdeburg.de" tvg-name="Campus TV Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Germany",Campus TV Magdeburg (1080p)
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="CanalAlphaJura.ch" tvg-name="Canal Alpha Jura" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="Germany",Canal Alpha Jura (1080p)
-https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
-#EXTINF:-1 tvg-id="ChemnitzFernsehen.de" tvg-name="Chemnitz Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Chemnitz Fernsehen (1080p)
-https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Couleur3.ch" tvg-name="Couleur 3" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="Germany",Couleur 3 (720p)
-https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Germany",Das Erste (720p)
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="Germany",Das Erste (720p)
-https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" group-title="Germany",Das Erste (720p)
-https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/fw5O4PK.png" group-title="Germany",Deutsches Musik Fernsehen
-http://tv.artcom-venture.de:1322/dmf/tv .m3u8
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="deutsches-musik-fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" group-title="Germany",Deutsches Musik Fernsehen (720p)
-https://tv.artcom-venture.de/dmf/tv.m3u8
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png" group-title="Germany",Deutsches Musik Fernsehen
-https://tv.artcom-venture.de/dmf/tv .m3u8
-#EXTINF:-1 tvg-id="DieNeueZeit.ch" tvg-name="Die Neue Zeit" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="Germany",Die Neue Zeit (576p)
-https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
-#EXTINF:-1 tvg-id="DorfTV.at" tvg-name="Dorf TV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/SK9IQ1Z.png" group-title="Germany",Dorf TV
-https://stream.openplayout.org/hls/dorf.m3u8
-#EXTINF:-1 tvg-id="DresdenFernsehen.de" tvg-name="Dresden Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Dresden Fernsehen (1080p)
-https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="DUST.us" tvg-name="DUST" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="Germany",DUST (720p)
-https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" group-title="Germany",DW
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" group-title="Germany",DW (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s26/index.m3u8
-#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Germany",DW (400p)
-https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" group-title="Germany",DW (400p)
-https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
-#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="Germany",DW
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="DWDeutschPlus.de" tvg-name="DW Deutsch+" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="Germany",DW Deutsch+
-http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="Elbekanal.de" tvg-name="Elbekanal" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/IKslrJu.png" group-title="Germany",Elbekanal (576p)
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
-#EXTINF:-1 tvg-id="ELITTVIsvicre.ch" tvg-name="ELIT TV Isvicre" tvg-country="CH" tvg-language="German" tvg-logo="http://elittv.ch/images/elityenilogokucuk2opy.png" group-title="Germany",ELIT TV Isvicre
-http://source2.primetime.ch:2981/play/elittv/index.m3u8
-#EXTINF:-1 tvg-id="eoTV.de" tvg-name="eo TV" tvg-country="DE;AT;CH" tvg-language="German" tvg-logo="https://i.imgur.com/oitJsZU.png" group-title="Germany",eo TV
-https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
-#EXTINF:-1 tvg-id="ERF1.de" tvg-name="ERF 1" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",ERF 1
-http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ERF1.de" tvg-name="ERF 1" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/MAnSA7W.jpg" group-title="Germany",ERF 1 (720p)
-https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsDeutsch.fr" tvg-name="Euronews Deutsch" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Germany",Euronews Deutsch (720p)
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Filstalwelle.de" tvg-name="Filstalwelle" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="Germany",Filstalwelle (576p)
-http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="FrankenFernsehen.de" tvg-name="Franken Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="Germany",Franken Fernsehen (Nürnberg) (1080p)
-https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="FS1Salzburg.at" tvg-name="FS1 Salzburg" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/HSRpYUl.jpg" group-title="Germany",FS1 Salzburg
-http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 tvg-id="GoTV.at" tvg-name="GoTV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/UxISEZf.png" group-title="Germany",GoTV (576p)
-https://nstream17.gotv.at:1443/live/_definst_/gotvlive p/playlist.m3u8
-#EXTINF:-1 tvg-id="Hamburg1.de" tvg-name="Hamburg 1" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/9TRhahY.png" group-title="Germany",Hamburg 1
-https://live2.telvi.de/hls/hamburg1.m3u8
-#EXTINF:-1 tvg-id="HauptstadtTV.de" tvg-name="Hauptstadt.TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/ZXskBkv.png" group-title="Germany",Hauptstadt.TV (Potsdam)
-https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
-#EXTINF:-1 tvg-id="HealthTV.de" tvg-name="Health TV" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Health TV (720p)
-http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HitradioO3.at" tvg-name="Hitradio Ö3" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="Germany",Hitradio Ö3 (360p)
-http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
-#EXTINF:-1 tvg-id="HitradioO3Webradio.at" tvg-name="Hitradio Ö3 (Webradio)" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="Germany",Hitradio Ö3 (Webradio)
-https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
-#EXTINF:-1 tvg-id="HSE.de" tvg-name="HSE" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",HSE (1080p)
-https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-#EXTINF:-1 tvg-id="InsightHD.nl" tvg-name="Insight HD" tvg-country="NL;DE" tvg-language="German" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="Germany",Insight HD (720p)
-https://insighttv-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InwonderTV.nl" tvg-name="Inwonder TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/2V9wsWp.png" group-title="Germany",Inwonder TV (720p)
-https://inwonder-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IsarTV.de" tvg-name="Isar TV" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Isar TV (1080p)
-https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="JenaTV.de" tvg-name="JenaTV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/o3D4bQI.png" group-title="Germany",JenaTV (1080p)
-https://stream7.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="KTV.at" tvg-name="K-TV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="Germany",K-TV
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-id="KTVFernsehen.de" tvg-name="K-TV (Fernsehen)" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",K-TV (Fernsehen)
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="Germany",Kanal 9 (1080p)
-https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
-#EXTINF:-1 tvg-id="KiKA.de" tvg-name="KiKA" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",KiKA [Geo-blocked]
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-id="KommuTV.li" tvg-name="Kommu TV" tvg-country="LI" tvg-language="German" tvg-logo="https://i.imgur.com/hNA8pC9.png" group-title="Germany",Kommu TV
-http://31.10.19.12:8066/live/999/0.m3u8
-#EXTINF:-1 tvg-id="Kronehit.at" tvg-name="Kronehit" tvg-country="AT" tvg-language="German" tvg-logo="" group-title="Germany",Kronehit (1080p)
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Lausitzwelle.de" tvg-name="Lausitzwelle" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/GNMaGZE.png" group-title="Germany",Lausitzwelle (Fernsehen) (1080p)
-https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd10/playlist.m3u8?&ref=www.lausitzwelle.de
-#EXTINF:-1 tvg-id="LeipzigFernsehen.de" tvg-name="Leipzig Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Leipzig Fernsehen (1080p)
-https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="LightChannel.de" tvg-name="Light Channel" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="Germany",Light Channel (576p)
-http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
-#EXTINF:-1 tvg-id="M4.at" tvg-name="M4" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/xmfgBrg.png" group-title="Germany",M4 (1080p)
-https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MDF1.de" tvg-name="MDF.1" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="Germany",MDF.1 (1080p)
-http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-#EXTINF:-1 tvg-id="MDF1.de" tvg-name="MDF.1" tvg-country="DE" tvg-language="German" tvg-logo="https://medienportal-sachsen-anhalt.de/uploads/hg/mdf1.png" group-title="Germany",MDF.1 (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=458536
-#EXTINF:-1 tvg-id="MediashopTV.li" tvg-name="Mediashop TV" tvg-country="LI" tvg-language="German" tvg-logo="https://i.imgur.com/Drxu8Du.png" group-title="Germany",Mediashop TV (576p)
-https://cdn1-europe.smartcast.tv/mediashop/mediashop1/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTVplus.de" tvg-name="MyTVplus" tvg-country="DE" tvg-language="German" tvg-logo="http://www.mytvplus.de/arbeitsdaten/png/LOGO%20MyTVplus%2002.png" group-title="Germany",MyTVplus (Dresden) (576p)
-https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="München TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="Germany",München TV (1080p)
-https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="naheTV.de" tvg-name="naheTV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/XINB3Zf.png" group-title="Germany",naheTV (720p)
-https://s.ok54.de/nahetv/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-name="NDR Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="Germany",NDR Fernsehen (720p)
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-#EXTINF:-1 tvg-id="NDRHamburg.de" tvg-name="NDR Hamburg" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",NDR Hamburg (720p)
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:-1 tvg-id="NDRMecklenburgVorpommern.de" tvg-name="NDR Mecklenburg-Vorpommern" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",NDR Mecklenburg-Vorpommern (720p)
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
-#EXTINF:-1 tvg-id="NDRSchleswigHolstein.de" tvg-name="NDR Schleswig-Holstein" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",NDR Schleswig-Holstein (720p)
-https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
-#EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-name="Nick (Pluto TV)" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" group-title="Germany",Nick (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede448d3d50590007a4419e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr (Pluto TV)" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5ede45451dce190007ef9ff2/colorLogoPNG.png" group-title="Germany",Nick Jr (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="Noa4Hamburg.de" tvg-name="Noa 4 Hamburg" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Noa 4 Hamburg
-https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="Noa4Norderstedt.de" tvg-name="Noa 4 Norderstedt" tvg-country="DE" tvg-language="German" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="Germany",Noa 4 Norderstedt
-https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="NRWision.de" tvg-name="NRWision" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Germany",NRWision
-https://fms.nrwision.de/live/livestreamHD.stream p/chunklist.m3u8
-#EXTINF:-1 tvg-id="NRWision.de" tvg-name="NRWision" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" group-title="Germany",NRWision (360p)
-https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-name="Oberpfalz TV" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Oberpfalz TV (1080p)
-https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="oe24TV.at" tvg-name="oe24.TV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/gRHJDxr.png" group-title="Germany",oe24.TV (360p)
-https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="oeins.de" tvg-name="oeins" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/NHvYg7e.png" group-title="Germany",oeins (Oldenburg)
-https://www.oeins.de/live/studio.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalDessau.de" tvg-name="Offener Kanal Dessau" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Offener Kanal Dessau (1080p)
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalDessau.de" tvg-name="Offener Kanal Dessau" tvg-country="DE" tvg-language="German" tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" group-title="Germany",Offener Kanal Dessau (1080p)
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="OffenerKanalDessau.de" tvg-name="Offener Kanal Dessau" tvg-country="DE" tvg-language="German" tvg-logo="https://www.ok-dessau.de/fileadmin/layout/logo_okdessau.jpg" group-title="Germany",Offener Kanal Dessau (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8?&ref=www.ok-dessau.de&seid=408238
-#EXTINF:-1 tvg-id="OffenerKanalFlensburg.de" tvg-name="Offener Kanal Flensburg" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/YNYsGYY.png" group-title="Germany",Offener Kanal Flensburg
-https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalGiessen.de" tvg-name="Offener Kanal Gießen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title="Germany",Offener Kanal Gießen (360p) [Not 24/7]
-https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalKaiserslautern.de" tvg-name="Offener Kanal Kaiserslautern" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/SzGXrjb.png" group-title="Germany",Offener Kanal Kaiserslautern (720p)
-https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalKassel.de" tvg-name="Offener Kanal Kassel" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title="Germany",Offener Kanal Kassel (720p)
-https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalKiel.de" tvg-name="Offener Kanal Kiel" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/A8rLufC.png" group-title="Germany",Offener Kanal Kiel
-https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalMagdeburg.de" tvg-name="Offener Kanal Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/BHTsPMP.png" group-title="Germany",Offener Kanal Magdeburg (1080p)
-http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalMagdeburg.de" tvg-name="Offener Kanal Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/kBR5XUI.png" group-title="Germany",Offener Kanal Magdeburg (1080p)
-http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8?&ref=www.ok-magdeburg.de&seid=771136
-#EXTINF:-1 tvg-id="OffenerKanalMagdeburg.de" tvg-name="Offener Kanal Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Offener Kanal Magdeburg (1080p)
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalMagdeburg.de" tvg-name="Offener Kanal Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" group-title="Germany",Offener Kanal Magdeburg (1080p)
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="OffenerKanalMainz.de" tvg-name="Offener Kanal Mainz" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/rM9dOa4.png" group-title="Germany",Offener Kanal Mainz (576p)
-https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalMerseburg.de" tvg-name="Offener Kanal Merseburg" tvg-country="DE" tvg-language="German" tvg-logo="https://www.okmq.de/images/logo/logo_neu.png" group-title="Germany",Offener Kanal Merseburg (1080p)
-http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8?&ref=www.okmq.de&seid=800040
-#EXTINF:-1 tvg-id="OffenerKanalRheinMain.de" tvg-name="Offener Kanal Rhein-Main" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title="Germany",Offener Kanal Rhein-Main (576p)
-https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalSalzwedel.de" tvg-name="Offener Kanal Salzwedel" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/B5obZtE.png" group-title="Germany",Offener Kanal Salzwedel (1080p)
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalSalzwedel.de" tvg-name="Offener Kanal Salzwedel" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Offener Kanal Salzwedel (1080p)
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="OffenerKanalSalzwedel.de" tvg-name="Offener Kanal Salzwedel" tvg-country="DE" tvg-language="German" tvg-logo="https://ok-salzwedel.de/wp-content/themes/oksaw/images/logo-home.png" group-title="Germany",Offener Kanal Salzwedel (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8?&ref=ok-salzwedel.de&seid=783487
-#EXTINF:-1 tvg-id="OffenerKanalTrier.de" tvg-name="Offener Kanal Trier" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png" group-title="Germany",Offener Kanal Trier (720p)
-https://s.ok54.de/ott/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalSudwestpfalz.de" tvg-name="Offener Kanal Südwestpfalz" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/q5G6MZ5.jpg" group-title="Germany",Offener Kanal TV Südwestpfalz (1080p)
-https://s.ok54.de/okswp/test/playlist.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalWeinstrasse.de" tvg-name="Offener Kanal Weinstraße" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Offener Kanal Weinstraße (360p)
-https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalWernigerode.de" tvg-name="Offener Kanal Weinstraße" tvg-country="DE" tvg-language="German" tvg-logo="https://medienportal-sachsen-anhalt.de/uploads/logos/ok-werni.png" group-title="Germany",Offener Kanal Wernigerode (1080p)
-http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8?&ref=www.campus-tv-harz.de&seid=765525
-#EXTINF:-1 tvg-id="OktoEight.at" tvg-name="Okto Eight" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/Z9LgT0v.jpg" group-title="Germany",Okto Eight (720p)
-https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
-#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" group-title="Germany",ORF 1 (540p) [Geo-blocked]
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png" group-title="Germany",ORF 2 (720p) [Geo-blocked]
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" group-title="Germany",ORF 3 (720p) [Geo-blocked]
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport +" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" group-title="Germany",ORF Sport+ (540p) [Geo-blocked]
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="P3tv.at" tvg-name="P3tv" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/C6Hp5Pb.jpg" group-title="Germany",P3tv (720p) [Not 24/7]
-http://p3-6.mov.at:1935/live/weekstream/master.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-name="Parlamentsfernsehen 1" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="Germany",Parlamentsfernsehen 1 (1080p)
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-name="Parlamentsfernsehen 1" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Parlamentsfernsehen 1 (1080p)
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de" tvg-name="Parlamentsfernsehen 2" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="Germany",Parlamentsfernsehen 2 (1080p)
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de" tvg-name="Parlamentsfernsehen 2" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Parlamentsfernsehen 2 (1080p)
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-id="pearltv.de" tvg-name="pearl.tv" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",pearl.tv (360p)
-http://enstyle.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Phoenix [Geo-blocked]
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 tvg-id="AutoMotorSport.us" tvg-name="Auto Motor Sport" tvg-country="US" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Germany",Pluto TV Auto Motor Sport
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="Chefkoch.us" tvg-name="Chefkoch" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5e8c4c3f141f350007936f7d/colorLogoPNG.png" group-title="Germany",Pluto TV Chefkoch
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8c4c3f141f350007936f7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="ComedyCentralMadeinGermany.us" tvg-name="Comedy Central Made in Germany" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5d4948418101147596fd6c5a/colorLogoPNG.png" group-title="Germany",Pluto TV Comedy Central Made in Germany
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4948418101147596fd6c5a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="PlutoTVDocumentaries.us" tvg-name="Pluto TV Documentaries" tvg-country="US" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5db048f9447d6c0009b8f29d/colorLogoPNG.png" group-title="Germany",Pluto TV Documentaries
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="FilmesSuspense.us" tvg-name="Filmes Suspense" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Germany",Pluto TV Filmes Suspense
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="MariovsSonic.us" tvg-name="Mario vs Sonic" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5dc02ece31f6050009de4b39/colorLogoPNG.png" group-title="Germany",Pluto TV Mario vs Sonic
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png" group-title="Germany",Pluto TV Movies
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="MoviesCH.us" tvg-name="Movies CH" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5dc2bdfec6cdc10009975e20/colorLogoPNG.png" group-title="Germany",Pluto TV Movies CH
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="N24Doku.us" tvg-name="N24 Doku" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/60080e8a4bf36000076a81b1/colorLogoPNG.png" group-title="Germany",Pluto TV N24 Doku
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="nickEmmaeinfachmagisch.us" tvg-name="nick Emma einfach magisch!" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5f4796368174910007756454/colorLogoPNG.png" group-title="Germany",Pluto TV nick Emma einfach magisch!
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4796368174910007756454/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="Paranormal.us" tvg-name="Paranormal" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" group-title="Germany",Pluto TV Paranormal
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98487036af340008da1e37/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="SlowTV.us" tvg-name="Slow TV" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5d765a05f65029ce2385aa30/colorLogoPNG.png" group-title="Germany",Pluto TV Slow TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d765a05f65029ce2385aa30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="SpongeBobSchwammkopfnick.us" tvg-name="SpongeBob Schwammkopf nick" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="Germany",Pluto TV SpongeBob Schwammkopf nick
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="StorageWars.us" tvg-name="Storage Wars" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5ede464e7be0030007c58b73/colorLogoPNG.png" s,Pluto TV Storage Wars
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede464e7be0030007c58b73/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="Teennick.us" tvg-name="Teen nick" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG.png" group-title="Germany",Pluto TV Teen nick
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="TheStoryofBeatclub.us" tvg-name="The Story of Beatclub" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5f982c3420de4100070a545e/colorLogoPNG.png" group-title="Germany",Pluto TV The Story of Beatclub
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f982c3420de4100070a545e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="TotallyTurtlesnick.us" tvg-name="Totally Turtles nick" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" group-title="Germany",Pluto TV Totally Turtles nick
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="Victorious.us" tvg-name="Victorious" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5e8b5e43f294f8000793c3d7/colorLogoPNG.png" group-title="Germany",Pluto TV Victorious
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="PUNKTumFernsehen.de" tvg-name="PUNKTum Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://www.punktum-fernsehen.de/share/android-icon-192x192.png" group-title="Germany",PUNKTum Fernsehen (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=824679
-#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-country="US" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="Germany",QVC (German)
-https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="QVCPlus.de" tvg-name="QVC PLUS" tvg-country="US" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png" group-title="Germany",QVC PLUS
-https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="QVCStyleDeutsch.us" tvg-name="QVC Style (Deutsch)" tvg-country="US" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="Germany",QVC Style (Deutsch) (540p)
-http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="QVC2Deutsch.us" tvg-name="QVC2 (Deutsch)" tvg-country="US" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="Germany",QVC2 (Deutsch) (540p)
-http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="R9.at" tvg-name="R9" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/Wu6SMvb.png" group-title="Germany",R9 (720p)
-https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio21TV.de" tvg-name="Radio 21 TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" group-title="Germany",Radio 21 TV (720p)
-https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1 tvg-id="Radio3iWebradio.ch" tvg-name="Radio 3i (Webradio)" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="Germany",Radio 3i (Webradio) (720p)
-https://livestream.gruppocdt.ch/hls/radio3i.m3u8
-#EXTINF:-1 tvg-id="RadioPilatusTV.ch" tvg-name="Radio Pilatus TV" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="Germany",Radio Pilatus TV (1080p)
-https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-name="Radio Weser TV Bremen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="Germany",Radio Weser TV Bremen (576p)
-https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesAustria.es" tvg-name="Rakuten TV Action Movies Austria" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="Germany",Rakuten TV Action Movies Austria (720p)
-https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesGermany.es" tvg-name="Rakuten TV Action Movies Germany" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="Germany",Rakuten TV Action Movies Germany (720p)
-https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesSwitzerland.es" tvg-name="Rakuten TV Action Movies Switzerland" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Germany",Rakuten TV Action Movies Switzerland (720p)
-https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesAustria.es" tvg-name="Rakuten TV Comedy Movies Austria" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="Germany",Rakuten TV Comedy Movies Austria (720p)
-https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesGermany.es" tvg-name="Rakuten TV Comedy Movies Germany" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="Germany",Rakuten TV Comedy Movies Germany (720p)
-https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSwitzerland.es" tvg-name="Rakuten TV Comedy Movies Switzerland" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="Germany",Rakuten TV Comedy Movies Switzerland (720p)
-https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaAustria.es" tvg-name="Rakuten TV Drama Austria" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="Germany",Rakuten TV Drama Austria (720p)
-https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaGermany.es" tvg-name="Rakuten TV Drama Germany" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="Germany",Rakuten TV Drama Germany (720p)
-https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaSwitzerland.es" tvg-name="Rakuten TV Drama Switzerland" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Germany",Rakuten TV Drama Switzerland (720p)
-https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyAustria.es" tvg-name="Rakuten TV Family Austria" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Germany",Rakuten TV Family Austria (720p)
-https://rakuten-family-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyGermany.es" tvg-name="Rakuten TV Family Germany" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Germany",Rakuten TV Family Germany (720p)
-https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilySwitzerland.es" tvg-name="Rakuten TV Family Switzerland" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Germany",Rakuten TV Family Switzerland (720p)
-https://rakuten-family-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightAustria.es" tvg-name="Rakuten TV Spotlight Austria" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="Germany",Rakuten TV Spotlight Austria (720p)
-https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightGermany.es" tvg-name="Rakuten TV Spotlight Germany" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="Germany",Rakuten TV Spotlight Germany (720p)
-https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightSwitzerland.es" tvg-name="Rakuten TV Spotlight Switzerland" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="Germany",Rakuten TV Spotlight Switzerland (720p)
-https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RAN1Regionalfernsehen.de" tvg-name="RAN1 Regionalfernsehen" tvg-country="DE" tvg-language="German" tvg-logo="http://www.ran1.de/img/ban1.png" group-title="Germany",RAN1 Regionalfernsehen (1080p)
-http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8?&ref=www.ran1.de&seid=201846
-#EXTINF:-1 tvg-id="RAN1Regionalfernsehen.de" tvg-name="RAN1 Regionalfernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/NUP8ZBb.png" group-title="Germany",RAN1 Regionalfernsehen (1080p)
-http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="RBWRegionalfernsehen.de" tvg-name="RBW Regionalfernsehen" tvg-country="DE" tvg-language="German" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="Germany",RBW Regionalfernsehen (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=237997
-#EXTINF:-1 tvg-id="RegioTVBodensee.de" tvg-name="Regio TV Bodensee" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/olVCZTJ.png" group-title="Germany",Regio TV Bodensee (1080p)
-https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTVSchwaben.de" tvg-name="Regio TV Schwaben" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/OFGHhRE.png" group-title="Germany",Regio TV Schwaben (1080p)
-https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTVStuttgart.de" tvg-name="Regio TV Stuttgart" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/OFGHhRE.png" group-title="Germany",Regio TV Stuttgart (1080p)
-https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RheinLokalWorms.de" tvg-name="Rhein Lokal Worms" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/6Xr5A4w.png" group-title="Germany",Rhein Lokal Worms (720p)
-https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-name="rheinmaintv" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/G7W4K3K.png" group-title="Germany",rheinmaintv
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-name="rheinmaintv" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/YBkBDSz.png" group-title="Germany",rheinmaintv (720p)
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-name="rheinmaintv" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" group-title="Germany",rheinmaintv (720p)
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
-#EXTINF:-1 tvg-id="RNF.de" tvg-name="RNF" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/YkB39hx.png" group-title="Germany",RNF (1080p)
-https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RockAntenne.de" tvg-name="Rock Antenne" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/eZKNvkT.png" group-title="Germany",Rock Antenne
-https://stream.rockantenne.de/rockantenne/stream/mp3
-#EXTINF:-1 tvg-id="SaarlandFernsehen1.de" tvg-name="Saarland Fernsehen 1" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="Germany",Saarland Fernsehen 1 (1080p)
-https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="SaarlandFernsehen2.de" tvg-name="Saarland Fernsehen 2" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="Germany",Saarland Fernsehen 2 (720p)
-https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="SanthoraTV.de" tvg-name="Santhora TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/kn1DHZq.gif" group-title="Germany",Santhora TV (720p)
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:-1 tvg-id="SchauTV.at" tvg-name="SchauTV" tvg-country="AT" tvg-language="German" tvg-logo="https://image.schautv.at/images/cfs_616w/3123676/schautv_homepagebanner_twitter.png" group-title="Germany",SchauTV (720p)
-https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
-#EXTINF:-1 tvg-id="Schweiz5.ch" tvg-name="Schweiz 5" tvg-country="CH" tvg-language="German" tvg-logo="http://www.schweiz5.ch/wp-content/uploads/2018/10/ch5logo-large-1.png" group-title="Germany",Schweiz 5
-https://stream.schweiz5.ch/schweiz52020/stream.m3u8
-#EXTINF:-1 tvg-id="Seenluft24.de" tvg-name="Seenluft24" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="Germany",Seenluft24 (1080p)
-https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?=&ref=seenluft24.de
-#EXTINF:-1 tvg-id="SofyTV.ch" tvg-name="Sofy TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Germany",Sofy TV (720p)
-https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SonnenklarTV.de" tvg-name="Sonnenklar.TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/piwT1HQ.jpg" group-title="Germany",Sonnenklar.TV (1080p)
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1 tvg-id="SophiaTV.de" tvg-name="Sophia TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="Germany",Sophia TV
-https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",SR Fernsehen (720p)
-http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
-#EXTINF:-1 tvg-id="SWISSSportTV247.ch" tvg-name="SWISS Sport TV 24/7" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/lTqP4Ij.jpg" group-title="Germany",SWISS Sport TV 24/7 (720p)
-https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/master.m3u8
-#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau24" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",Tagesschau24 (720p)
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-id="TeinsTV.at" tvg-name="Teins TV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/KJie1k5.png" group-title="Germany",Teins TV (1080p)
-https://live1.markenfunk.com/t1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Telebasel.ch" tvg-name="Telebasel" tvg-country="CH" tvg-language="German" tvg-logo="" group-title="Germany",Telebasel (288p)
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8
-#EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="Germany",TeleBielingue
-https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
-#EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue" tvg-country="CH" tvg-language="German" tvg-logo="" group-title="Germany",TeleBielingue (720p)
-https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="TeleTicino" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="Germany",TeleTicino (720p)
-https://livestream.gruppocdt.ch/hls/teleticino.m3u8
-#EXTINF:-1 tvg-id="Teletubbies.ca" tvg-name="Teletubbies" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="Germany",Teletubbies (720p)
-https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="teltOwkanal.de" tvg-name="teltOwkanal" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/05UB2YT.png" group-title="Germany",teltOwkanal (1080p)
-https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/chunklist_w432758340.m3u8?ref=www.teltowkanal.de
-#EXTINF:-1 tvg-id="TirolTV.at" tvg-name="Tirol TV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/0jHWmjL.png" group-title="Germany",Tirol TV [Not 24/7]
-https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:-1 tvg-id="TVHalle.de" tvg-name="TV Halle" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Ecrl44R.png" group-title="Germany",TV Halle (720p)
-http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="TVHalle.de" tvg-name="TV Halle" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/GUBVccx.png" group-title="Germany",TV Halle (720p)
-http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="TVMainfranken.de" tvg-name="TV Mainfranken" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",TV Mainfranken (1080p)
-https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVA.de" tvg-name="TVA" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",TVA (1080p)
-https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVO.de" tvg-name="TVO" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",TVO (1080p)
-https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Unserding.de" tvg-name="Unserding" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" group-title="Germany",Unserding (544p)
-https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
-#EXTINF:-1 tvg-id="W24.at" tvg-name="W24" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/J25y9ah.png" group-title="Germany",W24 (720p)
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="http://www.yilmaztv.com/logo/wdr.png" group-title="Germany",WDR Fernsehen (720p)
-https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR HD" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" group-title="Germany",WDR HD (720p)
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master_3628.m3u8
-#EXTINF:-1 tvg-id="WDRKoeln.de" tvg-name="WDR Koeln" tvg-country="DE" tvg-language="German" tvg-logo="http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="Germany",WDR Koeln (720p)
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
-#EXTINF:-1 tvg-id="WesterwaldTV.de" tvg-name="Westerwald TV" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png" group-title="Germany",Westerwald TV (404p)
-https://sdn-global-live-http-cache.3qsdn.com/2980/amlst:5715-sbr/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="Germany",World of Freesports (720p)
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="Germany",World of Freesports
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",ZDF [Geo-blocked]
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",ZDFinfo [Geo-blocked]
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Germany",ZDFneo [Geo-blocked]
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZWEI2Music.de" tvg-name="ZWEI2 Music" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/VVwHID9.png" group-title="Germany",ZWEI2 Music (1080p)
-https://serve-first.folxplay.tv/folx/ch-2/master.m3u8

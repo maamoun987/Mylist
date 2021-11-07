@@ -10,6 +10,10 @@ https://carina.streamerr.co:2020/stream/almadinafm/;stream.mp3
 http://188.247.86.67:8008/2
 #EXTINF:-1 group-title="Syrian_Radio",Fayroz-FM
 https://stream.zeno.fm/24ydgrmvpg8uv.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Dahab-FM
+https://dahab.ice.infomaniak.ch/dahab-192.mp3
+#EXTINF:-1 group-title="Syrian_Radio",Halim-FM
+http://livstream.xyz:8030/radio.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Melody-FM
 http://streaming.inet.sy:8000/melodyfm
 #EXTINF:-1 group-title="Syrian_Radio",Farah-FM	
