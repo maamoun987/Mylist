@@ -8,8 +8,6 @@ http://radioshamfm.grtvstream.com:8400/;stream.nsv
 https://carina.streamerr.co:2020/stream/almadinafm/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
 http://188.247.86.67:8008/2
-#EXTINF:-1 group-title="Syrian_Radio",Madoradio
-http://193.108.118.145:8020/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Fayroz-FM
 https://stream.zeno.fm/24ydgrmvpg8uv.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Dahab-FM
