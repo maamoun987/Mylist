@@ -44,10 +44,14 @@ http://stream.sama-tv.net:8080/hls/samatv.m3u8?720
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:-1 group-title="720",SyriaTv_480
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
-#EXTINF:-1 group-title="1080",MBC_1
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
-#EXTINF:-1 group-title="720",MBC_1 
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
+#EXTINF:-1 group-title="1080",MBC_KSA 
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF:-1 group-title="720",MBC_KSA 
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
+#EXTINF:-1 group-title="1080",MBC_USA 
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index_1.m3u8
+#EXTINF:-1 group-title="720",MBC_USA 
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index_2.m3u8
 #EXTINF:-1 group-title="1080",MBC_Drama_KSA 
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
 #EXTINF:-1 group-title="720",MBC_Drama_KSA 
@@ -60,6 +64,10 @@ https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea8
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 #EXTINF:-1 group-title="720",MBC_Drama_Plus 
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
+#EXTINF:-1 group-title="1080",MBC_Drama_Variety
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80268
+#EXTINF:-1 group-title="720",MBC_Drama_Variety
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80268
 #EXTINF:-1 group-title="1080",MBC_Iraq 
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 #EXTINF:-1 group-title="720",MBC_Iraq 
