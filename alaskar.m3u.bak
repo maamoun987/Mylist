@@ -180,8 +180,6 @@ https://weyyak-live.akamaized.net/weyyak_action/tracks-v1a1/mono.m3u8
 https://weyyak-live.akamaized.net/weyyak_mix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="720",Weyyak_Mix
 https://weyyak-live.akamaized.net/weyyak_mix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="1080",Weyyak_Nawaem
-https://weyyak-live.akamaized.net/weyyak_nawaem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="720",Weyyak_Nawaem
 https://weyyak-live.akamaized.net/weyyak_nawaem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="1080",Wanasah 
