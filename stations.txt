@@ -1,4 +1,4 @@
-####Stations_By_Maamoun_ALKntar####
+####Stations####
 Ninar-FM,http://ninarfm.grtvstream.com:8896/stream,
 Sham-FM,http://radioshamfm.grtvstream.com:8400/;stream.nsv,
 Almadina-FM,https://stream.almadinafm.com/;stream.mp3,
