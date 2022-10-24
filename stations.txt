@@ -2,7 +2,7 @@
 Ninar-FM,http://ninarfm.grtvstream.com:8896/stream,
 Sham-FM,http://radioshamfm.grtvstream.com:8400/;stream.nsv,
 Almadina-FM,https://stream.almadinafm.com/;stream.mp3,
-RotanaTarab-FM,http://188.247.86.67:8008/3,
+RotanaTarab-FM,http://188.247.86.67:8004/stream/3/,
 Madoradio,http://193.108.118.145:8020/;stream.mp3,
 Melody-FM,http://streaming.inet.sy:8000/melodyfm,
 Farah-FM,https://radio.farah.fm/?type=http,

@@ -7,7 +7,7 @@ http://radioshamfm.grtvstream.com:8400/;stream.nsv
 #EXTINF:-1 group-title="Syrian_Radio",Almadina-FM
 https://stream.almadinafm.com/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",RotanaTarab-FM
-http://188.247.86.67:8008/3
+http://188.247.86.67:8004/stream/3/
 #EXTINF:-1 group-title="Syrian_Radio",Madoradio
 http://193.108.118.145:8020/;stream.mp3
 #EXTINF:-1 group-title="Syrian_Radio",Melody-FM
