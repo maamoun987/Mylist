@@ -54,7 +54,7 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio
 https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 
 #EXTINF:-1 group-title="Islamic_Radio",Sharjah_Quran
-https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
 #EXTINF:-1 group-title="Islamic_Radio",Al-Minshawy_1
 https://server03.quran.com.kw:7036/;*.mp3
 #EXTINF:-1 group-title="Islamic_Radio",Al-Minshawy_2

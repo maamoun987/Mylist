@@ -140,10 +140,22 @@ https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15c
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
 #EXTINF:-1 group-title="720",Rotana_Cinema_EGY 
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8
+#EXTINF:-1 group-title="1080",Rotana_Comedy 
+https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/8b19722f7772362323148961d5a4c446.m3u8
+#EXTINF:-1 group-title="720",Rotana_Comedy 
+https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/bdb0213deb17fdcbcd40faf6171c7ccd.m3u8
 #EXTINF:-1 group-title="1080",Rotana_Classic 
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
 #EXTINF:-1 group-title="720",Rotana_Classic 
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_2.m3u8
+#EXTINF:-1 group-title="1080",Rotana_Khalijiah
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
+#EXTINF:-1 group-title="720",Rotana_Khalijiah 
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
+#EXTINF:-1 group-title="1080",Rotana_Drama 
+https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/bb20f06deb32b5161cd66405a37c08a2.m3u8
+#EXTINF:-1 group-title="720",Rotana_Drama
+https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/807905e439854b6ace3651e884e1fac6.m3u8
 #EXTINF:-1 group-title="1080",Rotana_Kids 
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_1.m3u8
 #EXTINF:-1 group-title="720",Rotana_Kids 
@@ -152,6 +164,10 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
 #EXTINF:-1 group-title="720",Rotana_+ 
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
+#EXTINF:-1 group-title="1080",LBC_Int
+https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/eaf11f1dee71a76c8bd4ac4f55ce95ca.m3u8
+#EXTINF:-1 group-title="720",LBC_Int
+https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/c8120ea96505ef7aa7f9e08ca963f0ea.m3u8
 #EXTINF:-1 group-title="1080",Amman_Tv 
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_1280x720_2200k.m3u8
 #EXTINF:-1 group-title="720",Amman_Tv 
@@ -196,3 +212,32 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
 #EXTINF:-1 group-title="720",Spacetoon 
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
+
+
+#EXTINF:-1 group-title="720",Syria_Sat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+#EXTVLCOPT:http-referrer=https://ok.ru/
+https://vsd66.mycdn.me/hls/3123310430838.m3u8/sig/NKNlQtMwOlE/expires/1667731149339/srcIp/194.5.82.120/clientType/0/srcAg/GECKO/mid/4264747343478/3123310430838_high/index.m3u8
+#EXTINF:-1 group-title="720",Syria_Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+#EXTVLCOPT:http-referrer=https://ok.ru/
+https://vsd68.mycdn.me/hls/3123314035318.m3u8/sig/bU8QCD7c4is/expires/1667733392312/srcIp/194.5.82.134/clientType/0/srcAg/GECKO/mid/4264750554742/3123314035318_high/index.m3u8
+#EXTINF:-1 group-title="720",Syria_Ugarit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+#EXTVLCOPT:http-referrer=https://ok.ru/
+https://vsd149.mycdn.me/hls/1071145683574.m3u8/sig/9KiXusJtnIQ/expires/1667734472658/srcIp/176.101.33.97/clientType/0/srcAg/GECKO/mid/2231907917430/1071145683574_high/index.m3u8
+#EXTINF:-1 group-title="720",Syria_Oula
+http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
+#EXTINF:-1 group-title="720",Syria_Oula
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+#EXTVLCOPT:http-referrer=https://ok.ru/
+https://vsd139.mycdn.me/hls/2349118196342.m3u8/sig/i8vMcmD2Vkg/expires/1667737439614/srcIp/82.137.224.192/clientType/0/srcAg/GECKO/mid/3594058866294/2349118196342_high/index.m3u8
+
+#EXTINF:-1 group-title="1080",AD_Sports_1_1080
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="720",AD_Sports_1_720
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="1080",AD_Sports_2_1080
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="720",AD_Sports_2_720
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
